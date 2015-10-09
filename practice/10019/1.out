@@ -1,0 +1,1 @@
+while (fgets(s, 1048576, stdin)) {
