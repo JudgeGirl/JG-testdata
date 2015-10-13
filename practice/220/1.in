@@ -1,0 +1,2423 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir='ltr'>
+<head>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var a=window,b="jstiming",d="tick";var e=function(c){this.t={};this.tick=function(c,p,h){h=void 0!=h?h:(new Date).getTime();this.t[c]=[h,p]};this[d]("start",null,c)},f=new e;a.jstiming={Timer:e,load:f};if(a.performance&&a.performance.timing){var g=a.performance.timing,j=a[b].load,k=g.navigationStart,l=g.responseStart;0<k&&l>=k&&(j[d]("_wtsrt",void 0,k),j[d]("wtsrt_","_wtsrt",l),j[d]("tbsd_","wtsrt_"))}
+try{var m=null;a.chrome&&a.chrome.csi&&(m=Math.floor(a.chrome.csi().pageT),j&&0<k&&(j[d]("_tbnd",void 0,a.chrome.csi().startE),j[d]("tbnd_","_tbnd",k)));null==m&&a.gtbExternal&&(m=a.gtbExternal.pageT());null==m&&a.external&&(m=a.external.pageT,j&&0<k&&(j[d]("_tbnd",void 0,a.external.startE),j[d]("tbnd_","_tbnd",k)));m&&(a[b].pt=m)}catch(n){};a.tickAboveFold=function(c){var i=0;if(c.offsetParent){do i+=c.offsetTop;while(c=c.offsetParent)}c=i;750>=c&&a[b].load[d]("aft")};var q=!1;function r(){q||(q=!0,a[b].load[d]("firstScrollTime"))}a.addEventListener?a.addEventListener("scroll",r,!1):a.attachEvent("onscroll",r);
+ })();</script>
+<meta content='true' name='MSSmartTagsPreventParsing'/>
+<meta content='blogger' name='generator'/>
+<link href='http://edwardbyrne.blogspot.tw/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="One Poet&#39;s Notes - Atom" href="http://edwardbyrne.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="One Poet&#39;s Notes - RSS" href="http://edwardbyrne.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="One Poet&#39;s Notes - Atom" href="http://www.blogger.com/feeds/746549356331646438/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=746549356331646438" />
+<link rel="alternate" type="application/atom+xml" title="One Poet&#39;s Notes - Atom" href="http://edwardbyrne.blogspot.com/feeds/7501589735718083507/comments/default" />
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>One Poet's Notes: Frank O'Hara: "Having a Coke with You"</title>
+<link type='text/css' rel='stylesheet' href='//www.blogger.com/static/v1/widgets/1937454905-widget_css_bundle.css' />
+<link type="text/css" rel="stylesheet" href="//www.blogger.com/dyn-css/authorization.css?targetBlogID=746549356331646438&zx=43466e50-4830-49f1-9f00-a2be3c1dbcf8"/>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Stretch
+Date:     26 Feb 2004
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="bgcolor" description="Page Background Color"
+type="color" default="#fff">
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#58a">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#666">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#999">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#c60">
+<Variable name="bordercolor" description="Border Color"
+type="color" default="#ccc">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#999">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#666">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#999">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 100% Georgia, Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="normal normal 200% Georgia, Serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+/* Use this with templates/template-twocol.html */
+body {
+background:#ffffff;
+margin:0;
+color:#333333;
+font:x-small Georgia Serif;
+font-size/* */:/**/small;
+font-size: /**/small;
+text-align: center;
+}
+a:link {
+color:#5588aa;
+text-decoration:none;
+}
+a:visited {
+color:#5588aa;
+text-decoration:none;
+}
+a:hover {
+color:#940f04;
+text-decoration:underline;
+}
+a img {
+border-width:0;
+}
+/* Header
+-----------------------------------------------
+*/
+#header-wrapper {
+margin:0 2% 10px;
+border:1px solid #cccccc;
+}
+#header {
+margin: 5px;
+border: 1px solid #cccccc;
+text-align: center;
+color:#003366;
+}
+#header-inner {
+background-position: center;
+margin-left: auto;
+margin-right: auto;
+}
+#header h1 {
+margin:5px 5px 0;
+padding:15px 20px .25em;
+line-height:1.2em;
+text-transform:uppercase;
+letter-spacing:.2em;
+font: normal normal 354% Times, serif;
+}
+#header a {
+color:#003366;
+text-decoration:none;
+}
+#header a:hover {
+color:#003366;
+}
+#header .description {
+margin:0 5px 5px;
+padding:0 20px 15px;
+text-transform:uppercase;
+letter-spacing:.2em;
+line-height: 1.4em;
+font: normal normal 86% Times, serif;
+color: #003366;
+}
+#header img {
+margin-left: auto;
+margin-right: auto;
+}
+/* Outer-Wrapper
+----------------------------------------------- */
+#outer-wrapper {
+margin:0;
+padding:10px;
+text-align:left;
+font: normal normal 100% Times, serif;
+}
+#main-wrapper {
+margin-left: 2%;
+width: 67%;
+float: left;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+margin-right: 2%;
+width: 25%;
+float: right;
+display: inline;       /* fix for doubling margin in IE */
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;      /* fix for long non-text content breaking IE sidebar float */
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+margin:1.5em 0 .75em;
+font:normal normal 78% Times, serif;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color:#4c4c4c;
+}
+/* Posts
+-----------------------------------------------
+*/
+h2.date-header {
+margin:1.5em 0 .5em;
+}
+.post {
+margin:.5em 0 1.5em;
+border-bottom:1px dotted #cccccc;
+padding-bottom:1.5em;
+}
+.post h3 {
+margin:.25em 0 0;
+padding:0 0 4px;
+font-size:140%;
+font-weight:normal;
+line-height:1.4em;
+color:#940f04;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+display:block;
+text-decoration:none;
+color:#940f04;
+font-weight:normal;
+}
+.post h3 strong, .post h3 a:hover {
+color:#333333;
+}
+.post-body {
+margin:0 0 .75em;
+line-height:1.6em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+margin: .75em 0;
+color:#4c4c4c;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+line-height: 1.4em;
+}
+.comment-link {
+margin-left:.6em;
+}
+.post img, table.tr-caption-container {
+padding:4px;
+border:1px solid #cccccc;
+}
+.tr-caption-container img {
+border: none;
+padding: 0;
+}
+.post blockquote {
+margin:1em 20px;
+}
+.post blockquote p {
+margin:.75em 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+margin:1em 0;
+font-weight: bold;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color: #4c4c4c;
+}
+#comments-block {
+margin:1em 0 1.5em;
+line-height:1.6em;
+}
+#comments-block .comment-author {
+margin:.5em 0;
+}
+#comments-block .comment-body {
+margin:.25em 0 0;
+}
+#comments-block .comment-footer {
+margin:-.25em 0 2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.1em;
+}
+#comments-block .comment-body p {
+margin:0 0 .75em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar {
+color: #191919;
+line-height: 1.5em;
+}
+.sidebar ul {
+list-style:none;
+margin:0 0 0;
+padding:0 0 0;
+}
+.sidebar li {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:.25em;
+padding-left:15px;
+text-indent:-15px;
+line-height:1.5em;
+}
+.sidebar .widget, .main .widget {
+border-bottom:1px dotted #cccccc;
+margin:0 0 1.5em;
+padding:0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width: 0;
+}
+/* Profile
+----------------------------------------------- */
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+padding: 4px;
+border: 1px solid #cccccc;
+}
+.profile-data {
+margin:0;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+color: #4c4c4c;
+font-weight: bold;
+line-height: 1.6em;
+}
+.profile-datablock {
+margin:.5em 0 .5em;
+}
+.profile-textblock {
+margin: 0.5em 0;
+line-height: 1.6em;
+}
+.profile-link {
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+text-transform: uppercase;
+letter-spacing: .1em;
+}
+/* Footer
+----------------------------------------------- */
+#footer {
+width:660px;
+clear:both;
+margin:0 auto;
+padding-top:15px;
+line-height: 1.6em;
+text-transform:uppercase;
+letter-spacing:.1em;
+text-align: center;
+}
+
+--></style>
+<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("iframes-styles-bubble", function() {
+          if (window.iframes && iframes.open) {
+            iframes.open(
+                '//www.blogger.com/navbar.g?targetBlogID\075746549356331646438\46blogName\75One+Poet\47s+Notes\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75LAYOUTS\46searchRoot\75http://edwardbyrne.blogspot.com/search\46blogLocale\75en_US\46v\0752\46homepageUrl\75http://edwardbyrne.blogspot.com/\46targetPostID\0757501589735718083507\46blogPostOrPageUrl\75http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html\46vt\0755054809493491548275',
+                {
+                  container: "navbar-iframe-container",
+                  id: "navbar-iframe"
+                },
+                {
+                });
+          }
+        });
+      </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='http://edwardbyrne.blogspot.tw/'>One Poet's Notes</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>A Poet and Editor's Recommended Readings or Responses to Poetry, Fiction, Criticism, and Related Arts</span></p>
+</div>
+</div>
+</div></div>
+</div>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget Image' id='Image7'>
+<div class='widget-content'>
+<a href='http://www.valpo.edu/vpr/'>
+<img alt='' height='214' id='Image7_img' src='http://4.bp.blogspot.com/_uQR5uTTeFlc/SS2BNVs_xbI/AAAAAAAAAy8/rsYv2QI7rys/S1600-R/vprhead1.jpg' width='734'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image7&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image7"));' target='configImage7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image21'>
+<div class='widget-content'>
+<a href='http://scholar.valpo.edu/vfr/'>
+<img alt='' height='125' id='Image21_img' src='http://2.bp.blogspot.com/-qeshn_jrtWo/TcHD8_IDOqI/AAAAAAAAB-c/0p8y4XVpkhQ/s748/VFRbanner.jpg' width='740'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image21&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image21"));' target='configImage21' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image13'>
+<h2>POETRY FROM PARADISE VALLEY</h2>
+<div class='widget-content'>
+<a href='http://library.stmarytx.edu/pgpress/authors/editor_edward_byrne/index.html'>
+<img alt='POETRY FROM PARADISE VALLEY' height='499' id='Image13_img' src='http://2.bp.blogspot.com/_uQR5uTTeFlc/TPpwmOFNNEI/AAAAAAAABzg/RgI0UQOdxIo/S1600-R/anthbanner.jpg' width='691'/>
+</a>
+<br/>
+<span class='caption'>Click Image to Visit the Pecan Grove Press Web Page for Poetry from Paradise Valley</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image13&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image13"));' target='configImage13' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image25'>
+<div class='widget-content'>
+<img alt='' height='243' id='Image25_img' src='http://3.bp.blogspot.com/-xv_E9a0GwuI/TtrH2_TzG3I/AAAAAAAACSI/TjcXFkbgFf8/s1600/Paradise700.jpg' width='700'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image25&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image25"));' target='configImage25' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text12'>
+<h2 class='title'>POETRY FROM PARADISE VALLEY web page</h2>
+<div class='widget-content'>
+<span style="color: rgb(0, 153, 0); font-weight: bold;"><span style="color: rgb(51, 51, 255);"><span style="font-style: italic;">Poetry From Paradise Valley</span><br/><br/><span style="color: rgb(0, 0, 0);">Pecan Grove Press has released an anthology of poems, a sampling of works published in <span style="font-style: italic;">Valparaiso Poetry Review</span> during its first decade, from the original 1999-2000 volume to the 2009-2010 volume. </span></span></span><span style="color: rgb(0, 153, 0); font-weight: bold;"><span style="color: rgb(51, 51, 255);"><br/><br/><span style="font-style: italic; color: rgb(0, 0, 0);">Poetry from Paradise Valley</span><span style="color: rgb(0, 0, 0);"> includes a stellar roster of 50 poets. Among the contributors are a former Poet Laureate of the United States, a winner of the Griffin International Prize, two Pulitzer Prize winners, two National Book Award winners, two National Book Critics Circle winners, six finalists for the National Book Award, four finalists for the National Book Critics Circle Award, two finalists for the Pulitzer Prize, and a few dozen recipients of other honors, such as fellowships from the Guggenheim Foundation, the National Endowment for the Arts, etc.</span><br/><br/><span style="color: rgb(0, 0, 0);">Readers are encouraged to visit the <a href="http://library.stmarytx.edu/pgpress/authors/editor_edward_byrne/index.html"><span style="font-style: italic;">Poetry from Paradise Valley</span> page</a> at the publisher's web site, where ordering information </span><span style="color: rgb(0, 0, 0);">about the book can be found.<br/><br/><span style="color: rgb(255, 0, 0);">Best Books of Indiana 2011: Finalist</span>. Judges' Citation: <span style="color: rgb(0, 102, 0);">"</span><span style="font-style: italic; color: rgb(0, 102, 0);">Poetry from Paradise Valley</span><span style="color: rgb(0, 102, 0);"> is an excellent anthology that features world-class poetry, including the work of many artists from the Midwest, such as Jared Carter, Annie Finch, David Baker, and Allison Joseph. It&#8217;s an eclectic and always interesting collection where poems on similar themes flow into each other. It showcases the highest caliber of U. S. poetry." <span style="color: rgb(0, 0, 0);"><br/>&#8212;Indiana Center for the Book, Indiana State Library</span></span></span></span></span><span style="color: rgb(0, 153, 0); font-weight: bold;"><span style="color: rgb(51, 51, 255);"><span style="color: rgb(0, 0, 0);"><br/></span></span></span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text12&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text12"));' target='configText12' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Friday, June 27, 2008</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='7501589735718083507'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+Frank O'Hara: "Having a Coke with You"
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7501589735718083507' itemprop='description articleBody'>
+<object height="344" width="425"><param name="movie" value="http://www.youtube.com/v/YDLwivcpFe8&amp;hl=en"><embed src="http://www.youtube.com/v/YDLwivcpFe8&amp;hl=en" type="application/x-shockwave-flash" height="344" width="425"></embed></object><br /><br /><div style="text-align: justify;">Frank O&#8217;Hara was born on this date (June 27) in 1926. In the rare video above from 1966, just before his death in July of the same year, he presents &#8220;Having a Coke with You.&#8221;<br /></div><br /><blockquote>HAVING A COKE WITH YOU<br /><br />is even more fun than going to San Sebastian, Irún, Hendaye, Biarritz, Bayonne<br />or being sick to my stomach on the Travesera de Gracia in Barcelona<br />partly because in your orange shirt you look like a better happier St. Sebastian<br />partly because of my love for you, partly because of your love for yoghurt<br />partly because of the fluorescent orange tulips around the birches<br />partly because of the secrecy our smiles take on before people and statuary<br />it is hard to believe when I'm with you that there can be anything as still<br />as solemn as unpleasantly definitive as statuary when right in front of it<br />in the warm New York 4 o'clock light we are drifting back and forth<br />between each other like a tree breathing through its spectacles<br /><br />and the portrait show seems to have no faces in it at all, just paint<br />you suddenly wonder why in the world anyone ever did them<br /><br />I look<br />at you and I would rather look at you than all the portraits in the world<br />except possibly for the <span style="font-style: italic;">Polish Rider</span> occasionally and anyway it's in the Frick<br />which thank heavens you haven't gone to yet so we can go together the first time<br />and the fact that you move so beautifully more or less takes care of Futurism<br />just as at home I never think of the <span style="font-style: italic;">Nude Descending a Staircase</span> or<br />at a rehearsal a single drawing of Leonardo or Michelangelo that used to wow me<br />and what good does all the research of the Impressionists do them<br />when they never got the right person to stand near the tree when the sun sank<br />or for that matter Marino Marini when he didn't pick the rider as carefully<br />as the horse<br /><br />it seems they were all cheated of some marvelous experience<br />which is not going to go wasted on me which is why I am telling you about it<br /><br />&#8212;Frank O'Hara<br /></blockquote><br /><div style="text-align: justify;">In his book, <span style="font-style: italic;">The Last Avant-Garde: The Making of the New York School of Poets</span>, David Lehman correctly comments about O&#8217;Hara&#8217;s poetry: &#8220;The surface of O&#8217;Hara&#8217;s poems is so dazzling, with taste so fine and sensibility so rare and appealing, that it comes as a surprise to investigate and realize that there are depths of meaning in his offhanded poems that seem as disarmingly immediate and perishable as telephone calls. The prejudice against humor and lightheartedness in poetry has caused some readers to overlook not only the lyric pathos informing O&#8217;Hara&#8217;s work but also the incisive way his work captures a world, a time, and a place.&#8221;<br /><br />Readers are invited to view some of the other articles at &#8220;One Poet&#8217;s Notes&#8221; with commentary, audio, and video concerning Frank O&#8217;Hara: <a href="http://edwardbyrne.blogspot.com/2009/06/elegant-epigraph-frank-ohara-on-writing.html">&#8220;Frank O&#8217;Hara on Writing About Experience,&#8221;</a> <a href="http://edwardbyrne.blogspot.com/2009/03/painter-and-poet-grace-hartigan-and.html">&#8220;The Poet and the Painter: Grace Hartigan and Frank O&#8217;Hara,&#8221;</a> <a href="http://edwardbyrne.blogspot.com/2008/11/grace-hartigan-and-frank-ohara.html">&#8220;Grace Hartigan and Frank O&#8217;Hara,&#8221;</a> <a href="http://edwardbyrne.blogspot.com/2008/08/larry-rivers-and-frank-ohara.html">&#8220;Larry Rivers and Frank O&#8217;Hara,&#8221;</a> and <a href="http://edwardbyrne.blogspot.com/2008/01/frank-ohara-and-jackson-pollock.html">&#8220;Frank O&#8217;Hara and Jackson Pollock.&#8221;</a><br /><br /><br /><br /></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='http://www.blogger.com/profile/09840825927726253150' itemprop='url'/>
+<meta content='746549356331646438' itemprop='articleBody/aiaBlogId'/>
+<meta content='7501589735718083507' itemprop='articleBody/aiaPostId'/>
+<a href='http://www.blogger.com/profile/09840825927726253150' rel='author' title='author profile'>
+<span itemprop='name'>Edward Byrne</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='http://edwardbyrne.blogspot.tw/2008/06/frank-ohara-having-coke-with-you.html' itemprop='url'/>
+<a class='timestamp-link' href='http://edwardbyrne.blogspot.tw/2008/06/frank-ohara-having-coke-with-you.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2008-06-27T11:48:00-05:00'>Friday, June 27, 2008</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='http://www.blogger.com/email-post.g?blogID=746549356331646438&postID=7501589735718083507' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1953573803'>
+<a href='http://www.blogger.com/post-edit.g?blogID=746549356331646438&postID=7501589735718083507&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=746549356331646438&postID=7501589735718083507&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=746549356331646438&postID=7501589735718083507&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=746549356331646438&postID=7501589735718083507&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=746549356331646438&postID=7501589735718083507&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger:blog:plusone' href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>10 comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+<dt class='comment-author ' id='c7646508436525833721'>
+<a name='c7646508436525833721'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="http://www.blogger.com/profile/09446212454796875908" rel="nofollow" onclick="" class="avatar-hovercard" id="av-0-09446212454796875908"><img src="http://img1.blogblog.com/img/blank.gif" width="32" height="35" alt="" class="delayLoad" style="display: none;" longdesc="http://a614.ac-images.myspacecdn.com/images01/8/m_e4aa9fa7812c0f94eb3f12932f507eed.jpg" title="Gary Parrish">
+
+<noscript><img src="http://a614.ac-images.myspacecdn.com/images01/8/m_e4aa9fa7812c0f94eb3f12932f507eed.jpg" width="32" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='http://www.blogger.com/profile/09446212454796875908' rel='nofollow'>Gary Parrish</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7646508436525833721'>
+<p>
+Thank you Ed for this gift.<BR/><BR/>I had never seen Frank O'Hara read a poem <BR/><BR/>before in my life.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1214588580000#c7646508436525833721' title='comment permalink'>
+June 27, 2008 12:43 PM
+</a>
+<span class='item-control blog-admin pid-2014466379'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=7646508436525833721' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3568458241503554637'>
+<a name='c3568458241503554637'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://www.blogger.com/profile/02171613044501024248" rel="nofollow" onclick="" class="avatar-hovercard" id="av-1-02171613044501024248"><img src="http://img2.blogblog.com/img/b16-rounded.gif" width="16" height="16" alt="" title="Daniel">
+
+</a></span></div>
+<a href='http://www.blogger.com/profile/02171613044501024248' rel='nofollow'>Daniel</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3568458241503554637'>
+<p>
+I'm perpetually in the dark as to why so many can have such a high opinion of O'Hara's poetry.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1214590380000#c3568458241503554637' title='comment permalink'>
+June 27, 2008 1:13 PM
+</a>
+<span class='item-control blog-admin pid-2061406116'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=3568458241503554637' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c5829249425176320259'>
+<a name='c5829249425176320259'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Janet">
+
+</span></div>
+Janet
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-5829249425176320259'>
+<p>
+This reading is quite wonderful--thanks!  I just finished reviewing the new O'Hara *Selected Poems*, edited by Mark Ford--and I wish I had heard the reading first.  Janet
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1214590860000#c5829249425176320259' title='comment permalink'>
+June 27, 2008 1:21 PM
+</a>
+<span class='item-control blog-admin pid-1553459534'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=5829249425176320259' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c8672463661280591716'>
+<a name='c8672463661280591716'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://www.blogger.com/profile/06198658447611008380" rel="nofollow" onclick="" class="avatar-hovercard" id="av-3-06198658447611008380"><img src="http://img2.blogblog.com/img/b16-rounded.gif" width="16" height="16" alt="" title="Kate">
+
+</a></span></div>
+<a href='http://www.blogger.com/profile/06198658447611008380' rel='nofollow'>Kate</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-8672463661280591716'>
+<p>
+What a marvellous poem! & I enjoy the way O'Hara reads it.  Which makes me a bit sad that these readings are so rare . . .
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1214597760000#c8672463661280591716' title='comment permalink'>
+June 27, 2008 3:16 PM
+</a>
+<span class='item-control blog-admin pid-1271914614'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=8672463661280591716' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c5842248201920033055'>
+<a name='c5842248201920033055'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Deja">
+
+</span></div>
+Deja
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-5842248201920033055'>
+<p>
+This poem is so beautiful, just the love he has for her is simply breath taking
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1310536687185#c5842248201920033055' title='comment permalink'>
+July 13, 2011 12:58 AM
+</a>
+<span class='item-control blog-admin pid-1308687803'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=5842248201920033055' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c4441888439816043373'>
+<a name='c4441888439816043373'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-4441888439816043373'>
+<p>
+What a wonderful romantic poem. I am glad to have found out about Frank O&#39;Hara.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1312826888874#c4441888439816043373' title='comment permalink'>
+August 8, 2011 1:08 PM
+</a>
+<span class='item-control blog-admin pid-94441642'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=4441888439816043373' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c9111818854173411120'>
+<a name='c9111818854173411120'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-9111818854173411120'>
+<p>
+As an 18 year old in 1975, I took to walking home with my 15 year old neighbor after school. We would regularly stop at a convenience store on the way, buy Cokes and drink and talk as we walked. I was struck by how intelligent and beautiful she was. I wish I had known about this poem then: she would have loved it and would have been impressed by my knowledge of it. <br /><br />But I&#39;ll tell her about it when she comes home tonight and remind her of that faraway time and place and how we had Cokes together. I&#39;m still amazed at how intelligent and beautiful she is.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1318025326612#c9111818854173411120' title='comment permalink'>
+October 7, 2011 5:08 PM
+</a>
+<span class='item-control blog-admin pid-1270108578'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=9111818854173411120' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c1936911523813962735'>
+<a name='c1936911523813962735'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://cellphonesradiations.com/samsung-sgh-a867" rel="nofollow" onclick=""><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Samsung sgh-a867">
+
+</a></span></div>
+<a href='http://cellphonesradiations.com/samsung-sgh-a867' rel='nofollow'>Samsung sgh-a867</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-1936911523813962735'>
+<p>
+One word to describe this --&gt; beautiful!
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1323351840756#c1936911523813962735' title='comment permalink'>
+December 8, 2011 7:44 AM
+</a>
+<span class='item-control blog-admin pid-74966631'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=1936911523813962735' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c1096948904398270617'>
+<a name='c1096948904398270617'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-1096948904398270617'>
+<p>
+The poem is about how it doesn&#39;t matter what you do in your life... just who you do with it. The most simple things in life, like drinking a coke, can be an incredible experience if you do it with the right person. The artists tried so hard to create beautiful paintings and sculptures, but they never got&#65279; the right person to be in their pieces. And that&#39;s all that matters in an experience; the person, not what you did.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1329097695550#c1096948904398270617' title='comment permalink'>
+February 12, 2012 7:48 PM
+</a>
+<span class='item-control blog-admin pid-1884969094'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=1096948904398270617' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c6925993624717948685'>
+<a name='c6925993624717948685'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="http://img1.blogblog.com/img/blank.gif" width="16" height="16" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6925993624717948685'>
+<p>
+I just heard this for the first time and I am amazed at how  boutifal it is and just like a song by the betles song &quot;All you need is love&quot; helps me under stand that as the aurther was trying to say was that once you find the right person it no longer maters what you do as long that thay are by your side 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html?showComment=1348890277729#c6925993624717948685' title='comment permalink'>
+September 28, 2012 10:44 PM
+</a>
+<span class='item-control blog-admin pid-2063298072'>
+<a class='comment-delete' href='http://www.blogger.com/delete-comment.g?blogID=746549356331646438&postID=6925993624717948685' title='Delete Comment'>
+<img src='//www.blogger.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+</dl>
+</div>
+<p class='comment-footer'>
+<a href='http://www.blogger.com/comment.g?blogID=746549356331646438&amp;postID=7501589735718083507&amp;isPopup=true' onclick='javascript:window.open(this.href, "bloggerPopup", "toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=400,height=450"); return false;'>Post a Comment</a>
+</p>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='http://edwardbyrne.blogspot.tw/2008/06/stanley-clarke.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://edwardbyrne.blogspot.tw/2008/06/sam-francis-summer-no-2.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='http://edwardbyrne.blogspot.tw/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='http://edwardbyrne.blogspot.com/feeds/7501589735718083507/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'en_US'};window.___gapisync = false;(function() {var po = document.createElement('script');po.type = 'text/javascript';po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.body.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();</script>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget Image' id='Image18'>
+<h2>New Publication: Tinted Distances</h2>
+<div class='widget-content'>
+<a href='http://www.turningpointbooks.com/byrne-tinted.html'>
+<img alt='New Publication: Tinted Distances' height='180' id='Image18_img' src='http://3.bp.blogspot.com/-6KXAO23U1k8/Tbz4aU4XxsI/AAAAAAAAB9s/UQPvKYpgZ5o/s187/distancescov180.jpg' width='121'/>
+</a>
+<br/>
+<span class='caption'>Click Image for Information</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image18&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image18"));' target='configImage18' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text15'>
+<div class='widget-content'>
+<span style="font-style: italic; color: rgb(102, 0, 204); font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;"> by Edward Byrne (Turning Point Books, 2011) ISBN: 978-1936370337.</span><br/><br/><span style="font-weight: bold;">The poems of Edward Byrne&#8217;s </span><span style="font-style: italic; font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;"> strongly inhabit the world, even as they meditate on how that world is perceived in art and memory.</span><br/><br/><span style="font-weight: bold;">"</span><span style="font-style: italic; font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;"> is the achievement of a wise and discerning poet."</span><br/><span style="font-weight: bold;">&#8212;Claudia Emerson</span><br/><br/><span style="font-weight: bold;">"(</span><span style="font-style: italic; font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;">) is a wonderful book, one that readers will return to again and again." </span><br/><span style="font-weight: bold;">&#8212;Sherod Santos</span><br/><br/><span style="font-weight: bold;">"</span><span style="font-style: italic; font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;"> is a tender meditation that reveals a careful eye and steady devotion to elegy and ode."</span><br/><span style="font-weight: bold;">&#8212;Dorianne Laux</span><br/><br/><br/><span style="font-style: italic; font-weight: bold;">Tinted Distances</span><span style="font-weight: bold;"> is now available at </span><a style="font-weight: bold;" href="http://www.amazon.com/Tinted-Distances-Edward-Byrne/dp/1936370336/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1303742016&amp;sr=1-1">Amazon</a><span style="font-weight: bold;">, </span><a style="font-weight: bold;" href="http://search.barnesandnoble.com/Tinted-Distances/Edward-Byrne/e/9781936370337/?itm=1&amp;USRI=tinted+distances">Barnes &amp; Noble</a><span style="font-weight: bold;">,</span><span style="font-weight: bold;"> and </span><a style="font-weight: bold;" href="http://www.powells.com/biblio/61-9781936370337-1">Powell's</a><span style="font-weight: bold;">.</span><br/><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text15&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text15"));' target='configText15' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text13'>
+<h2 class='title'>Summer Reading Sale</h2>
+<div class='widget-content'>
+<span style="color: rgb(0, 153, 0); font-weight: bold;">Holiday Season Reading Sale<br/>25% discount on numbered and signed copies:<br/><br/><span style="font-style: italic;">Tinted Distances</span>       $15.00</span><br/><span style="color: rgb(0, 153, 0); font-weight: bold;"><span style="font-style: italic;">Seeded Light    <span style="color: rgb(255, 255, 255);">. . . . </span></span>$13.50</span><br/><span style="color: rgb(0, 153, 0); font-weight: bold;"><span style="font-style: italic;">Tidal Air</span>    <span style="color: rgb(255, 255, 255);">. . . . </span>$10.00</span><br/><br/><span style="font-style: italic; color: rgb(255, 0, 0); font-weight: bold;">Order all three in the trilogy<br/>for 30% discount    <span style="color: rgb(255, 255, 255);">. </span> $35.00<br/>(Free shipping for all orders)<br/></span><br/><span style="font-weight: bold; color: rgb(0, 0, 153);">Mail a check (payable: "Edward Byrne") to Edward Byrne, English Department, Valparaiso University, Valparaiso, IN 46383</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text13&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text13"));' target='configText13' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image16'>
+<h2>Dark Refuge (Whale Sound, 2011)</h2>
+<div class='widget-content'>
+<a href='http://wschap4.wordpress.com/'>
+<img alt='Dark Refuge (Whale Sound, 2011)' height='150' id='Image16_img' src='http://4.bp.blogspot.com/-O4PtJaMBX9k/TXCSGa0Ia9I/AAAAAAAAB4I/vBbw3IEY9s0/s150/darksm.jpg' width='99'/>
+</a>
+<br/>
+<span class='caption'>Click Image for Audio Chapbook</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image16&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image16"));' target='configImage16' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text14'>
+<h2 class='title'>Recent Release</h2>
+<div class='widget-content'>
+<span style="color: rgb(153, 51, 0);"><span style="color: rgb(102, 0, 0);"><span style="font-weight: bold;"><br/>DARK REFUGE</span><br/><br/><span style="color: rgb(0, 0, 0); font-weight: bold;"><a href="http://wschap4.wordpress.com/"><span style="font-style: italic;">Dark Refuge</span></a>, a sequence of poems in an audio chapbook and online text, is now available for free, as well as an mp3 recording, e-book copy, and pdf file of the poetry. A print edition of the book and a cd may also be ordered. </span><br/></span></span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text14&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text14"));' target='configText14' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image11'>
+<h2>SEEDED LIGHT (Turning Point, 2010)</h2>
+<div class='widget-content'>
+<a href='http://www.turningpointbooks.com/byrne.html'>
+<img alt='SEEDED LIGHT (Turning Point, 2010)' height='160' id='Image11_img' src='http://1.bp.blogspot.com/_uQR5uTTeFlc/Sli2oBxWD8I/AAAAAAAABC0/ZUNYOzq0dTk/S187/cover-blog.jpg' width='104'/>
+</a>
+<br/>
+<span class='caption'>Click Image for Information</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image11&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image11"));' target='configImage11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image23'>
+<div class='widget-content'>
+<img alt='' height='91' id='Image23_img' src='http://3.bp.blogspot.com/-93QHYLojofw/TtrEbacRvDI/AAAAAAAACRA/30zJQw44PnM/s187/Seeded300plus.jpg' width='187'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image23&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image23"));' target='configImage23' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text11'>
+<div class='widget-content'>
+<span style="color: rgb(0, 102, 0); font-weight: bold;">Praise for <span style="font-style: italic;">SEEDED LIGHT</span>:</span><br/><br/><span style="color: rgb(0, 0, 0); font-weight: bold;"><a href="http://www.turningpointbooks.com/byrne.html"><span style="font-style: italic;">Seeded Light</span></a> by Edward Byrne (Turning Point Books, 2010)</span><br/><br/><span style="font-weight: bold;"><span style="color: rgb(204, 0, 0);">Best Books of Indiana 2011: Finalist.</span> Judges' Citation:<span style="color: rgb(0, 153, 0);"> <span style="font-style: italic;">"As the title implies, [</span></span></span><span style="font-weight: bold; color: rgb(0, 153, 0);">Seeded Light</span><span style="font-weight: bold;"><span style="color: rgb(0, 153, 0); font-style: italic;">] includes many poems where nature plays an important part. An emphasis on human relationships intertwines with natural description to give these poems philosophical and emotional depths. Byrne brings to life an old family farm gone fallow, a visit to an inn where the speaker spent his honeymoon, and Lester Young playing tenor sax." </span>&#8212;Indiana Center for the Book, Indiana State Library </span><br/><br/><br/><span style="color: rgb(0, 0, 0); font-weight: bold; font-style: italic;">" ... is memorial and social, scenic and intimate ..."</span><br/><span style="color: rgb(0, 0, 0); font-weight: bold;">&#8212;David Baker</span><br/><br/><span style="color: rgb(0, 0, 0); font-weight: bold; font-style: italic;">" ... offers abundant evidence of a mind&#8217;s alertness to the world of nature and to modern urban reality ..."</span><br/><span style="color: rgb(0, 0, 0); font-weight: bold;">&#8212;Alfred Corn<br/><br/><span style="font-style: italic;">"... as mysterious and elusive as the permutations of light and shadow for which Byrne has such a canny eye ... subtly virtuosic displays of rhyme, alliteration, and assonance ..."</span><br/>&#8212;Frank Wilson<br/><span style="font-style: italic;">The Philadelphia Inquirer</span><br/><br/><span style="font-style: italic;">"Rich, shaded, and subtle in texture, with second lines often bleeding into the next couplet, these open couplets expand meaning, encouraging the reader to follow."</span><br/>&#8212;Zara Raab<br/><span style="font-style: italic;">Poemeleon</span><br/><br/><span style="font-style: italic;">"... there is always light, from the slimmest of glimmers to full moony illumination, and it is that light, seeded throughout, that we will remember, long after we close the pages and turn off the lamp."</span><br/>&#8212;Barbara Crooker<br/><span style="font-style: italic;">Rattle<br/></span><br/><span style="font-style: italic;">"The liveliness of any art, Byrne implicitly and convincingly argues, depends on union of emotion and intellect, design and accident."</span><br/>&#8212;Lesley Wheeler<br/><span style="font-style: italic;">The Adirondack Review<br/><br/>&#8220;These poems take readers on very human journeys through translucent landscapes where the world is in some way in balance, or in touch, with what we are. They especially lend themselves to meditative reading, and their gift is a sense of deepened understanding of and participation in the natural world.&#8221;<br/></span><span>&#8212;Janet McCann</span><span style="font-style: italic;"><br/>Yanaguana Literary Review<br/></span><br/><span style="font-style: italic;">"What makes Byrne's poems memorable is his control of plain language that serves as a guiding light."</span><br/>&#8212;JL Kato<br/><span style="font-style: italic;">Tipton Poetry Journal</span><br/></span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text11&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text11"));' target='configText11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text9'>
+<h2 class='title'>ORDER NUMBERED &amp; SIGNED COPIES OF SEEDED LIGHT</h2>
+<div class='widget-content'>
+<span style="font-style: italic; font-weight: bold;">Seeded Light</span> (Turning Point Books, 2010) is Edward Byrne's sixth collection of poetry. The refined poems of this volume invite the reader into a spacious world . . .<br/><br/>ISBN 978-1934999783, 104 pages, $18.00<br/><br/>Available at <a href="http://www.indiebound.org/book/9781934999783">Indiebound</a>, <a href="http://www.amazon.com/Seeded-Light-Edward-Byrne/dp/1934999784/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1261189706&amp;sr=1-1">Amazon</a>, <a href="http://search.barnesandnoble.com/Seeded-Light/Edward-Byrne/e/9781934999783/?itm=1&amp;usri=edward+Byrne+Seeded+Light">Barnes &amp; Noble</a>, and <a href="http://www.powells.com/biblio/61-9781934999783-1">Powell's Books</a>.<br/><br/>Obtain a unique copy of <span style="font-style: italic;">Seeded Light</span>, numbered &amp; signed by the author, at a 25% discount, plus free shipping. Mail a check (payable to "Edward Byrne") for $13.50 to the following:<br/><br/>Edward Byrne<br/>Department of English<br/>Valparaiso University<br/>Valparaiso, IN 46383<br/><br/>Thank you for your interest and support.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text9&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text9"));' target='configText9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image22'>
+<h2>VFR Call for Submissions</h2>
+<div class='widget-content'>
+<a href='http://scholar.valpo.edu/vfr/'>
+<img alt='VFR Call for Submissions' height='187' id='Image22_img' src='http://2.bp.blogspot.com/-yHFZujNuLxo/TcHI3kuo_lI/AAAAAAAAB-k/rQuWlaaj1E4/s187/VFRcall2.jpg' width='144'/>
+</a>
+<br/>
+<span class='caption'>Click Image for Information</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image22&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image22"));' target='configImage22' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image14'>
+<div class='widget-content'>
+<a href='http://www.indiebound.org/book/9781934999783'>
+<img alt='' height='109' id='Image14_img' src='http://1.bp.blogspot.com/_uQR5uTTeFlc/S0tGv-oczEI/AAAAAAAABcM/d7aGn1W5PtM/S187/ShopIndieBlu.png' width='152'/>
+</a>
+<br/>
+<span class='caption'>Independent Booksellers (click logo)</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image14&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image14"));' target='configImage14' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Followers' id='Followers1'>
+<h2 class='title'>Followers</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="http://www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+            
+            
+              holder.currentPost = "http://www.blogger.com/feeds/746549356331646438/posts/default/7501589735718083507";
+            
+            
+            
+              holder.currentComments = "http://www.blogger.com/feeds/746549356331646438/7501589735718083507/comments/default";
+            
+            holder.currentPostUrl = "";
+            holder.currentPostId = 7501589735718083507
+          
+          
+          
+            holder.postFeed = "http://www.blogger.com/feeds/746549356331646438/posts/default";
+          
+          
+          
+            holder.commentFeed = "http://www.blogger.com/feeds/746549356331646438/comments/default";
+          
+          holder.currentBlogUrl = "http://edwardbyrne.blogspot.com/";
+          holder.currentBlogId = "746549356331646438";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-wsbeferz4rwm" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['TITLE'] = "Followers";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#191919";
+    skin['ENDCAP_LINK_COLOR'] = "#5588aa";
+    skin['ALTERNATE_BG_COLOR'] = "transparent";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#5588aa";
+    skin['CONTENT_TEXT_COLOR'] = "#191919";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#5588aa";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#003366";
+    skin['CONTENT_HEADLINE_COLOR'] = "#940f04";
+    skin['FONT_FACE'] = "normal normal 100% Times, serif";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-wsbeferz4rwm",
+     height: 260,
+     
+     
+     
+     site: "00386516137632244971",
+     
+     locale: 'en_US' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList10'>
+<h2>Subscribe to "One Poet's Notes"</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/feeds/posts/default?alt=rss'>"One Poet's Notes" RSS Feed</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/feeds/posts/default'>"One Poet's Notes" Atom Feed</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList10&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList10"));' target='configLinkList10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' id='HTML12'>
+<h2 class='title'>Poetry Blogs</h2>
+<div class='widget-content'>
+<a href="http://www.poetryblogs.org" data-count="rank" data-size="medium" data-id="VagZkdXpOH0iuwHoayeDGRzgBZvix4W4" class="blognation-widget-element">poetryblogs.org</a><script type="text/javascript" src="http://www.blognation.com/bn/widget/bnscript.js?VagZkdXpOH0iuwHoayeDGRzgBZvix4W4"></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML12&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML12"));' target='configHTML12' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image10'>
+<h2>Follow VPR on Twitter</h2>
+<div class='widget-content'>
+<a href='http://twitter.com/valpopoetry'>
+<img alt='Follow VPR on Twitter' height='55' id='Image10_img' src='http://1.bp.blogspot.com/_uQR5uTTeFlc/SiWmPeE01vI/AAAAAAAABAU/MmGdJXyKlkk/S187/twit.jpg' width='150'/>
+</a>
+<br/>
+<span class='caption'>http://twitter.com/valpopoetry</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image10&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image10"));' target='configImage10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text10'>
+<h2 class='title'>VALPOPOETRY</h2>
+<div class='widget-content'>
+<a href="http://twitter.com/valpopoetry">Valpopoetry</a> is <span style="font-style: italic;">Valparaiso Poetry Review</span>'s Twitter list, which regularly informs readers with brief bits of information and news bulletins containing items concerning poetry or poetics. Visitors with Twitter accounts are encouraged to join Valpopoetry for daily updates.<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text10&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text10"));' target='configText10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML8'>
+<h2 class='title'>Followers on Twitter</h2>
+<div class='widget-content'>
+<script type="text/javascript" language="JavaScript" src="http://twittercounter.com/embed/?username=valpopoetry&style=bird"></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' target='configHTML8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML3'>
+<h2 class='title'>Twitter Updates</h2>
+<div class='widget-content'>
+<div id="twitter_div">
+<h2 style="display:none;" class="sidebar-title">Twitter Updates</h2>
+<ul id="twitter_update_list"></ul>
+<a id="twitter-link" style="display:block;text-align:right;" href="http://twitter.com/valpopoetry">follow me on Twitter</a>
+</div>
+<script src="http://twitter.com/javascripts/blogger.js" type="text/javascript"></script>
+<script src="http://twitter.com/statuses/user_timeline/valpopoetry.json?callback=twitterCallback2&amp;count=5" type="text/javascript"></script>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image5'>
+<h2>VPR ON FACEBOOK</h2>
+<div class='widget-content'>
+<a href='http://www.facebook.com/group.php?gid=6536494507'>
+<img alt='VPR ON FACEBOOK' height='50' id='Image5_img' src='http://bp2.blogger.com/_uQR5uTTeFlc/R3ppfRtxgpI/AAAAAAAAASk/TfipB0jG3cs/S184/facebook.jpg' width='133'/>
+</a>
+<br/>
+<span class='caption'>Join VPR Facebook: 2179 members</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image5&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image5"));' target='configImage5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text8'>
+<h2 class='title'>VPR FACEBOOK GROUP AND FAN PAGE</h2>
+<div class='widget-content'>
+Readers are invited to join the <a href="http://valpo.facebook.com/group.php?gid=6536494507&amp;ref=nf"><span style="font-style: italic;">Valparaiso Poetry Review</span> Facebook group</a> for updates on news and publication of latest issues of VPR. This is an open group anyone can join and currently consisting of more than 2100 members. In addition, everyone may participate with commentary on the Facebook page's discussion board about authors and works appearing in all the issues of VPR.<br/><br/>IMPORTANT: All members of this group automatically will be informed whenever new issues of <span style="font-style: italic;">Valparaiso Poetry Review</span> are released or other information concerning news about VPR occurs. This replaces the old VPR mailing list for notification of new issues.<br/><br/>In addition, readers are encouraged to participate in conversations about VPR contents and to display support for the journal by <a href="http://www.facebook.com/pages/VPR-Valparaiso-Poetry-Review/142050712511686?v=wall">becoming a fan</a> of <span style="font-style: italic;">Valparaiso Poetry Review</span>.<br/><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text8&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text8"));' target='configText8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML11'>
+<h2 class='title'>Facebook Badge</h2>
+<div class='widget-content'>
+<!-- Facebook Badge START --><a href="http://www.facebook.com/valparaisofictionreview" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Valparaiso Fiction Review">Valparaiso Fiction Review</a><br/><a href="http://www.facebook.com/valparaisofictionreview" target="_TOP" title="Valparaiso Fiction Review"><img src="http://badge.facebook.com/badge/199704670064572.1928.101055331.png" width="120" height="187" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a><!-- Facebook Badge END -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML11&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML11"));' target='configHTML11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text1'>
+<h2 class='title'>About "One Poet's Notes"</h2>
+<div class='widget-content'>
+"One Poet's Notes" presents ongoing personal commentary by a poet/editor about contemporary poetry, fiction, and criticism, as well as various other issues relating to the literary arts, and it is intended to complement content in the semiannual publications, <a href="http://www.valpo.edu/english/vpr/"><span style="font-style: italic;">Valparaiso Poetry Review</span></a> and <a href="http://scholar.valpo.edu/vfr/"><span style="font-style: italic;">Valparaiso Fiction Review</span></a>.<br/><br/>Collections selected for discussion in this editor's blog include distinguished works published in the last few years by small presses, university presses, or major publishing houses.<br/><br/>In addition, readers are reminded to participate in conversations about VPR contents and to display support for the journal by becoming a fan of <a href="http://www.facebook.com/pages/VPR-Valparaiso-Poetry-Review/142050712511686?v=wall"><span style="font-style: italic;">Valparaiso Poetry Review</span></a> or of <a href="http://www.facebook.com/pages/Valparaiso-Fiction-Review/199704670064572?sk=wall"><span style="font-style: italic;">Valparaiso Fiction Review.</span></a><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text1"));' target='configText1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image1'>
+<h2>Edward Byrne</h2>
+<div class='widget-content'>
+<img alt='Edward Byrne' height='249' id='Image1_img' src='http://2.bp.blogspot.com/_uQR5uTTeFlc/TVJKE0aWmwI/AAAAAAAAB2w/30YGEsAAeq8/s1600/byrne8.jpg' width='279'/>
+<br/>
+<span class='caption'>Editor, VALPARAISO POETRY REVIEW</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image1"));' target='configImage1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Profile' id='Profile1'>
+<h2>About Me</h2>
+<div class='widget-content'>
+<a href='http://www.blogger.com/profile/09840825927726253150'><img alt='My Photo' class='profile-img' height='80' src='http://1.bp.blogspot.com/_uQR5uTTeFlc/SmOxlTfaCeI/AAAAAAAABDY/YU3R2lxJZ4I/S220/edwardbyrne.jpg' width='63'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link' href='http://www.blogger.com/profile/09840825927726253150' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+Edward Byrne
+</a>
+</dt>
+<dd class='profile-data'>Valparaiso, IN, United States</dd>
+<dd class='profile-textblock'>Edward Byrne is the author of eight collections of poetry, most recently a trilogy of volumes: TIDAL AIR (Pecan Grove Press, 2002), SEEDED LIGHT (Turning Point Books, 2010), and TINTED DISTANCES (Turning Point Books,2011). DARK REFUGE (2011), an audio chapbook offering a sequence of poems from AUTISM: A POEM, is available from Whale Sound. He has also edited two anthologies of poetry, including POETRY FROM PARADISE VALLEY (Pecan Grove Press, 2010). In addition, his essays of literary criticism have been published in various journals and book collections, including MARK STRAND (Chelsea House Publishers), edited by Harold Bloom; A CONDITION OF THE SPIRIT: THE LIFE AND WORK OF LARRY LEVIS (Eastern Washington University Press), edited by Christopher Buckley and Alexander Long; &#8220;Claudia Emerson: Literary Criticism&#8221; in POETRY FOR STUDENTS (Thomson Gale Publishing), edited by Ira Mark Milne; and DAVID BOTTOMS: CRITICAL ESSAYS AND INTERVIEWS (McFarland &amp; Co.), edited by William Walsh. He is a professor in the English Department at Valparaiso University, where he serves as editor of VALPARAISO POETRY REVIEW and co-editor of VALPARAISO FICTION REVIEW.
+
+Contact: Edward.Byrne@Valpo.Edu</dd>
+</dl>
+<a class='profile-link' href='http://www.blogger.com/profile/09840825927726253150' rel='author'>View my complete profile</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' id='Image19'>
+<h2>Edward Byrne Web Page</h2>
+<div class='widget-content'>
+<a href='http://edwardbyrne.shutterfly.com/'>
+<img alt='Edward Byrne Web Page' height='85' id='Image19_img' src='http://4.bp.blogspot.com/-qJbAdGDbTp0/Tb0E6C1wV1I/AAAAAAAAB90/TiG-AVyXHjk/s187/cr%253D0.0%252C0.1885442%252C1%252C0.jpg' width='187'/>
+</a>
+<br/>
+<span class='caption'>Click Image to Visit</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image19&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image19"));' target='configImage19' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image12'>
+<h2>Edward Byrne Personal Blog</h2>
+<div class='widget-content'>
+<a href='http://edwardbyrnepoetry.blogspot.com/'>
+<img alt='Edward Byrne Personal Blog' height='36' id='Image12_img' src='http://4.bp.blogspot.com/_uQR5uTTeFlc/TBLYhyGY2EI/AAAAAAAABoU/sduWB1c9J1g/S150/byrnetitleback.jpg' width='150'/>
+</a>
+<br/>
+<span class='caption'>Click on Image to Visit</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image12&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image12"));' target='configImage12' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image20'>
+<h2>Valparaiso Fiction Review</h2>
+<div class='widget-content'>
+<a href='http://scholar.valpo.edu/vfr'>
+<img alt='Valparaiso Fiction Review' height='19' id='Image20_img' src='http://1.bp.blogspot.com/-enPMr84Lvp4/Tb0GKjtP94I/AAAAAAAAB98/JpyWNCYaFgw/s187/VFR.jpg' width='187'/>
+</a>
+<br/>
+<span class='caption'>Click Image to Visit</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image20&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image20"));' target='configImage20' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image3'>
+<h2>Valparaiso Poetry Review</h2>
+<div class='widget-content'>
+<a href='http://www.valpo.edu/vpr/'>
+<img alt='Valparaiso Poetry Review' height='73' id='Image3_img' src='http://photos1.blogger.com/x/blogger2/7654/91131513224077/1600/484910/gse_multipart38425.jpg' width='250'/>
+</a>
+<br/>
+<span class='caption'>Click Image to Visit</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image3"));' target='configImage3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text6'>
+<h2 class='title'>VPR CONTENTS</h2>
+<div class='widget-content'>
+<span style="font-style: italic;">Valparaiso Poetry Review</span> presents poems, interviews, and essays by new, emerging, or well-known poets, including Sherman Alexie, David Baker, John Balaban, Walter Bargen, Claire Bateman, J.P. Dancing Bear, Jared Carter, Billy Collins, Mark Conway, Peter Cooley, Alfred Corn, Barbara Crooker, Kwame Dawes, Cornelius Eady, Lynnell Edwards, W.D. Ehrhart, Claudia Emerson, Bernardine Evaristo, Patricia Fargnoli, Annie Finch, Daisy Fried, Jeff Friedman, Carol Frost, Brendan Galvin, Reginald Gibbons, David Graham, Jonathan Holden, T.R. Hummer, Colette Inez, Gray Jacobik, Allison Joseph, Adrianne Kalfopoulou, Julia Kasdorf, David Kirby, Dorianne Laux, Laurence Lieberman, Frannie Lindsay, Diane Lockward, Rachel Loden, William Matthews, Walt McDonald, Alicia Ostriker, Elise Paschen, Kevin Pilkington, Stanley Plumly, Rochelle Ratner, Sherod Santos, Margot Schilpp, Vivian Shipley, Beth Simon, Jeffrey Skinner, Floyd Skloot, Dave Smith, Kate Sontag, Barry Spacks, Virgil Suarez, Catherine Tufariello, Brian Turner, Ingrid Wendt, Charles Wright, and many more.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text6"));' target='configText6' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text5'>
+<h2 class='title'>BOOK REVIEWS IN VPR</h2>
+<div class='widget-content'>
+<span style="font-style: italic;">Valparaiso Poetry Review</span> contains other book reviews and essays on various poets, including Maggie Anderson, David Baker, John Balaban, Linda Bierds, Elizabeth Bishop, Marianne Boruch, David Bottoms, Jericho Brown, Jared Carter, Sharon Dolin, Rita Dove, Lynnell Edwards, Claudia Emerson, B.H. Fairchild, Patricia Fargnoli, Beth Ann Fennelly, Ann Fisher-Wirth, Jeff Friedman, Carol Frost, Brendan Galvin, Jorie Graham, Zbigniew Herbert, Brenda Hillman, Janet Holmes, Cathy Park Hong, Donald Justice, Adrianne Kalfopoulou, Ilya Kaminsky, Mary Karr, Ted Kooser, Philip Levine, Larry Levis, Rachel Loden, William Matthews, Campbell McGrath, Susan Mitchell, Gregory Orr, Michael Palmer, Sherod Santos, Vivian Shipley, William Stafford, Mark Strand, Brian Turner, Charles Wright, and others. Pages for these can be located in the <a href="http://www.valpo.edu/vpr/archives.html">archives</a> section of VPR.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text5&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text5"));' target='configText5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text2'>
+<h2 class='title'>Submit Review Copies of Books</h2>
+<div class='widget-content'>
+Authors and publishers are invited to submit review copies of recent books to the following address:<span style="font-style: italic;"> </span>Edward Byrne - Editor, Department of English, Valparaiso University, Valparaiso IN 46383-6493
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text2"));' target='configText2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' id='LinkList8'>
+<h2>Selected Poets Reviewed at "One Poet's Notes" (use blog search for commentary on additional poets)</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/2007/07/john-ashbery-self-portrait-in-convex.html'>Ashbery, John</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/06/mary-biddinger-prairie-fever.html'>Biddinger, Mary</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/david-bottoms-waltzing-through-endtime.html'>Bottoms, David</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/05/hart-crane-bridge.html'>Crane, Hart</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/kwame-dawes-wisteria.html'>Dawes, Kwame</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/09/james-dickey-firebombing.html'>Dickey, James</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/rebecca-dunham-miniature-room.html'>Dunham, Rebecca</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/08/bh-fairchild-on-art-craftsmanship-and.html'>Fairchild, B.H.</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/03/jeffrey-franklin-for-lost-boys.html'>Franklin, Jeffrey</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/daisy-fried-my-brother-is-getting.html'>Fried, Daisy</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/10/jeff-friedman-black-threads.html'>Friedman, Jeff</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/07/steve-gehrke-michelangelos-seizure.html'>Gehrke, Steve</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/04/leslie-heywood-proving-grounds.html'>Heywood, Leslie</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/03/joan-houlihan-mending-worm.html'>Houlihan, Joan</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/08/richard-hugos-letter-to-charles-simiv.html'>Hugo, Richard</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/lynda-hulls-collected-poems.html'>Hull, Lynda</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/08/major-jackson-hoops.html'>Jackson, Major</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/03/donald-justice-time-and-weather.html'>Justice, Donald</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/02/galway-kinnell-question-of-life-or.html'>Kinnell, Galway</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/06/maxine-kumin-to-live-gracefully.html'>Kumin, Maxine</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/04/maxine-kumin-jack-and-other-new-poems.html'>Kumin, Maxine</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/dorianne-laux-facts-about-moon.html'>Laux, Dorianne</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/01/philip-levine-on-his-80th-birthday.html'>Levine, Philip</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/philip-levine-breath.html'>Levine, Philip</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/06/larry-levis-passion-matters.html'>Levis, Larry</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/08/robert-lowells-voice.html'>Lowell, Robert</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/03/robert-lowells-legacy-life-studies.html'>Lowell, Robert</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/honor-moore-red-shoes.html'>Moore, Honor</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/10/kay-mullen-long-remembering-return-to.html'>Mullen, Kay</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/01/frank-ohara-and-jackson-pollock.html'>O'Hara, Frank</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/03/greg-pape-american-flamingo.html'>Pape, Greg</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/05/peter-pereira-whats-written-on-body.html'>Pereira, Peter</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/06/theodore-roethke-my-papas-waltz.html'>Roethke, Theodore</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/kay-ryan-niagara-river.html'>Ryan, Kay</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/03/margot-schilpp-laws-of-my-nature.html'>Schilpp.Margot</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/charles-simic-my-noiseless-entourage.html'>Simic, Charles</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/dave-smith-little-boats-unsalvaged.html'>Smith, Dave</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/05/gary-snyder-natural-selection.html'>Snyder, Gary</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/01/william-stafford-traveling-through-dark.html'>Stafford, William</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/04/mark-strand-man-and-camel.html'>Strand, Mark</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/04/marking-mark-strands-birthday.html'>Strand, Mark</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/05/virgil-surez-90-miles-selected-and-new.html'>Suarez, Virgil</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/daniel-tobin-narrows.html'>Tobin, Daniel</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/02/ann-townsend-coronary-garden.html'>Townsend, Ann</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/brian-turners-here-bullet.html'>Turner, Brian</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/01/kathrine-varnes-paragon.html'>Varnes, Kathrine</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/06/ellen-bryant-voigt-messenger-new-and.html'>Voigt, Ellen Bryant</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/04/derek-walcott-prodigal.html'>Walcott, Derek</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/01/derek-walcott-sixty-years-of-poetry.html'>Walcott, Derek</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/06/philip-white-clearing.html'>White, Philip</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/03/charles-wright-scar-tissue.html'>Wright, Charles</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/02/james-wright-autumn-begins-in-martins.html'>Wright, James</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList8&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList8"));' target='configLinkList8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList6'>
+<h2>VPR Editor's Picks: Recommended Readings</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/2009/07/veiled-suite-collected-poems-agha.html'>Ali, Agha Shahid</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/12/light-from-bullet-hole-poems-new-and.html'>Salisbury, Ralph</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList6&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList6"));' target='configLinkList6' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList5'>
+<h2>POETRY AUDIO AND VIDEO LINKS</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/robert-penn-warren-and-fugitive-poets.html'>Allen Tate (4/24/10)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/12/poet-of-year-rae-armantrout.html'>Armantrout, Rae (12/12/10)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/05/recalling-craig-arnold.html'>Arnold, Craig (5/8/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/03/john-ashbery-forties-flick-contemporary.html'>Ashbery, John (3/8/09)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15460'>Ashbery, John (7/27/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/07/john-ashbery-interesting-people-of.html'>Ashbery, John (7/28/09)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/16312'>Baker, David (7/1/07)</a></li>
+<li><a href='http://www.lannan.org/lf/rc/event/john-balaban/'>Balaban, John (10/16/07)</a></li>
+<li><a href='http://archive.salon.com/audio/poetry/2001/11/27/bishop/index.html'>Bishop, Elizabeth (5/24/07)</a></li>
+<li><a href='http://www.georgiaencyclopedia.org/nge/Multimedia.jsp?id=m-1458'>Bottoms, David (10/26/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/10/hayden-carruth-ray.html'>Carruth, Hayden (10/1/08)</a></li>
+<li><a href='http://www.loc.gov/locvideo/bcollins/collins1.html'>Collins, Billy (10/2/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/04/remembering-deborah-digges.html'>Digges, Deborah (4/14/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/robert-penn-warren-and-fugitive-poets.html'>Donald Davidson (4/24/10)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/12/poet-of-year-mark-doty.html'>Doty, Mark (12/13/08)</a></li>
+<li><a href='http://www.lannan.org/lf/rc/event/stuart-dybek/'>Dybek, Stuart (9/29/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/02/cornelius-eady-to-visit-valparaiso.html'>Eady, Cornelius (2/9/10)</a></li>
+<li><a href='http://www.lannan.org/lf/rc/event/b-h-fairchild/'>Fairchild, B.H. (8/30/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/03/celebrating-lawrence-ferlinghettis-90th.html'>Ferlinghetti, Lawrence (3/24/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/03/robert-frost-speaks-about-his-poetry.html'>Frost, Robert (3/26/10)</a></li>
+<li><a href='http://www.lib.msu.edu/vincent/writers/fall01/092801.htm'>Gildner, Gary (10/7/07)</a></li>
+<li><a href='http://writing.upenn.edu/pennsound/x/Ginsberg-Blake.html'>Ginsberg, Allen (11/28/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/12/allen-ginsbergs-howl-movie.html'>Ginsberg, Allen (12/3/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/09/donald-hall-sound-and-sense-in-poetry.html'>Hall, Donald (9/20/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2007/11/robert-hass-imagination-and-image.html'>Hass, Robert (11/15/07)</a></li>
+<li><a href='http://forum.wgbh.org/wgbh/forum.php?lecture_id=1728'>Hirsch, Edward (2/14/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/robert-penn-warren-and-fugitive-poets.html'>John Crowe Ransom (4/24/10)</a></li>
+<li><a href='http://www.rps.psu.edu/word/kasdorf/discussion.html'>Kasdorf, Julia (9/16/07)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15927'>Kinnell, Galway (2/1/08)</a></li>
+<li><a href='http://www.wgbh.org/wgbh/NTW/FA/TITLES/Poetry78.HTML'>Kinnell, Galway (2/1/08)</a></li>
+<li><a href='http://www.csmonitor.com/slideshows/2008/kumin/'>Kumin, Maxine (6/6/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/maxine-kumin-seven-caveats-in-may.html'>Kumin, Maxine (6/6/09)</a></li>
+<li><a href='http://www.youtube.com/watch?v=6dhQrCq4s14'>Levine, Philip (1/10/08)</a></li>
+<li><a href='http://www.lannan.org/lf/rc/event/philip-levine/'>Levine, Philip (1/10/08)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15940'>Levine, Philip (1/10/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/07/edgar-degas-and-philip-levine.html'>Levine, Philip (7/19/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/09/philip-levines-what-work-is-on-labor.html'>Levine, Philip (9/7/09)</a></li>
+<li><a href='http://www.blackbird.vcu.edu/v2n2/poetry/levis_l/start.htm'>Levis, Larry (6/9/07)</a></li>
+<li><a href='http://www.writing.upenn.edu/pennsound/x/Lindsay.html'>Lindsay, Vachel (12/24/07)</a></li>
+<li><a href='http://www.salon.com/audio/2000/10/05/lowell/index.html'>Lowell, Robert (8/18/07)</a></li>
+<li><a href='http://www.fishousepoems.org/archives/sebastian_matthews/live_at_the_village_vanguard.shtml'>Matthews, Sebastian (8/16/08)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15554'>Meredith, William (5/31/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/04/ws-merwin-wins-pulitzer-prize-in-poetry.html'>Merwin, W.S. (4/21/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/paul-muldoon-with-stephen-colbert.html'>Muldoon, Paul (6/22/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html'>O'Hara, Frank (6/27/08)</a></li>
+<li><a href='http://www.lannan.org/lf/bios/detail/mary-oliver/'>Oliver, Mary (3/26/08)</a></li>
+<li><a href='http://www.lannan.org/lf/rc/event/mary-oliver1/'>Oliver, Mary (3/26/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/robert-penn-warren-and-fugitive-poets.html'>Robert Penn Warren (4/24/10)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/18045'>Roethke, Theodore (6/16/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/07/kay-ryan-poet-laureate-of-united-states.html'>Ryan, Kay (7/16/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/11/anne-sexton-on-her-life-and-importance.html'>Sexton, Anne (11/9/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/01/wd-snodgrass-appreciation.html'>Snodgrass, W.D. (1/5/09)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/search?q=Gary+Snyder'>Snyder, Gary (5/4/08)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/10/wallace-stevens-and-his-influence.html'>Stevens, Wallace (10/2/08)</a></li>
+<li><a href='http://www.larrydthomas.com/listen.htm'>Thomas, Larry D. (11/27/07)</a></li>
+<li><a href='http://www.cortlandreview.com/issue/29/tobin.html'>Tobin, Daniel (10/23/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/04/duke-ellington-and-quincy-troupe.html'>Troupe, Quincy (4/29/09)</a></li>
+<li><a href='http://www.fishousepoems.org/archives/brian_turner/index.shtml'>Turner, Brian (11/10/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/03/helen-vendler-robert-lowell-modernism.html'>Vendler, Helen (3/1/10)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/11/barack-obama-and-derek-walcott.html'>Walcott, Derek (11/9/08)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15947'>Warren, Robert Penn (5/18/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/06/john-wieners-poem-for-record-players.html'>Wieners, John (6/23/08)</a></li>
+<li><a href='http://www.learner.org/catalog/extras/vvspot/video/williams.html'>Williams, William Carlos (11/7/07)</a></li>
+<li><a href='http://media.sas.upenn.edu/pennsound/authors/Williams-WC/02_Library-of-Congress_05-05-45/Williams-WC_39_Burning-the-Christmas_Library-of-Congress_05-05-45.mp3'>Williams, William Carlos (12/26/07)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/cd-wright-wins-griffin-prize-for.html'>Wright, C.D. (6/4/09)</a></li>
+<li><a href='http://www.poets.org/viewmedia.php/prmMID/15590'>Wright, James (10/7/07)</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList5&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList5"));' target='configLinkList5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList9'>
+<h2>An Elegant Epigraph</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/2008/09/elegant-epigraph-ts-eliot-on.html'>Eliot, T.S. (On Contemporary Poets and Poets of the Past)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/12/elegant-epigraph-richard-hugo-on.html'>Hugo, Richard (On Triggering the Imagination)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/06/elegant-epigraph-randall-jarrell-on.html'>Jarrell, Randall (On Qualities of a Critic)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/02/elegant-epigraph-galway-kinnell-on.html'>Kinnell, Galway (On Inspiration and the Poetic Process)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/07/elegant-epigraph-yusef-komunyakaa.html'>Komunyakaa, Yusef (On Sound and Meaning in Poetry)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/05/elegant-epigraph-stanley-kunitz-on-poet.html'>Kunitz, Stanley (On the Poet and the Poem)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/07/robert-lowell-cooked-poetry-and-raw.html'>Lowell, Robert (On Cooked Poetry and Raw Poetry)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/07/elegant-epigraph-william-matthews-on.html'>Matthews, William (On Subject Matter in Poetry)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/elegant-epigraph-frank-ohara-on-writing.html'>O'Hara, Frank (On Writing About Experience)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/06/gregory-orr-on-romanticism-and-personal.html'>Orr, Gregory (On Romanticism and the Personal Lyric)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/04/elegant-epigraph-robert-pinsky-on.html'>Pinsky, Robert (On the Medium of Poetry)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/10/elegant-epigraph-sylvia-plath-on-act-of.html'>Plath, Sylvia (On the Act of Writing)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/08/elegant-epigraph-louis-simpson-on-truth.html'>Simpson, Louis (On Truth in Poetry)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/09/major-achievement-of-wallace-stevens.html'>Stevens, Wallace (John N. Serio on the Poet's Major Achivement)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/08/elegant-epigraph-charles-wright-on-free.html'>Wright, Charles (On the Free Verse Line)</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/elegant-epigraph-william-butler-yeats.html'>Yeats, W.B. (On Sources of Imagination)</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList9&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList9"));' target='configLinkList9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList11'>
+<h2>Contemporary Poetry Series</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://edwardbyrne.blogspot.com/2009/03/john-ashbery-forties-flick-contemporary.html'>Ashbery, John: "Forties Flick"</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/04/richard-hugo-death-of-kapowsin-tavern.html'>Hugo, Richard: "Death of the Kapowsin Tavern"</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList11&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList11"));' target='configLinkList11' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Text' id='Text7'>
+<h2 class='title'>VPR Poem of the Week</h2>
+<div class='widget-content'>
+Each week <span style="font-style: italic;">One Poet's Notes</span> will try to highlight work by a poet selected from the issues of <span style="font-style: italic;">Valparaiso Poetry Review</span>. According to the children's rhyme, "Tuesday's child is full of grace." Therefore, graceful poems from VPR's issues will be featured on Tuesdays except when other posts with news or updates preempt the usual appearance of this item.<br/><br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text7&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text7"));' target='configText7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' id='LinkList4'>
+<h2>Past Featured Poets</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://www.valpo.edu/vpr/aarneskindly.html'>Aarnes, William</a></li>
+<li><a href='http://www.valpo.edu/vpr/alexanderits.html'>Alexander, Jonathan</a></li>
+<li><a href='http://www.valpo.edu/vpr/alexiehomily.html'>Alexie, Sherman</a></li>
+<li><a href='http://www.valpo.edu/vpr/auchterphotograph.html'>Auchter, Amanda</a></li>
+<li><a href='http://www.valpo.edu/vpr/auchterwasteland.html'>Auchter, Amanda</a></li>
+<li><a href='http://www.valpo.edu/vpr/balabanfinishing.html'>Balaban, John</a></li>
+<li><a href='http://www.valpo.edu/vpr/balbofrom.html'>Balbo, Ned</a></li>
+<li><a href='http://www.valpo.edu/vpr/balboon.html'>Balbo, Ned</a></li>
+<li><a href='http://www.valpo.edu/vpr/ballardreinvited.html'>Ballard, Barry</a></li>
+<li><a href='http://www.valpo.edu/vpr/ballardautumn.html'>Ballard, Barry</a></li>
+<li><a href='http://www.valpo.edu/vpr/ballardpeach.html'>Ballard, Jon</a></li>
+<li><a href='http://www.valpo.edu/vpr/ballardpeach.html'>Ballard, Jon</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n2/v12n2poetry/bargenprague.php'>Bargen, Walter</a></li>
+<li><a href='http://www.valpo.edu/vpr/bargenvisual.html'>Bargen, Walter</a></li>
+<li><a href='http://www.valpo.edu/vpr/barnstoneoh.html'>Barnstone, Tony</a></li>
+<li><a href='http://www.valpo.edu/vpr/bartleymoon.html'>Bartley, Jackie</a></li>
+<li><a href='http://www.valpo.edu/vpr/bartleymoon.html'>Bartley, Jackie</a></li>
+<li><a href='http://www.valpo.edu/vpr/batemanflight.html'>Bateman, Claire</a></li>
+<li><a href='http://www.valpo.edu/vpr/batemananother.html'>Bateman, Claire</a></li>
+<li><a href='http://www.valpo.edu/vpr/baumgaertnerhow.html'>Baumgaertner, Jill Pelåez</a></li>
+<li><a href='http://www.valpo.edu/vpr/baumgaertneruprooted.html'>Baumgaertner, Jill Pelåez</a></li>
+<li><a href='http://www.valpo.edu/vpr/bergerexposure.html'>Berger, Maxianne</a></li>
+<li><a href='http://www.valpo.edu/vpr/bittingpremiere.html'>Bitting, Michelle</a></li>
+<li><a href='http://www.valpo.edu/vpr/blaeserapprenticed.html'>Blaeser, Kimberly</a></li>
+<li><a href='http://www.valpo.edu/vpr/bogenoctober.html'>Bogen, Deborah</a></li>
+<li><a href='http://www.valpo.edu/vpr/bogennovember.html'>Bogen, Deborah</a></li>
+<li><a href='http://www.valpo.edu/vpr/bondat.html'>Bond, David</a></li>
+<li><a href='http://www.valpo.edu/vpr/brewerapologia.html'>Brewer, Gaylord</a></li>
+<li><a href='http://www.valpo.edu/vpr/bridgfordremembrance.html'>Bridgford, Kim</a></li>
+<li><a href='http://www.valpo.edu/vpr/broughtonbird.html'>Broughton, T. Alan</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/brucksnapshot.php'>Bruck, Julie</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/08/poem-of-week-beach-at-moons-resort-by.html'>Burrows, E.G.</a></li>
+<li><a href='http://www.valpo.edu/vpr/Cervantes.html'>Cervantes, James</a></li>
+<li><a href='http://www.valpo.edu/vpr/cessacromance.html'>Cessac, Christopher</a></li>
+<li><a href='http://www.valpo.edu/vpr/chaserechinoidea.html'>Chasar, Mike</a></li>
+<li><a href='http://www.valpo.edu/vpr/clarkgrove.html'>Clark, Patricia</a></li>
+<li><a href='http://www.valpo.edu/vpr/coleshawks.html'>Coles, Katharine</a></li>
+<li><a href='http://www.valpo.edu/vpr/collinsfiftieth.html'>Collins, Billy</a></li>
+<li><a href='http://www.valpo.edu/vpr/conwayorpheus.html'>Conway, Mark</a></li>
+<li><a href='http://www.valpo.edu/vpr/cooleyclimbers.html'>Cooley, Peter</a></li>
+<li><a href='http://www.valpo.edu/vpr/cornswiss.html'>Corn, Alfred</a></li>
+<li><a href='http://www.valpo.edu/vpr/crookerdriving.html'>Crooker, Barbara</a></li>
+<li><a href='http://www.valpo.edu/vpr/crookerin.html'>Crooker, Barbara</a></li>
+<li><a href='http://www.valpo.edu/vpr/cuccionew.html'>Cuccio, Christine</a></li>
+<li><a href='http://www.valpo.edu/vpr/dabydeenanacondas.html'>Dabydeen, Cyril</a></li>
+<li><a href='http://www.valpo.edu/vpr/dalybuttercup.html'>Daly, Catherine</a></li>
+<li><a href='http://www.valpo.edu/vpr/dancingbearisland.html'>Dancing Bear, J.P.</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2011/11/poem-of-week-singer-and-his-sewing.html'>Davis, Carol V.</a></li>
+<li><a href='http://www.valpo.edu/vpr/dawesrituals.html'>Dawes, Kwame</a></li>
+<li><a href='http://www.valpo.edu/vpr/dobbersteinweight.html'>Dobberstein, Michael</a></li>
+<li><a href='http://www.valpo.edu/vpr/dobbsi.html'>Dobbs, Jeannine</a></li>
+<li><a href='http://www.valpo.edu/vpr/donaghysnapshot.html'>Donaghy, Daniel</a></li>
+<li><a href='http://www.valpo.edu/vpr/donnellycongo.html'>Donnelly, Susan</a></li>
+<li><a href='http://www.valpo.edu/vpr/dunhamtwo.html'>Dunham, Rebecca</a></li>
+<li><a href='http://www.valpo.edu/vpr/eadyinaugural.html'>Eady, Cornelius</a></li>
+<li><a href='http://www.valpo.edu/vpr/eadyaretha.html'>Eady, Cornelius</a></li>
+<li><a href='http://www.valpo.edu/vpr/edwardsto.html'>Edwards, Lynnell</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/poem-of-week-easter-monday-by-lynnell.html'>Edwards, Lynnell</a></li>
+<li><a href='http://www.valpo.edu/vpr/elbewill.html'>Elbe, Susan</a></li>
+<li><a href='http://www.valpo.edu/vpr/ellisheavy.html'>Ellis, Chris</a></li>
+<li><a href='http://www.valpo.edu/vpr/ellisfinding.html'>Ellis, Chris</a></li>
+<li><a href='http://www.valpo.edu/vpr/evaristoprice.html'>Evaristo, Bernardine</a></li>
+<li><a href='http://www.valpo.edu/vpr/evaristobetrothal.html'>Evaristo, Bernardine</a></li>
+<li><a href='http://www.valpo.edu/vpr/fargnolicold.html'>Fargnoli, Patricia</a></li>
+<li><a href='http://www.valpo.edu/vpr/fargnolihopper.html'>Fargnoli, Patricia</a></li>
+<li><a href='http://www.valpo.edu/vpr/finchwine.html'>Finch, Annie</a></li>
+<li><a href='http://www.valpo.edu/vpr/fisher-wirthsweetgum.html'>Fisher-Wirth, Ann</a></li>
+<li><a href='http://www.valpo.edu/vpr/fishmanpassing.html'>Fishman, Charles</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n2/v12n2poetry/foxno.php'>Fox, Kate</a></li>
+<li><a href='http://www.valpo.edu/vpr/friedmantwo.html'>Friedman, Jeff</a></li>
+<li><a href='http://www.valpo.edu/vpr/frimanthis.html'>Friman, Alice</a></li>
+<li><a href='http://www.valpo.edu/vpr/frithfigures.html'>Frith, Carol</a></li>
+<li><a href='http://www.valpo.edu/vpr/frostone.html'>Frost, Carol</a></li>
+<li><a href='http://www.valpo.edu/vpr/galvinneolithic.html'>Galvin, Brendan</a></li>
+<li><a href='http://www.valpo.edu/vpr/garveywasp.html'>Garvey, Pamela</a></li>
+<li><a href='http://www.valpo.edu/vpr/gemindesire.html'>Gemin, Pamela</a></li>
+<li><a href='http://www.valpo.edu/vpr/gibbonsrefuge.html'>Gibbons, Reginald</a></li>
+<li><a href='http://www.valpo.edu/vpr/gibbonslogic.html'>Gibbons, Reginald</a></li>
+<li><a href='http://www.valpo.edu/vpr/grahamcold.html'>Graham, David</a></li>
+<li><a href='http://www.valpo.edu/vpr/hartspell.html'>Gwen Hart</a></li>
+<li><a href='http://www.valpo.edu/vpr/hainesswallowed.html'>Haines, Anne</a></li>
+<li><a href='http://www.valpo.edu/vpr/hallnew.html'>Hall, H. Palmer</a></li>
+<li><a href='http://www.valpo.edu/vpr/henryjumpshots.html'>Henry, Daniel</a></li>
+<li><a href='http://www.valpo.edu/vpr/hillilagrant.html'>Hillila, Bernhard</a></li>
+<li><a href='http://www.valpo.edu/vpr/holdenthenames.html'>Holden, Jonathan</a></li>
+<li><a href='http://www.valpo.edu/vpr/holdenknowing.html'>Holden, Jonathan</a></li>
+<li><a href='http://www.valpo.edu/vpr/inezdoors.html'>Inez, Colette</a></li>
+<li><a href='http://www.valpo.edu/vpr/jacobiksasturgi.html'>Jacobik, Gray</a></li>
+<li><a href='http://www.valpo.edu/vpr/kalfopoulouholy.html'>Kalfopoulou, Adrianne</a></li>
+<li><a href='http://www.valpo.edu/vpr/karetnickmillipedes.html'>Karetnick, Jen</a></li>
+<li><a href='http://www.valpo.edu/vpr/keelerour.html'>Keeler, Greg</a></li>
+<li><a href='http://www.valpo.edu/vpr/kempclimbing.html'>Kemp, Robin</a></li>
+<li><a href='http://www.valpo.edu/vpr/kerchevalbang.html'>Kercheval, Jesse Lee</a></li>
+<li><a href='http://www.valpo.edu/vpr/knorrwinter.html'>Knorr, Jeff</a></li>
+<li><a href='http://www.valpo.edu/vpr/knoxpentecost.html'>Knox, John</a></li>
+<li><a href='http://www.valpo.edu/vpr/koenenaugust.html'>Koenen, Jan</a></li>
+<li><a href='http://www.valpo.edu/vpr/kotzinremission.html'>Kotzin, Miriam N.</a></li>
+<li><a href='http://www.valpo.edu/vpr/kovacikflooding.html'>Kovacik, Karen</a></li>
+<li><a href='http://www.valpo.edu/vpr/krapfstill.html'>Krapf, Norbert</a></li>
+<li><a href='http://www.valpo.edu/vpr/krapfblueberry.html'>Krapf, Norbert</a></li>
+<li><a href='http://www.valpo.edu/vpr/lachowskilooking.html'>Lachowski, Cheryl</a></li>
+<li><a href='http://www.valpo.edu/vpr/v13n1/v13n1poetry/lackayetrick.php'>Lackaye, Stephen</a></li>
+<li><a href='http://www.valpo.edu/vpr/lauxmine.html'>Laux, Dorianne</a></li>
+<li><a href='http://www.valpo.edu/vpr/lechliterbobby.html'>Lechliter, Gary</a></li>
+<li><a href='http://www.valpo.edu/vpr/lewisthreat.html'>Lewis, Lisa</a></li>
+<li><a href='http://www.valpo.edu/vpr/liebermanangel.html'>Lieberman, Laurence</a></li>
+<li><a href='http://www.valpo.edu/vpr/lietzadapting.html'>Lietz, Robert</a></li>
+<li><a href='http://www.valpo.edu/vpr/darstjune.html'>Lightsey Darst</a></li>
+<li><a href='http://www.valpo.edu/vpr/lindsaytalking.html'>Lindsay, Frannie</a></li>
+<li><a href='http://www.valpo.edu/vpr/linxweilermistaken.html'>Linxweiler, Mary</a></li>
+<li><a href='http://www.valpo.edu/vpr/liskmetaphors.html'>Lisk, Thomas David</a></li>
+<li><a href='http://www.valpo.edu/vpr/lodenreconstructed.html'>Loden, Rachel</a></li>
+<li><a href='http://www.valpo.edu/vpr/longcold.html'>Long, Joel</a></li>
+<li><a href='http://www.valpo.edu/vpr/macphersonaphasia.html'>MacPherson, Jennifer</a></li>
+<li><a href='http://www.valpo.edu/vpr/matthewson.html'>Matthews, William</a></li>
+<li><a href='http://www.valpo.edu/vpr/mccannbookstore.html'>McCann, Janet</a></li>
+<li><a href='http://www.valpo.edu/vpr/mccanntaking.html'>McCann, Janet</a></li>
+<li><a href='http://www.valpo.edu/vpr/mccolloughscroll.html'>McCollough, Joel</a></li>
+<li><a href='http://www.valpo.edu/vpr/McDonaldbosnia.html'>McDonald, Walt</a></li>
+<li><a href='http://www.valpo.edu/vpr/McDonaldleaving.html'>McDonald, Walt</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/montgomeryblue.php'>Montgomery, Judith</a></li>
+<li><a href='http://www.valpo.edu/vpr/mulkeyconnecting.html'>Mulkey, Rick</a></li>
+<li><a href='http://www.valpo.edu/vpr/nelsonbusy.html'>Nelson, Paul</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/07/jeff-newberry-pantoum-on-line-by-weldon.html'>Newberry, Jeff</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/06/joey-nicoletti-cook-out.html'>Nicoletti, Joey</a></li>
+<li><a href='http://www.valpo.edu/vpr/v13n1/v13n1poetry/nievesthrough.php'>Nieves, John A.</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n2/v12n2poetry/nordhausall.php'>Nordhaus, Jean</a></li>
+<li><a href='http://www.valpo.edu/vpr/oconnellvoladores.html'>O'Connell, Richard</a></li>
+<li><a href='http://www.valpo.edu/vpr/ostrikersurface.html'>Ostriker, Alicia</a></li>
+<li><a href='http://www.valpo.edu/vpr/paschencicadas.html'>Paschen, Elise</a></li>
+<li><a href='http://www.valpo.edu/vpr/pauflight.html'>Pau-Llosa, Ricardo</a></li>
+<li><a href='http://www.valpo.edu/vpr/peckhamnightwalking.html'>Peckham, Joel</a></li>
+<li><a href='http://www.valpo.edu/vpr/perrysnow.html'>Perry, Margaret</a></li>
+<li><a href='http://www.valpo.edu/vpr/perryatstes.html'>Perry, Margaret</a></li>
+<li><a href='http://www.valpo.edu/vpr/petersonsuperstition.html'>Peterson, Allan</a></li>
+<li><a href='http://www.valpo.edu/vpr/pfingstonmountain.html'>Pfingston, Roger</a></li>
+<li><a href='http://www.valpo.edu/vpr/pfingstonparking.html'>Pfingston, Roger</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/daceychoreographing.php'>Philip Dacey</a></li>
+<li><a href='http://www.valpo.edu/vpr/pilkingtonpromises.html'>Pilkington, Kevin</a></li>
+<li><a href='http://www.valpo.edu/vpr/pilkingtoncapri.html'>Pilkington, Kevin</a></li>
+<li><a href='http://www.valpo.edu/vpr/plumlythemorning.html'>Plumly, Stanley</a></li>
+<li><a href='http://www.valpo.edu/vpr/poloskeygraveyard.html'>Poloskey, Marianne</a></li>
+<li><a href='http://www.valpo.edu/vpr/rabasreseed.html'>Rabas, Kevin</a></li>
+<li><a href='http://www.valpo.edu/vpr/v13n1/v13n1poetry/ramspeckoctober.php'>Ramspeck, Doug</a></li>
+<li><a href='http://www.valpo.edu/vpr/ratnerfish.html'>Ratner, Rochelle</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/poem-of-week-forcing-forsythia-by.html'>Reiter, Thomas</a></li>
+<li><a href='http://www.valpo.edu/vpr/reposalines.html'>Reposa, Carol Coffee</a></li>
+<li><a href='http://www.valpo.edu/vpr/richwaving.html'>Rich, Susan</a></li>
+<li><a href='http://www.valpo.edu/vpr/riouxpossum.html'>Rioux, James</a></li>
+<li><a href='http://www.valpo.edu/vpr/v13n1/v13n1poetry/robbinschina.php'>Robbins, Liz</a></li>
+<li><a href='http://www.valpo.edu/vpr/robertsrain.html'>Roberts, Suzanne</a></li>
+<li><a href='http://www.valpo.edu/vpr/Ruff.html'>Ruff, John</a></li>
+<li><a href='http://www.valpo.edu/vpr/santoswriters.html'>Santos, Sherod</a></li>
+<li><a href='http://www.valpo.edu/vpr/santosairport.html'>Santos, Sherod</a></li>
+<li><a href='http://www.valpo.edu/vpr/Schilpp.html'>Schilpp, Margot</a></li>
+<li><a href='http://www.valpo.edu/vpr/schmeerchess.html'>Schmeer, Matthew W.</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/schwedman.php'>Schwed, Maggie</a></li>
+<li><a href='http://www.valpo.edu/vpr/matthewsmiracle.html'>Sebastian Matthews</a></li>
+<li><a href='http://www.valpo.edu/vpr/serchukreveille.html'>Serchuk, Peter</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/serchukfacing.php'>Serchuk, Peter</a></li>
+<li><a href='http://www.valpo.edu/vpr/serchuknot.html'>Serchuk, Peter</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/shipersedisons.php'>Shipers, Carrie</a></li>
+<li><a href='http://www.valpo.edu/vpr/pappasparmigianino.html'>Signorelli-Pappas, Rita</a></li>
+<li><a href='http://www.valpo.edu/vpr/silsbeebluer.html'>Silsbee, Ann</a></li>
+<li><a href='http://www.valpo.edu/vpr/simontaste.html'>Simon, Beth</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n1/v12n1poetry/sklootreading.php'>Skloot, Floyd</a></li>
+<li><a href='http://www.valpo.edu/vpr/sklootat.html'>Skloot, Floyd</a></li>
+<li><a href='http://www.valpo.edu/vpr/sklootthemoonlight.html'>Skloot, Floyd</a></li>
+<li><a href='http://www.valpo.edu/vpr/sklootlabor.html'>Skloot, Floyd</a></li>
+<li><a href='http://www.valpo.edu/vpr/smithglasses.html'>Smith, Dave</a></li>
+<li><a href='http://www.valpo.edu/vpr/sontagmigration.html'>Sontag, Kate</a></li>
+<li><a href='http://www.valpo.edu/vpr/sontagamerican.html'>Sontag, Kate</a></li>
+<li><a href='http://www.valpo.edu/vpr/sternbergpaulitos.html'>Sternberg, Ricardo</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2009/11/alison-stine-marriage.html'>Stine, Alison</a></li>
+<li><a href='http://www.valpo.edu/vpr/stinsonon.html'>Stinson, Donald</a></li>
+<li><a href='http://www.valpo.edu/vpr/suarezsongbanyan.html'>Suarez, Virgil</a></li>
+<li><a href='http://www.valpo.edu/vpr/taylorrondeau.html'>Taylor, Marilyn</a></li>
+<li><a href='http://www.valpo.edu/vpr/thomasgoldfish.html'>Thomas, Larry</a></li>
+<li><a href='http://www.valpo.edu/vpr/tobinhouse.html'>Tobin, Daniel</a></li>
+<li><a href='http://www.valpo.edu/vpr/tufariellosmall.html'>Tufariello, Catherine</a></li>
+<li><a href='http://www.valpo.edu/vpr/varnesfour.html'>Varnes, Kathrine</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2008/08/benjamin-vogt-uncle-with.html'>Vogt, Benjamin</a></li>
+<li><a href='http://www.valpo.edu/vpr/walderdr.html'>Walders, Davi</a></li>
+<li><a href='http://www.valpo.edu/vpr/v12n2/v12n2poetry/washburncheyenne.php'>Washburn, Laura Lee</a></li>
+<li><a href='http://www.valpo.edu/vpr/wendtarmistice.html'>Wendt, Ingrid</a></li>
+<li><a href='http://www.valpo.edu/vpr/wilsontaranto.html'>Wilson, Anne</a></li>
+<li><a href='http://www.valpo.edu/vpr/wixonsimple.html'>Wixon, Vincent</a></li>
+<li><a href='http://www.valpo.edu/vpr/wohlfeldheart.html'>Wohlfeld, Valerie</a></li>
+<li><a href='http://www.valpo.edu/vpr/wohlfeldheart.html'>Wohlfeld, Valerie</a></li>
+<li><a href='http://www.valpo.edu/vpr/wohlfeldheart.html'>Wohlfeld, Valerie</a></li>
+<li><a href='http://www.valpo.edu/vpr/wrightnostalgia.html'>Wright, Charles</a></li>
+<li><a href='http://www.valpo.edu/vpr/wrightexplaining.html'>Wright, Kirk M.</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList4&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList4"));' target='configLinkList4' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<select id='BlogArchive1_ArchiveMenu'>
+<option value=''>Blog Archive</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_10_01_archive.html'>October (6)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_09_01_archive.html'>September (9)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_08_01_archive.html'>August (7)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_07_01_archive.html'>July (9)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_06_01_archive.html'>June (7)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_05_01_archive.html'>May (9)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_04_01_archive.html'>April (8)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_03_01_archive.html'>March (8)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_02_01_archive.html'>February (6)</option>
+<option value='http://edwardbyrne.blogspot.tw/2012_01_01_archive.html'>January (11)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_12_01_archive.html'>December (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_11_01_archive.html'>November (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_10_01_archive.html'>October (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_09_01_archive.html'>September (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_08_01_archive.html'>August (11)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_07_01_archive.html'>July (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_06_01_archive.html'>June (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_05_01_archive.html'>May (17)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_04_01_archive.html'>April (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_03_01_archive.html'>March (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_02_01_archive.html'>February (8)</option>
+<option value='http://edwardbyrne.blogspot.tw/2011_01_01_archive.html'>January (7)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_12_01_archive.html'>December (11)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_11_01_archive.html'>November (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_10_01_archive.html'>October (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_09_01_archive.html'>September (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_08_01_archive.html'>August (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_07_01_archive.html'>July (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_06_01_archive.html'>June (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_05_01_archive.html'>May (18)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_04_01_archive.html'>April (20)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_03_01_archive.html'>March (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_02_01_archive.html'>February (7)</option>
+<option value='http://edwardbyrne.blogspot.tw/2010_01_01_archive.html'>January (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_12_01_archive.html'>December (17)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_11_01_archive.html'>November (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_10_01_archive.html'>October (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_09_01_archive.html'>September (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_08_01_archive.html'>August (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_07_01_archive.html'>July (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_06_01_archive.html'>June (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_05_01_archive.html'>May (18)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_04_01_archive.html'>April (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_03_01_archive.html'>March (17)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_02_01_archive.html'>February (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2009_01_01_archive.html'>January (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_12_01_archive.html'>December (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_11_01_archive.html'>November (17)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_10_01_archive.html'>October (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_09_01_archive.html'>September (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_08_01_archive.html'>August (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_07_01_archive.html'>July (16)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_06_01_archive.html'>June (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_05_01_archive.html'>May (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_04_01_archive.html'>April (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_03_01_archive.html'>March (15)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_02_01_archive.html'>February (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2008_01_01_archive.html'>January (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_12_01_archive.html'>December (13)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_11_01_archive.html'>November (14)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_10_01_archive.html'>October (10)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_09_01_archive.html'>September (10)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_08_01_archive.html'>August (9)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_07_01_archive.html'>July (12)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_06_01_archive.html'>June (10)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_05_01_archive.html'>May (10)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_04_01_archive.html'>April (6)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_03_01_archive.html'>March (6)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_02_01_archive.html'>February (7)</option>
+<option value='http://edwardbyrne.blogspot.tw/2007_01_01_archive.html'>January (8)</option>
+</select>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' id='Image2'>
+<h2>Recent Book</h2>
+<div class='widget-content'>
+<a href='http://library.stmarytx.edu/pgpress/authors/edward_byrne/index.html'>
+<img alt='Recent Book' height='157' id='Image2_img' src='http://photos1.blogger.com/x/blogger2/7654/91131513224077/184/761020/gse_multipart38372.jpg' width='99'/>
+</a>
+<br/>
+<span class='caption'>Click Image to Order</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image2"));' target='configImage2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget LinkList' id='LinkList1'>
+<h2>Author's Links</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://valpo.facebook.com/profile.php?id=40802248'>Edward Byrne Facebook page</a></li>
+<li><a href='http://faculty.valpo.edu/ebyrne/homepage/'>Edward Byrne home page</a></li>
+<li><a href='http://www.valpo.edu/english/faculty/byrne.php'>Edward Byrne university page</a></li>
+<li><a href='http://library.stmarytx.edu/pgpress/authors/edward_byrne/index.html'>Pecan Grove Press</a></li>
+<li><a href='http://www.valpo.edu/vpr/'>Valparaiso Poetry Review</a></li>
+<li><a href='http://valpo.facebook.com/group.php?gid=6536494507&ref=mf'>Valparaiso Poetry Review Facebook page</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList7'>
+<h2>Interviews of Edward Byrne</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://dianelockward.blogspot.com/2010/03/poet-on-poem-ed-byrne.html'>Blogalicious</a></li>
+<li><a href='http://verylikeawhale.wordpress.com/2008/03/27/ten-questions-2-edward-byrne/'>Edward Byrne: "Very Like a Whale"</a></li>
+<li><a href='http://www.inthebend.com/article/20100109/INTHEBEND/100109577/1171/INTHEBEND'>South Bend Tribune</a></li>
+<li><a href='http://dianelockward.blogspot.com/2010/03/poet-on-poem-ed-byrne.html'>The Poet on the Poem: Ed Byrne</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList7&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList7"));' target='configLinkList7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList3'>
+<h2>Online Reviews of Byrne's Books</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://adirondackreview.homestead.com/review13.html'>Adirondack Review</a></li>
+<li><a href='http://booksinq.blogspot.com/2010/05/paul-morphy-opening.html'>Books, Inq.</a></li>
+<li><a href='http://www.findarticles.com/p/articles/mi_m1058/is_n9_v113/ai_18118939'>Christian Century</a></li>
+<li><a href='http://findarticles.com/p/articles/mi_m2078/is_1_46/ai_94983810'>Literary Review</a></li>
+<li><a href='http://www.philly.com/inquirer/entertainment/20100815_Light__shadow_and_a_hint_of_heartbreak.html'>Philadelphia Inquirer</a></li>
+<li><a href='http://www.poemeleon.org/zara-raab-seeded-light/'>Poemeleon</a></li>
+<li><a href='http://rattle.com/blog/2010/05/seeded-light-by-edward-byrne/'>Rattle</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList3&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' target='configLinkList3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList2'>
+<h2>Works in Online Journals</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://www.adirondackreview.homestead.com/byrne.html'>Adirondack Review</a></li>
+<li><a href='http://www.applevalleyreview.com/'>Apple Valley Review</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/04/poetry-for-world-autism-awareness-day.html'>Awe in Autism</a></li>
+<li><a href='http://www.banyanreview.com/2004winter/poetry_w0407.htm'>Banyan Review</a></li>
+<li><a href='http://www.blackbird.vcu.edu/v3n2/nonfiction/byrne_e/index.htm'>Blackbird</a></li>
+<li><a href='http://www.boxcarpoetry.com/'>Boxcar Poetry Review</a></li>
+<li><a href='http://www.countrydogreview.org/Current_Issue.html#EB'>Country Dog Review</a></li>
+<li><a href='http://www.dmqreview.com/Feb07/index2.html'>DMQ Review</a></li>
+<li><a href='http://english.chass.ncsu.edu/freeverse/Archives/Spring_2005/poems/E_Byrne.htm'>Free Verse</a></li>
+<li><a href='http://www.glass-poetry.com/volume-three/issue-two.html'>Glass: A Journal of Poetry</a></li>
+<li><a href='http://www.webdelsol.com/InPosse/IPR_Byrne.htm'>In Posse Review</a></li>
+<li><a href='http://www.indianahumanities.org/thinkreadtalk/index.php/2010/04/a-poem-from-edward-byrne/'>Indiana Humanities Council</a></li>
+<li><a href='http://www.innisfreepoetry.org/'>Innisfree Poetry Journal</a></li>
+<li><a href='http://www.poetrybay.com/Winter2006/byrne.htm'>Poetry Bay</a></li>
+<li><a href='http://staff.jccc.edu/schmeer/pm/pdfs/PM_9.pdf'>Poetry Midwest</a></li>
+<li><a href='http://edwardbyrne.blogspot.com/2010/07/wake-poetic-response-to-gulf-oil-spill.html'>Poets for Living Waters</a></li>
+<li><a href='http://english.louisiana.edu/rougarou/currentIssue/eByrne.html'>Rougarou</a></li>
+<li><a href='http://www.poetserv.org/SRR1/byrne.html'>Salt River Review</a></li>
+<li><a href='http://www.mid.muohio.edu/segue/'>Segue</a></li>
+<li><a href='http://issuu.com/tidalbasin/docs/tbr_inaugural_issue_-_spring_2010?viewMode=magazine&mode=embed'>Tidal Basin Review</a></li>
+<li><a href='http://www.waccamawjournal.com/pages.html?x=263'>Waccamaw</a></li>
+<li><a href='http://www.webdelsol.com/WDSRB/Fargnoli_Byrne.html'>Web Del Sol Review of Books</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=LinkList&widgetId=LinkList2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList2"));' target='configLinkList2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Image' id='Image17'>
+<h2>50 Best Poetry Blogs</h2>
+<div class='widget-content'>
+<a href='http://www.onlinecolleges.net/2011/04/18/50-best-blogs-to-follow-for-national-poetry-month/'>
+<img alt='50 Best Poetry Blogs' height='113' id='Image17_img' src='http://1.bp.blogspot.com/-_NBaouj2HZ8/Ta3xDc8kDiI/AAAAAAAAB9E/TtDcT4eFALk/s187/top50.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image17&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image17"));' target='configImage17' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML6'>
+<h2 class='title'>Best of the Web 2010</h2>
+<div class='widget-content'>
+<a href="http://www.dzancbooks.org/store/botw2010.html" target="Dzanc BotW"><img border="0" src="http://www.dzancbooks.org/Banners/Banner120x400.gif" /></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' target='configHTML6' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML9'>
+<h2 class='title'>Best of the Web</h2>
+<div class='widget-content'>
+<div style="text-align:center;"><a href="http://thedailyreviewer.com/top/poetry" title="Top 100 Blogs"><img border="0" alt="Top 100 Blogs Award" src="http://thedailyreviewer.com/img/top100-250x250.png"/></a><br/><p style="display:inline; text-transform:uppercase; font-family:Times New Roman"><a href="http://thedailyreviewer.com/top/poetry" title="Top poetry Blogs">Top poetry Blogs</a></p></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML9&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML9"));' target='configHTML9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image9'>
+<h2>Top 100 Poetry Blogs</h2>
+<div class='widget-content'>
+<a href='http://www.universityreviewsonline.com/2005/10/top-100-poetry-blogs.html'>
+<img alt='Top 100 Poetry Blogs' height='74' id='Image9_img' src='http://2.bp.blogspot.com/_uQR5uTTeFlc/Shq6hJk9LzI/AAAAAAAAA_0/w5BNWHXW1bw/S187/Top100sm.jpg' width='120'/>
+</a>
+<br/>
+<span class='caption'>"One Poet's Notes"</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image9&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image9"));' target='configImage9' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image15'>
+<h2>30 Awesome Poetry Blogs</h2>
+<div class='widget-content'>
+<a href='http://www.onlinecollegesanduniversities.com/2009/12/31/30-awesome-poetry-blogs-you-arent-reading-yet/'>
+<img alt='30 Awesome Poetry Blogs' height='150' id='Image15_img' src='http://1.bp.blogspot.com/_uQR5uTTeFlc/S080g6eMHNI/AAAAAAAABck/4yhdy_JJXR4/S187/30.jpg' width='150'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image15&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image15"));' target='configImage15' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image8'>
+<h2>Best of the Web 2009: VPR</h2>
+<div class='widget-content'>
+<a href='http://edwardbyrne.blogspot.com/2009/02/best-of-web-valparaiso-poetry-review.html'>
+<img alt='Best of the Web 2009: VPR' height='187' id='Image8_img' src='http://3.bp.blogspot.com/_uQR5uTTeFlc/Sd6pHYWp3JI/AAAAAAAAA88/kD9xzDsjl_A/S187/botw2009.jpg' width='137'/>
+</a>
+<br/>
+<span class='caption'>Click picture for information</span>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image8&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image8"));' target='configImage8' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML10'>
+<div class='widget-content'>
+<a href="http://www.wikio.com/blogs/top/literature"><img style="border: none;" alt="Wikio - Top Blogs - Literature" src="http://external.wikio.com/blogs/top/getrank?url=http%3A%2F%2Fedwardbyrne.blogspot.com%2Ffeeds%2Fposts%2Fdefault&cat=1&style=5"/></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML10&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML10"));' target='configHTML10' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML4'>
+<div class='widget-content'>
+<a href="http://www.dzancbooks.org/bow.html" target="Dzanc BotW"><img border="0" src="http://www.dzancbooks.org/Banners/Banner468x60.gif"/></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML2'>
+<h2 class='title'>Blog Rating</h2>
+<div class='widget-content'>
+<a href="http://www.blogged.com/blogs/one-poets-notes.html">
+<img border="0" alt="One Poets Notes at Blogged" src="http://www.blogged.com/icons/rt_4600.gif" title="One Poets Notes at Blogged"/></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML7'>
+<div class='widget-content'>
+<a href="http://www.duotrope.com/market_1312.aspx"><img border="0" width="120" alt="Listed at Duotrope's Digest" src="http://www.duotrope.com/images/linkto/listedat_12060_grey.gif" height="60"/></a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML7&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML7"));' target='configHTML7' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Image' id='Image6'>
+<div class='widget-content'>
+<img alt='' height='150' id='Image6_img' src='http://bp2.blogger.com/_uQR5uTTeFlc/R_XI0bFS_JI/AAAAAAAAAXc/dCdas9RjtnM/S187/autism1.jpg' width='81'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image6&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image6"));' target='configImage6' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML5'>
+<div class='widget-content'>
+<!-- START OF ACTIVEMETER CODE -->
+<script language="javascript" type="text/javascript">
+var __pid=49668;
+var __am_invisible=1;
+</script>
+<script language="javascript" src="http://www.activemeter.com/counter.js" type="text/javascript"></script>
+<noscript>
+   <a href="http://www.activemeter.com/" target="_blank">
+      <img border="0" alt="Free Web Counter" src="http://am1.activemeter.com/webtracker/track.html?method=track&pid=49668&java=0"/>
+   </a> 
+</noscript>
+<!-- END OF ACTIVEMETER CODE -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' target='configHTML5' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' id='HTML1'>
+<div class='widget-content'>
+<!-- Site Meter XHTML Strict 1.0 -->
+<script src="http://s29.sitemeter.com/js/counter.js?site=s29valpo" type="text/javascript">
+</script>
+<!-- Copyright (c)2006 Site Meter -->
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='footer-wrapper'>
+<div class='footer section' id='footer'><div class='widget Image' id='Image4'>
+<div class='widget-content'>
+<img alt='' height='99' id='Image4_img' src='http://photos1.blogger.com/x/blogger2/7654/91131513224077/660/762274/gse_multipart22017.jpg' width='561'/>
+<br/>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Image&widgetId=Image4&action=editWidget&sectionId=footer' onclick='return _WidgetManager._PopupConfig(document.getElementById("Image4"));' target='configImage4' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget Text' id='Text3'>
+<div class='widget-content'>
+<span style="font-style: italic;">A Poem should be part of one's sense of life.  </span>&#8212;Wallace Stevens
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=746549356331646438&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=footer' onclick='return _WidgetManager._PopupConfig(document.getElementById("Text3"));' target='configText3' title='Edit'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="//www.blogger.com/static/v1/widgets/3453915823-widgets.js"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '746549356331646438';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d746549356331646438','//edwardbyrne.blogspot.tw/2008/06/frank-ohara-having-coke-with-you.html','746549356331646438');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '746549356331646438', 'bloggerUrl': 'http://www.blogger.com', 'title': 'One Poet\47s Notes', 'pageType': 'item', 'url': 'http://edwardbyrne.blogspot.tw/2008/06/frank-ohara-having-coke-with-you.html', 'canonicalUrl': 'http://edwardbyrne.blogspot.com/2008/06/frank-ohara-having-coke-with-you.html', 'canonicalHomepageUrl': 'http://edwardbyrne.blogspot.com/', 'homepageUrl': 'http://edwardbyrne.blogspot.tw/', 'blogspotFaviconUrl': 'http://edwardbyrne.blogspot.tw/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'disableAdSenseWidget': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': 'Frank O\47Hara: \42Having a Coke with You\042', 'pageTitle': 'One Poet\47s Notes: Frank O\47Hara: \42Having a Coke with You\042', 'encoding': 'UTF-8', 'locale': 'en-US', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42One Poet\46#39;s Notes - Atom\42 href\75\42http://edwardbyrne.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42One Poet\46#39;s Notes - RSS\42 href\75\42http://edwardbyrne.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42One Poet\46#39;s Notes - Atom\42 href\75\42http://www.blogger.com/feeds/746549356331646438/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\075746549356331646438\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42One Poet\46#39;s Notes - Atom\42 href\75\42http://edwardbyrne.blogspot.com/feeds/7501589735718083507/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window,b\75\42jstiming\42,d\75\42tick\42;var e\75function(c){this.t\75{};this.tick\75function(c,p,h){h\75void 0!\75h?h:(new Date).getTime();this.t[c]\75[h,p]};this[d](\42start\42,null,c)},f\75new e;a.jstiming\75{Timer:e,load:f};if(a.performance\46\46a.performance.timing){var g\75a.performance.timing,j\75a[b].load,k\75g.navigationStart,l\75g.responseStart;0\74k\46\46l\76\75k\46\46(j[d](\42_wtsrt\42,void 0,k),j[d](\42wtsrt_\42,\42_wtsrt\42,l),j[d](\42tbsd_\42,\42wtsrt_\42))}\ntry{var m\75null;a.chrome\46\46a.chrome.csi\46\46(m\75Math.floor(a.chrome.csi().pageT),j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.chrome.csi().startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));null\75\75m\46\46a.gtbExternal\46\46(m\75a.gtbExternal.pageT());null\75\75m\46\46a.external\46\46(m\75a.external.pageT,j\46\0460\74k\46\46(j[d](\42_tbnd\42,void 0,a.external.startE),j[d](\42tbnd_\42,\42_tbnd\42,k)));m\46\46(a[b].pt\75m)}catch(n){};a.tickAboveFold\75function(c){var i\0750;if(c.offsetParent){do i+\75c.offsetTop;while(c\75c.offsetParent)}c\75i;750\76\75c\46\46a[b].load[d](\42aft\42)};var q\75!1;function r(){q||(q\75!0,a[b].load[d](\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,r,!1):a.attachEvent(\42onscroll\42,r);\n })();\74/script\076', 'mobileHeadScript': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/2179ec63bcf35660'}}, {'name': 'skin', 'data': {'vars': {'sidebartextcolor': '#191919', 'linkcolor': '#5588aa', 'visitedlinkcolor': '#5588aa', 'textcolor': '#333333', 'headerfont': 'normal normal 78% Times, serif', 'pagetitlefont': 'normal normal 354% Times, serif', 'bgcolor': '#ffffff', 'descriptioncolor': '#003366', 'titlecolor': '#940f04', 'bordercolor': '#cccccc', 'postfooterfont': 'normal normal 78% \47Trebuchet MS\47, Trebuchet, Arial, Verdana, Sans-serif', 'pagetitlecolor': '#003366', 'bodyfont': 'normal normal 100% Times, serif', 'endSide': 'right', 'startSide': 'left', 'descriptionfont': 'normal normal 86% Times, serif', 'sidebarcolor': '#4c4c4c'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image4', 'footer', null, document.getElementById('Image4'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text3', 'footer', null, document.getElementById('Text3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image18', 'sidebar', null, document.getElementById('Image18'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text15', 'sidebar', null, document.getElementById('Text15'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text13', 'sidebar', null, document.getElementById('Text13'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image16', 'sidebar', null, document.getElementById('Image16'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text14', 'sidebar', null, document.getElementById('Text14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image11', 'sidebar', null, document.getElementById('Image11'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image23', 'sidebar', null, document.getElementById('Image23'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text11', 'sidebar', null, document.getElementById('Text11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text9', 'sidebar', null, document.getElementById('Text9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image22', 'sidebar', null, document.getElementById('Image22'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image14', 'sidebar', null, document.getElementById('Image14'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', null, document.getElementById('Followers1'), {'title': 'Followers', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n            \n            \n              holder.currentPost \75 \42http://www.blogger.com/feeds/746549356331646438/posts/default/7501589735718083507\42;\n            \n            \n            \n              holder.currentComments \75 \42http://www.blogger.com/feeds/746549356331646438/7501589735718083507/comments/default\42;\n            \n            holder.currentPostUrl \75 \42\42;\n            holder.currentPostId \75 7501589735718083507\n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/746549356331646438/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/746549356331646438/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://edwardbyrne.blogspot.com/\42;\n          holder.currentBlogId \75 \042746549356331646438\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-123iuul1t9jyp\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42Followers\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#191919\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#5588aa\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#5588aa\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#191919\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#5588aa\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#003366\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#940f04\42;\n    skin[\47FONT_FACE\47] \75 \42normal normal 100% Times, serif\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-123iuul1t9jyp\42,\n     height: 260,\n     \n     \n     \n     site: \04200386516137632244971\42,\n     \n     locale: \47en_US\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList10', 'sidebar', null, document.getElementById('LinkList10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image10', 'sidebar', null, document.getElementById('Image10'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text10', 'sidebar', null, document.getElementById('Text10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image5', 'sidebar', null, document.getElementById('Image5'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text8', 'sidebar', null, document.getElementById('Text8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebar', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'sidebar', null, document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar', null, document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image19', 'sidebar', null, document.getElementById('Image19'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image12', 'sidebar', null, document.getElementById('Image12'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image20', 'sidebar', null, document.getElementById('Image20'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image3', 'sidebar', null, document.getElementById('Image3'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text6', 'sidebar', null, document.getElementById('Text6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text5', 'sidebar', null, document.getElementById('Text5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'sidebar', null, document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList8', 'sidebar', null, document.getElementById('LinkList8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList6', 'sidebar', null, document.getElementById('LinkList6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList5', 'sidebar', null, document.getElementById('LinkList5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList9', 'sidebar', null, document.getElementById('LinkList9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList11', 'sidebar', null, document.getElementById('LinkList11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text7', 'sidebar', null, document.getElementById('Text7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList4', 'sidebar', null, document.getElementById('LinkList4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar', null, document.getElementById('Image2'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList7', 'sidebar', null, document.getElementById('LinkList7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'sidebar', null, document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar', null, document.getElementById('LinkList2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image17', 'sidebar', null, document.getElementById('Image17'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image9', 'sidebar', null, document.getElementById('Image9'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image15', 'sidebar', null, document.getElementById('Image15'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image8', 'sidebar', null, document.getElementById('Image8'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', null, document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image6', 'sidebar', null, document.getElementById('Image6'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image7', 'main', null, document.getElementById('Image7'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image21', 'main', null, document.getElementById('Image21'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image13', 'main', null, document.getElementById('Image13'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image25', 'main', null, document.getElementById('Image25'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text12', 'main', null, document.getElementById('Text12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': '//www.blogger.com/static/v1/jsbin/2585605517-lbx.js', 'lightboxCssUrl': '//www.blogger.com/static/v1/v-css/228702327-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>
+</html>.
+
+.                                 
