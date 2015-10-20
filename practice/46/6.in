@@ -1,0 +1,30 @@
+insert left a
+insert right a
+insert 2 b
+insert 3 b
+insert right a
+insert left a
+insert 3 a
+insert 5 b
+insert 5 b
+insert left a
+insert right b
+insert 12 b 
+insert 12 a
+insert 8 b
+insert right a
+insert right b
+insert right b
+insert right b
+insert right b
+insert 12 a 
+insert 21 b
+delete 13
+delete 14
+insert left c
+insert 2 c
+insert 22 c
+insert 22 c
+insert right c
+insert 25 c
+insert 26 c

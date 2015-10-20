@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
-
+import subprocess
 import const
 
 def get(filename):
@@ -85,7 +85,8 @@ def main():
 			else:
 				assert log[0] == 'OK'
 				get(ofn)
-				ret = os.system('./special \'%s\' \'%s\' /run/shm/slave.out >/dev/null 2>&1' % (ifn, ofn))
+				# ret = os.system('./special \'%s\' \'%s\' /run/shm/slave.out >/dev/null 2>&1' % (ifn, ofn))
+				ret = subprocess.call('./special \'%s\' \'%s\' /run/shm/slave.out >/dev/null 2>&1' % (ifn, ofn), shell=True)
 				if ret == 1:
 					tvd = const.WA
 				elif ret == 2:

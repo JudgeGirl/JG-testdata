@@ -1,0 +1,19 @@
+insert left a
+insert right a
+delete left
+insert 1 b
+delete right
+insert 2 b
+insert 2 b
+insert 3 c
+insert 5 c
+delete 4
+insert right d
+delete 2
+insert 3 c
+insert 6 d
+insert 7 d
+insert 8 c
+delete 6
+insert right d
+insert 8 d

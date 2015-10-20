@@ -1,0 +1,21 @@
+insert left x
+insert left y
+insert left z
+delete 3
+insert left z
+insert 3 z
+delete left
+insert 2 i
+insert 5 j
+delete right
+insert 4 j
+delete 3
+insert right k
+insert right k
+insert 6 z
+insert left k
+delete 5
+insert right z
+insert 2 j
+delete 4
+insert 9 k

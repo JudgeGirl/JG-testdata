@@ -1,0 +1,12 @@
+insert right x
+insert left y
+delete 2
+insert 1 a
+insert 3 b
+delete left
+delete right
+delete 1
+insert 1 3
+insert left 1
+delete 1
+delete 1

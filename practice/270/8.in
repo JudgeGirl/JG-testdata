@@ -1,0 +1,96 @@
+T = 0 Z = 0 P1 = 1 P2 = 2 P3 = 3 P7 = 7 N1 = -1 N2 = -2 N3 = -3 END
+PRINT N3
+PRINT N2
+PRINT N1
+PRINT Z
+PRINT P1
+PRINT P2
+PRINT P3
+T = P1 + Z
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T + T
+PRINT T
+T = T - N1
+PRINT T
+T = P1 * T
+PRINT T
+T = P2 + N1
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+T = P3 * T
+T = T % P7
+PRINT T
+STOP
+GOTO 1

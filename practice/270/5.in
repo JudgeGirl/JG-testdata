@@ -1,0 +1,10 @@
+F1 = 1 F2 = 1 F3 = 0 N = 20 I = 0 ZERO = 0 ONE = 1 END
+PRINT F1
+PRINT F2
+F3 = F1 + F2
+F1 = F2 + ZERO
+F2 = F3 + ZERO
+PRINT F3
+I = I + ONE
+IF N > I GOTO 3
+STOP

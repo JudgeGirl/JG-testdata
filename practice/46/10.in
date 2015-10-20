@@ -1,0 +1,26 @@
+insert left p
+insert 2 q
+delete 1
+insert 2 p
+insert right q
+insert 3 r
+insert 5 r
+delete left
+delete 3
+insert right p
+insert right q
+insert 6 r
+insert right r
+insert right p
+delete left
+delete left
+delete left
+delete left
+insert right r
+delete 4
+insert 5 r
+insert 5 p
+insert right r
+insert 8 r
+delete 5
+delete left
