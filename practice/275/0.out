@@ -1,0 +1,12 @@
+set does not have 32
+set has 32
+set has 0
+set has 32
+set has 63
+set does not have 0
+set has 32
+set does not have 63
+set has 0
+set does not have 32
+set has 63
+END

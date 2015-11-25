@@ -1,0 +1,1988 @@
++---------------------------------+----------------+----------+
+|              Title              |   Importance   |   Fine   |
++---------------------------------+----------------+----------+
+| Fundation                       | 0x00000003( 0) |        0 |
+| Fundation                       | 0x00000005( 1) |        1 |
+| Fundation                       | 0x00000006( 0) |        0 |
+| Fundation                       | 0x00000009( 2) |        2 |
+| Fundation                       | 0x0000000a( 1) |        1 |
+| Fundation                       | 0x0000000c( 0) |        0 |
+| Fundation                       | 0x00000011( 3) |        3 |
+| Fundation                       | 0x00000012( 2) |        2 |
+| Fundation                       | 0x00000014( 1) |        1 |
+| Fundation                       | 0x00000018( 0) |        0 |
+| Fundation                       | 0x00000021( 4) |        4 |
+| Fundation                       | 0x00000022( 3) |        3 |
+| Fundation                       | 0x00000024( 2) |        2 |
+| Fundation                       | 0x00000028( 1) |        1 |
+| Fundation                       | 0x00000030( 0) |        0 |
+| Fundation                       | 0x00000041( 5) |        5 |
+| Fundation                       | 0x00000042( 4) |        4 |
+| Fundation                       | 0x00000044( 3) |        3 |
+| Fundation                       | 0x00000048( 2) |        2 |
+| Fundation                       | 0x00000050( 1) |        1 |
+| Fundation                       | 0x00000060( 0) |        0 |
+| Fundation                       | 0x00000081( 6) |        6 |
+| Fundation                       | 0x00000082( 5) |        5 |
+| Fundation                       | 0x00000084( 4) |        4 |
+| Fundation                       | 0x00000088( 3) |        3 |
+| Fundation                       | 0x00000090( 2) |        2 |
+| Fundation                       | 0x000000a0( 1) |        1 |
+| Fundation                       | 0x000000c0( 0) |        0 |
+| Fundation                       | 0x00000101( 7) |        7 |
+| Fundation                       | 0x00000102( 6) |        6 |
+| Fundation                       | 0x00000104( 5) |        5 |
+| Fundation                       | 0x00000108( 4) |        4 |
+| Fundation                       | 0x00000110( 3) |        3 |
+| Fundation                       | 0x00000120( 2) |        2 |
+| Fundation                       | 0x00000140( 1) |        1 |
+| Fundation                       | 0x00000180( 0) |        0 |
+| Fundation                       | 0x00000201( 8) |        8 |
+| Fundation                       | 0x00000202( 7) |        7 |
+| Fundation                       | 0x00000204( 6) |        6 |
+| Fundation                       | 0x00000208( 5) |        5 |
+| Fundation                       | 0x00000210( 4) |        4 |
+| Fundation                       | 0x00000220( 3) |        3 |
+| Fundation                       | 0x00000240( 2) |        2 |
+| Fundation                       | 0x00000280( 1) |        1 |
+| Fundation                       | 0x00000300( 0) |        0 |
+| Fundation                       | 0x00000401( 9) |        9 |
+| Fundation                       | 0x00000402( 8) |        8 |
+| Fundation                       | 0x00000404( 7) |        7 |
+| Fundation                       | 0x00000408( 6) |        6 |
+| Fundation                       | 0x00000410( 5) |        5 |
+| Fundation                       | 0x00000420( 4) |        4 |
+| Fundation                       | 0x00000440( 3) |        3 |
+| Fundation                       | 0x00000480( 2) |        2 |
+| Fundation                       | 0x00000500( 1) |        1 |
+| Fundation                       | 0x00000600( 0) |        0 |
+| Fundation                       | 0x00000801(10) |       10 |
+| Fundation                       | 0x00000802( 9) |        9 |
+| Fundation                       | 0x00000804( 8) |        8 |
+| Fundation                       | 0x00000808( 7) |        7 |
+| Fundation                       | 0x00000810( 6) |        6 |
+| Fundation                       | 0x00000820( 5) |        5 |
+| Fundation                       | 0x00000840( 4) |        4 |
+| Fundation                       | 0x00000880( 3) |        3 |
+| Fundation                       | 0x00000900( 2) |        2 |
+| Fundation                       | 0x00000a00( 1) |        1 |
+| Fundation                       | 0x00000c00( 0) |        0 |
+| Fundation                       | 0x00001001(11) |       11 |
+| Fundation                       | 0x00001002(10) |       10 |
+| Fundation                       | 0x00001004( 9) |        9 |
+| Fundation                       | 0x00001008( 8) |        8 |
+| Fundation                       | 0x00001010( 7) |        7 |
+| Fundation                       | 0x00001020( 6) |        6 |
+| Fundation                       | 0x00001040( 5) |        5 |
+| Fundation                       | 0x00001080( 4) |        4 |
+| Fundation                       | 0x00001100( 3) |        3 |
+| Fundation                       | 0x00001200( 2) |        2 |
+| Fundation                       | 0x00001400( 1) |        1 |
+| Fundation                       | 0x00001800( 0) |        0 |
+| Fundation                       | 0x00002001(12) |       12 |
+| Fundation                       | 0x00002002(11) |       11 |
+| Fundation                       | 0x00002004(10) |       10 |
+| Fundation                       | 0x00002008( 9) |        9 |
+| Fundation                       | 0x00002010( 8) |        8 |
+| Fundation                       | 0x00002020( 7) |        7 |
+| Fundation                       | 0x00002040( 6) |        6 |
+| Fundation                       | 0x00002080( 5) |        5 |
+| Fundation                       | 0x00002100( 4) |        4 |
+| Fundation                       | 0x00002200( 3) |        3 |
+| Fundation                       | 0x00002400( 2) |        2 |
+| Fundation                       | 0x00002800( 1) |        1 |
+| Fundation                       | 0x00003000( 0) |        0 |
+| Fundation                       | 0x00004001(13) |       13 |
+| Fundation                       | 0x00004002(12) |       12 |
+| Fundation                       | 0x00004004(11) |       11 |
+| Fundation                       | 0x00004008(10) |       10 |
+| Fundation                       | 0x00004010( 9) |        9 |
+| Fundation                       | 0x00004020( 8) |        8 |
+| Fundation                       | 0x00004040( 7) |        7 |
+| Fundation                       | 0x00004080( 6) |        6 |
+| Fundation                       | 0x00004100( 5) |        5 |
+| Fundation                       | 0x00004200( 4) |        4 |
+| Fundation                       | 0x00004400( 3) |        3 |
+| Fundation                       | 0x00004800( 2) |        2 |
+| Fundation                       | 0x00005000( 1) |        1 |
+| Fundation                       | 0x00006000( 0) |        0 |
+| Fundation                       | 0x00008001(14) |       14 |
+| Fundation                       | 0x00008002(13) |       13 |
+| Fundation                       | 0x00008004(12) |       12 |
+| Fundation                       | 0x00008008(11) |       11 |
+| Fundation                       | 0x00008010(10) |       10 |
+| Fundation                       | 0x00008020( 9) |        9 |
+| Fundation                       | 0x00008040( 8) |        8 |
+| Fundation                       | 0x00008080( 7) |        7 |
+| Fundation                       | 0x00008100( 6) |        6 |
+| Fundation                       | 0x00008200( 5) |        5 |
+| Fundation                       | 0x00008400( 4) |        4 |
+| Fundation                       | 0x00008800( 3) |        3 |
+| Fundation                       | 0x00009000( 2) |        2 |
+| Fundation                       | 0x0000a000( 1) |        1 |
+| Fundation                       | 0x0000c000( 0) |        0 |
+| Fundation                       | 0x00010001(15) |       15 |
+| Fundation                       | 0x00010002(14) |       14 |
+| Fundation                       | 0x00010004(13) |       13 |
+| Fundation                       | 0x00010008(12) |       12 |
+| Fundation                       | 0x00010010(11) |       11 |
+| Fundation                       | 0x00010020(10) |       10 |
+| Fundation                       | 0x00010040( 9) |        9 |
+| Fundation                       | 0x00010080( 8) |        8 |
+| Fundation                       | 0x00010100( 7) |        7 |
+| Fundation                       | 0x00010200( 6) |        6 |
+| Fundation                       | 0x00010400( 5) |        5 |
+| Fundation                       | 0x00010800( 4) |        4 |
+| Fundation                       | 0x00011000( 3) |        3 |
+| Fundation                       | 0x00012000( 2) |        2 |
+| Fundation                       | 0x00014000( 1) |        1 |
+| Fundation                       | 0x00018000( 0) |        0 |
+| Fundation                       | 0x00020001(16) |       16 |
+| Fundation                       | 0x00020002(15) |       15 |
+| Fundation                       | 0x00020004(14) |       14 |
+| Fundation                       | 0x00020008(13) |       13 |
+| Fundation                       | 0x00020010(12) |       12 |
+| Fundation                       | 0x00020020(11) |       11 |
+| Fundation                       | 0x00020040(10) |       10 |
+| Fundation                       | 0x00020080( 9) |        9 |
+| Fundation                       | 0x00020100( 8) |        8 |
+| Fundation                       | 0x00020200( 7) |        7 |
+| Fundation                       | 0x00020400( 6) |        6 |
+| Fundation                       | 0x00020800( 5) |        5 |
+| Fundation                       | 0x00021000( 4) |        4 |
+| Fundation                       | 0x00022000( 3) |        3 |
+| Fundation                       | 0x00024000( 2) |        2 |
+| Fundation                       | 0x00028000( 1) |        1 |
+| Fundation                       | 0x00030000( 0) |        0 |
+| Fundation                       | 0x00040001(17) |       17 |
+| Fundation                       | 0x00040002(16) |       16 |
+| Fundation                       | 0x00040004(15) |       15 |
+| Fundation                       | 0x00040008(14) |       14 |
+| Fundation                       | 0x00040010(13) |       13 |
+| Fundation                       | 0x00040020(12) |       12 |
+| Fundation                       | 0x00040040(11) |       11 |
+| Fundation                       | 0x00040080(10) |       10 |
+| Fundation                       | 0x00040100( 9) |        9 |
+| Fundation                       | 0x00040200( 8) |        8 |
+| Fundation                       | 0x00040400( 7) |        7 |
+| Fundation                       | 0x00040800( 6) |        6 |
+| Fundation                       | 0x00041000( 5) |        5 |
+| Fundation                       | 0x00042000( 4) |        4 |
+| Fundation                       | 0x00044000( 3) |        3 |
+| Fundation                       | 0x00048000( 2) |        2 |
+| Fundation                       | 0x00050000( 1) |        1 |
+| Fundation                       | 0x00060000( 0) |        0 |
+| Fundation                       | 0x00080001(18) |       18 |
+| Fundation                       | 0x00080002(17) |       17 |
+| Fundation                       | 0x00080004(16) |       16 |
+| Fundation                       | 0x00080008(15) |       15 |
+| Fundation                       | 0x00080010(14) |       14 |
+| Fundation                       | 0x00080020(13) |       13 |
+| Fundation                       | 0x00080040(12) |       12 |
+| Fundation                       | 0x00080080(11) |       11 |
+| Fundation                       | 0x00080100(10) |       10 |
+| Fundation                       | 0x00080200( 9) |        9 |
+| Fundation                       | 0x00080400( 8) |        8 |
+| Fundation                       | 0x00080800( 7) |        7 |
+| Fundation                       | 0x00081000( 6) |        6 |
+| Fundation                       | 0x00082000( 5) |        5 |
+| Fundation                       | 0x00084000( 4) |        4 |
+| Fundation                       | 0x00088000( 3) |        3 |
+| Fundation                       | 0x00090000( 2) |        2 |
+| Fundation                       | 0x000a0000( 1) |        1 |
+| Fundation                       | 0x000c0000( 0) |        0 |
+| Fundation                       | 0x00100001(19) |       19 |
+| Fundation                       | 0x00100002(18) |       18 |
+| Fundation                       | 0x00100004(17) |       17 |
+| Fundation                       | 0x00100008(16) |       16 |
+| Fundation                       | 0x00100010(15) |       15 |
+| Fundation                       | 0x00100020(14) |       14 |
+| Fundation                       | 0x00100040(13) |       13 |
+| Fundation                       | 0x00100080(12) |       12 |
+| Fundation                       | 0x00100100(11) |       11 |
+| Fundation                       | 0x00100200(10) |       10 |
+| Fundation                       | 0x00100400( 9) |        9 |
+| Fundation                       | 0x00100800( 8) |        8 |
+| Fundation                       | 0x00101000( 7) |        7 |
+| Fundation                       | 0x00102000( 6) |        6 |
+| Fundation                       | 0x00104000( 5) |        5 |
+| Fundation                       | 0x00108000( 4) |        4 |
+| Fundation                       | 0x00110000( 3) |        3 |
+| Fundation                       | 0x00120000( 2) |        2 |
+| Fundation                       | 0x00140000( 1) |        1 |
+| Fundation                       | 0x00180000( 0) |        0 |
+| Fundation                       | 0x00200001(20) |       20 |
+| Fundation                       | 0x00200002(19) |       19 |
+| Fundation                       | 0x00200004(18) |       18 |
+| Fundation                       | 0x00200008(17) |       17 |
+| Fundation                       | 0x00200010(16) |       16 |
+| Fundation                       | 0x00200020(15) |       15 |
+| Fundation                       | 0x00200040(14) |       14 |
+| Fundation                       | 0x00200080(13) |       13 |
+| Fundation                       | 0x00200100(12) |       12 |
+| Fundation                       | 0x00200200(11) |       11 |
+| Fundation                       | 0x00200400(10) |       10 |
+| Fundation                       | 0x00200800( 9) |        9 |
+| Fundation                       | 0x00201000( 8) |        8 |
+| Fundation                       | 0x00202000( 7) |        7 |
+| Fundation                       | 0x00204000( 6) |        6 |
+| Fundation                       | 0x00208000( 5) |        5 |
+| Fundation                       | 0x00210000( 4) |        4 |
+| Fundation                       | 0x00220000( 3) |        3 |
+| Fundation                       | 0x00240000( 2) |        2 |
+| Fundation                       | 0x00280000( 1) |        1 |
+| Fundation                       | 0x00300000( 0) |        0 |
+| Fundation                       | 0x00400001(21) |       21 |
+| Fundation                       | 0x00400002(20) |       20 |
+| Fundation                       | 0x00400004(19) |       19 |
+| Fundation                       | 0x00400008(18) |       18 |
+| Fundation                       | 0x00400010(17) |       17 |
+| Fundation                       | 0x00400020(16) |       16 |
+| Fundation                       | 0x00400040(15) |       15 |
+| Fundation                       | 0x00400080(14) |       14 |
+| Fundation                       | 0x00400100(13) |       13 |
+| Fundation                       | 0x00400200(12) |       12 |
+| Fundation                       | 0x00400400(11) |       11 |
+| Fundation                       | 0x00400800(10) |       10 |
+| Fundation                       | 0x00401000( 9) |        9 |
+| Fundation                       | 0x00402000( 8) |        8 |
+| Fundation                       | 0x00404000( 7) |        7 |
+| Fundation                       | 0x00408000( 6) |        6 |
+| Fundation                       | 0x00410000( 5) |        5 |
+| Fundation                       | 0x00420000( 4) |        4 |
+| Fundation                       | 0x00440000( 3) |        3 |
+| Fundation                       | 0x00480000( 2) |        2 |
+| Fundation                       | 0x00500000( 1) |        1 |
+| Fundation                       | 0x00600000( 0) |        0 |
+| Fundation                       | 0x00800001(22) |       22 |
+| Fundation                       | 0x00800002(21) |       21 |
+| Fundation                       | 0x00800004(20) |       20 |
+| Fundation                       | 0x00800008(19) |       19 |
+| Fundation                       | 0x00800010(18) |       18 |
+| Fundation                       | 0x00800020(17) |       17 |
+| Fundation                       | 0x00800040(16) |       16 |
+| Fundation                       | 0x00800080(15) |       15 |
+| Fundation                       | 0x00800100(14) |       14 |
+| Fundation                       | 0x00800200(13) |       13 |
+| Fundation                       | 0x00800400(12) |       12 |
+| Fundation                       | 0x00800800(11) |       11 |
+| Fundation                       | 0x00801000(10) |       10 |
+| Fundation                       | 0x00802000( 9) |        9 |
+| Fundation                       | 0x00804000( 8) |        8 |
+| Fundation                       | 0x00808000( 7) |        7 |
+| Fundation                       | 0x00810000( 6) |        6 |
+| Fundation                       | 0x00820000( 5) |        5 |
+| Fundation                       | 0x00840000( 4) |        4 |
+| Fundation                       | 0x00880000( 3) |        3 |
+| Fundation                       | 0x00900000( 2) |        2 |
+| Fundation                       | 0x00a00000( 1) |        1 |
+| Fundation                       | 0x00c00000( 0) |        0 |
+| Fundation                       | 0x01000001(23) |       23 |
+| Fundation                       | 0x01000002(22) |       22 |
+| Fundation                       | 0x01000004(21) |       21 |
+| Fundation                       | 0x01000008(20) |       20 |
+| Fundation                       | 0x01000010(19) |       19 |
+| Fundation                       | 0x01000020(18) |       18 |
+| Fundation                       | 0x01000040(17) |       17 |
+| Fundation                       | 0x01000080(16) |       16 |
+| Fundation                       | 0x01000100(15) |       15 |
+| Fundation                       | 0x01000200(14) |       14 |
+| Fundation                       | 0x01000400(13) |       13 |
+| Fundation                       | 0x01000800(12) |       12 |
+| Fundation                       | 0x01001000(11) |       11 |
+| Fundation                       | 0x01002000(10) |       10 |
+| Fundation                       | 0x01004000( 9) |        9 |
+| Fundation                       | 0x01008000( 8) |        8 |
+| Fundation                       | 0x01010000( 7) |        7 |
+| Fundation                       | 0x01020000( 6) |        6 |
+| Fundation                       | 0x01040000( 5) |        5 |
+| Fundation                       | 0x01080000( 4) |        4 |
+| Fundation                       | 0x01100000( 3) |        3 |
+| Fundation                       | 0x01200000( 2) |        2 |
+| Fundation                       | 0x01400000( 1) |        1 |
+| Fundation                       | 0x01800000( 0) |        0 |
+| Fundation                       | 0x02000001(24) |       24 |
+| Fundation                       | 0x02000002(23) |       23 |
+| Fundation                       | 0x02000004(22) |       22 |
+| Fundation                       | 0x02000008(21) |       21 |
+| Fundation                       | 0x02000010(20) |       20 |
+| Fundation                       | 0x02000020(19) |       19 |
+| Fundation                       | 0x02000040(18) |       18 |
+| Fundation                       | 0x02000080(17) |       17 |
+| Fundation                       | 0x02000100(16) |       16 |
+| Fundation                       | 0x02000200(15) |       15 |
+| Fundation                       | 0x02000400(14) |       14 |
+| Fundation                       | 0x02000800(13) |       13 |
+| Fundation                       | 0x02001000(12) |       12 |
+| Fundation                       | 0x02002000(11) |       11 |
+| Fundation                       | 0x02004000(10) |       10 |
+| Fundation                       | 0x02008000( 9) |        9 |
+| Fundation                       | 0x02010000( 8) |        8 |
+| Fundation                       | 0x02020000( 7) |        7 |
+| Fundation                       | 0x02040000( 6) |        6 |
+| Fundation                       | 0x02080000( 5) |        5 |
+| Fundation                       | 0x02100000( 4) |        4 |
+| Fundation                       | 0x02200000( 3) |        3 |
+| Fundation                       | 0x02400000( 2) |        2 |
+| Fundation                       | 0x02800000( 1) |        1 |
+| Fundation                       | 0x03000000( 0) |        0 |
+| Fundation                       | 0x04000001(25) |       25 |
+| Fundation                       | 0x04000002(24) |       24 |
+| Fundation                       | 0x04000004(23) |       23 |
+| Fundation                       | 0x04000008(22) |       22 |
+| Fundation                       | 0x04000010(21) |       21 |
+| Fundation                       | 0x04000020(20) |       20 |
+| Fundation                       | 0x04000040(19) |       19 |
+| Fundation                       | 0x04000080(18) |       18 |
+| Fundation                       | 0x04000100(17) |       17 |
+| Fundation                       | 0x04000200(16) |       16 |
+| Fundation                       | 0x04000400(15) |       15 |
+| Fundation                       | 0x04000800(14) |       14 |
+| Fundation                       | 0x04001000(13) |       13 |
+| Fundation                       | 0x04002000(12) |       12 |
+| Fundation                       | 0x04004000(11) |       11 |
+| Fundation                       | 0x04008000(10) |       10 |
+| Fundation                       | 0x04010000( 9) |        9 |
+| Fundation                       | 0x04020000( 8) |        8 |
+| Fundation                       | 0x04040000( 7) |        7 |
+| Fundation                       | 0x04080000( 6) |        6 |
+| Fundation                       | 0x04100000( 5) |        5 |
+| Fundation                       | 0x04200000( 4) |        4 |
+| Fundation                       | 0x04400000( 3) |        3 |
+| Fundation                       | 0x04800000( 2) |        2 |
+| Fundation                       | 0x05000000( 1) |        1 |
+| Fundation                       | 0x06000000( 0) |        0 |
+| Fundation                       | 0x08000001(26) |       26 |
+| Fundation                       | 0x08000002(25) |       25 |
+| Fundation                       | 0x08000004(24) |       24 |
+| Fundation                       | 0x08000008(23) |       23 |
+| Fundation                       | 0x08000010(22) |       22 |
+| Fundation                       | 0x08000020(21) |       21 |
+| Fundation                       | 0x08000040(20) |       20 |
+| Fundation                       | 0x08000080(19) |       19 |
+| Fundation                       | 0x08000100(18) |       18 |
+| Fundation                       | 0x08000200(17) |       17 |
+| Fundation                       | 0x08000400(16) |       16 |
+| Fundation                       | 0x08000800(15) |       15 |
+| Fundation                       | 0x08001000(14) |       14 |
+| Fundation                       | 0x08002000(13) |       13 |
+| Fundation                       | 0x08004000(12) |       12 |
+| Fundation                       | 0x08008000(11) |       11 |
+| Fundation                       | 0x08010000(10) |       10 |
+| Fundation                       | 0x08020000( 9) |        9 |
+| Fundation                       | 0x08040000( 8) |        8 |
+| Fundation                       | 0x08080000( 7) |        7 |
+| Fundation                       | 0x08100000( 6) |        6 |
+| Fundation                       | 0x08200000( 5) |        5 |
+| Fundation                       | 0x08400000( 4) |        4 |
+| Fundation                       | 0x08800000( 3) |        3 |
+| Fundation                       | 0x09000000( 2) |        2 |
+| Fundation                       | 0x0a000000( 1) |        1 |
+| Fundation                       | 0x0c000000( 0) |        0 |
+| Fundation                       | 0x10000001(27) |       27 |
+| Fundation                       | 0x10000002(26) |       26 |
+| Fundation                       | 0x10000004(25) |       25 |
+| Fundation                       | 0x10000008(24) |       24 |
+| Fundation                       | 0x10000010(23) |       23 |
+| Fundation                       | 0x10000020(22) |       22 |
+| Fundation                       | 0x10000040(21) |       21 |
+| Fundation                       | 0x10000080(20) |       20 |
+| Fundation                       | 0x10000100(19) |       19 |
+| Fundation                       | 0x10000200(18) |       18 |
+| Fundation                       | 0x10000400(17) |       17 |
+| Fundation                       | 0x10000800(16) |       16 |
+| Fundation                       | 0x10001000(15) |       15 |
+| Fundation                       | 0x10002000(14) |       14 |
+| Fundation                       | 0x10004000(13) |       13 |
+| Fundation                       | 0x10008000(12) |       12 |
+| Fundation                       | 0x10010000(11) |       11 |
+| Fundation                       | 0x10020000(10) |       10 |
+| Fundation                       | 0x10040000( 9) |        9 |
+| Fundation                       | 0x10080000( 8) |        8 |
+| Fundation                       | 0x10100000( 7) |        7 |
+| Fundation                       | 0x10200000( 6) |        6 |
+| Fundation                       | 0x10400000( 5) |        5 |
+| Fundation                       | 0x10800000( 4) |        4 |
+| Fundation                       | 0x11000000( 3) |        3 |
+| Fundation                       | 0x12000000( 2) |        2 |
+| Fundation                       | 0x14000000( 1) |        1 |
+| Fundation                       | 0x18000000( 0) |        0 |
+| Fundation                       | 0x20000001(28) |       28 |
+| Fundation                       | 0x20000002(27) |       27 |
+| Fundation                       | 0x20000004(26) |       26 |
+| Fundation                       | 0x20000008(25) |       25 |
+| Fundation                       | 0x20000010(24) |       24 |
+| Fundation                       | 0x20000020(23) |       23 |
+| Fundation                       | 0x20000040(22) |       22 |
+| Fundation                       | 0x20000080(21) |       21 |
+| Fundation                       | 0x20000100(20) |       20 |
+| Fundation                       | 0x20000200(19) |       19 |
+| Fundation                       | 0x20000400(18) |       18 |
+| Fundation                       | 0x20000800(17) |       17 |
+| Fundation                       | 0x20001000(16) |       16 |
+| Fundation                       | 0x20002000(15) |       15 |
+| Fundation                       | 0x20004000(14) |       14 |
+| Fundation                       | 0x20008000(13) |       13 |
+| Fundation                       | 0x20010000(12) |       12 |
+| Fundation                       | 0x20020000(11) |       11 |
+| Fundation                       | 0x20040000(10) |       10 |
+| Fundation                       | 0x20080000( 9) |        9 |
+| Fundation                       | 0x20100000( 8) |        8 |
+| Fundation                       | 0x20200000( 7) |        7 |
+| Fundation                       | 0x20400000( 6) |        6 |
+| Fundation                       | 0x20800000( 5) |        5 |
+| Fundation                       | 0x21000000( 4) |        4 |
+| Fundation                       | 0x22000000( 3) |        3 |
+| Fundation                       | 0x24000000( 2) |        2 |
+| Fundation                       | 0x28000000( 1) |        1 |
+| Fundation                       | 0x30000000( 0) |        0 |
+| Fundation                       | 0x40000001(29) |       29 |
+| Fundation                       | 0x40000002(28) |       28 |
+| Fundation                       | 0x40000004(27) |       27 |
+| Fundation                       | 0x40000008(26) |       26 |
+| Fundation                       | 0x40000010(25) |       25 |
+| Fundation                       | 0x40000020(24) |       24 |
+| Fundation                       | 0x40000040(23) |       23 |
+| Fundation                       | 0x40000080(22) |       22 |
+| Fundation                       | 0x40000100(21) |       21 |
+| Fundation                       | 0x40000200(20) |       20 |
+| Fundation                       | 0x40000400(19) |       19 |
+| Fundation                       | 0x40000800(18) |       18 |
+| Fundation                       | 0x40001000(17) |       17 |
+| Fundation                       | 0x40002000(16) |       16 |
+| Fundation                       | 0x40004000(15) |       15 |
+| Fundation                       | 0x40008000(14) |       14 |
+| Fundation                       | 0x40010000(13) |       13 |
+| Fundation                       | 0x40020000(12) |       12 |
+| Fundation                       | 0x40040000(11) |       11 |
+| Fundation                       | 0x40080000(10) |       10 |
+| Fundation                       | 0x40100000( 9) |        9 |
+| Fundation                       | 0x40200000( 8) |        8 |
+| Fundation                       | 0x40400000( 7) |        7 |
+| Fundation                       | 0x40800000( 6) |        6 |
+| Fundation                       | 0x41000000( 5) |        5 |
+| Fundation                       | 0x42000000( 4) |        4 |
+| Fundation                       | 0x44000000( 3) |        3 |
+| Fundation                       | 0x48000000( 2) |        2 |
+| Fundation                       | 0x50000000( 1) |        1 |
+| Fundation                       | 0x60000000( 0) |        0 |
+| Fundation                       | 0x80000001(30) |       30 |
+| Fundation                       | 0x80000002(29) |       29 |
+| Fundation                       | 0x80000004(28) |       28 |
+| Fundation                       | 0x80000008(27) |       27 |
+| Fundation                       | 0x80000010(26) |       26 |
+| Fundation                       | 0x80000020(25) |       25 |
+| Fundation                       | 0x80000040(24) |       24 |
+| Fundation                       | 0x80000080(23) |       23 |
+| Fundation                       | 0x80000100(22) |       22 |
+| Fundation                       | 0x80000200(21) |       21 |
+| Fundation                       | 0x80000400(20) |       20 |
+| Fundation                       | 0x80000800(19) |       19 |
+| Fundation                       | 0x80001000(18) |       18 |
+| Fundation                       | 0x80002000(17) |       17 |
+| Fundation                       | 0x80004000(16) |       16 |
+| Fundation                       | 0x80008000(15) |       15 |
+| Fundation                       | 0x80010000(14) |       14 |
+| Fundation                       | 0x80020000(13) |       13 |
+| Fundation                       | 0x80040000(12) |       12 |
+| Fundation                       | 0x80080000(11) |       11 |
+| Fundation                       | 0x80100000(10) |       10 |
+| Fundation                       | 0x80200000( 9) |        9 |
+| Fundation                       | 0x80400000( 8) |        8 |
+| Fundation                       | 0x80800000( 7) |        7 |
+| Fundation                       | 0x81000000( 6) |        6 |
+| Fundation                       | 0x82000000( 5) |        5 |
+| Fundation                       | 0x84000000( 4) |        4 |
+| Fundation                       | 0x88000000( 3) |        3 |
+| Fundation                       | 0x90000000( 2) |        2 |
+| Fundation                       | 0xa0000000( 1) |        1 |
+| Fundation                       | 0xc0000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000003( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000005( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000006( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000009( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0000000a( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0000000c( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000011( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000012( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000014( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000018( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000021( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000022( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000024( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000028( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000030( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000041( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000042( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000044( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000048( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000050( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000060( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000081( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000082( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000084( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000088( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000090( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x000000a0( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x000000c0( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000101( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000102( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000104( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000108( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000110( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000120( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000140( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000180( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000201( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000202( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000204( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000208( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000210( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000220( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000240( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000280( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000300( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000401( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000402( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000404( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000408( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000410( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000420( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000440( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000480( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000500( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000600( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000801(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000802( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000804( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000808( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000810( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000820( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000840( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000880( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000900( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000a00( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00000c00( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001001(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001002(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001004( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001008( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001010( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001020( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001040( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001080( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001100( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001200( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001400( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00001800( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002001(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002002(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002004(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002008( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002010( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002020( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002040( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002080( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002100( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002200( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002400( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00002800( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00003000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004001(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004002(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004004(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004008(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004010( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004020( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004040( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004080( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004100( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004200( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004400( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00004800( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00005000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00006000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008001(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008002(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008004(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008008(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008010(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008020( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008040( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008080( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008100( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008200( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008400( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00008800( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00009000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0000a000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0000c000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010001(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010002(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010004(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010008(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010010(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010020(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010040( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010080( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010100( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010200( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010400( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00010800( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00011000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00012000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00014000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00018000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020001(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020002(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020004(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020008(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020010(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020020(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020040(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020080( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020100( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020200( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020400( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00020800( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00021000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00022000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00024000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00028000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00030000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040001(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040002(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040004(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040008(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040010(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040020(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040040(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040080(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040100( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040200( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040400( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00040800( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00041000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00042000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00044000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00048000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00050000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00060000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080001(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080002(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080004(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080008(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080010(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080020(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080040(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080080(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080100(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080200( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080400( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00080800( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00081000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00082000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00084000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00088000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00090000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x000a0000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x000c0000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100001(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100002(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100004(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100008(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100010(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100020(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100040(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100080(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100100(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100200(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100400( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00100800( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00101000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00102000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00104000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00108000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00110000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00120000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00140000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00180000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200001(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200002(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200004(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200008(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200010(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200020(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200040(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200080(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200100(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200200(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200400(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00200800( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00201000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00202000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00204000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00208000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00210000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00220000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00240000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00280000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00300000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400001(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400002(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400004(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400008(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400010(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400020(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400040(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400080(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400100(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400200(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400400(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00400800(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00401000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00402000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00404000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00408000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00410000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00420000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00440000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00480000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00500000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00600000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800001(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800002(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800004(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800008(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800010(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800020(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800040(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800080(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800100(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800200(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800400(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00800800(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00801000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00802000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00804000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00808000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00810000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00820000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00840000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00880000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00900000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00a00000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x00c00000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000001(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000002(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000004(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000008(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000010(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000020(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000040(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000080(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000100(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000200(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000400(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01000800(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01001000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01002000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01004000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01008000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01010000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01020000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01040000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01080000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01100000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01200000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01400000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x01800000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000001(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000002(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000004(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000008(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000010(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000020(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000040(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000080(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000100(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000200(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000400(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02000800(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02001000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02002000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02004000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02008000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02010000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02020000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02040000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02080000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02100000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02200000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02400000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x02800000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x03000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000001(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000002(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000004(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000008(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000010(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000020(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000040(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000080(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000100(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000200(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000400(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04000800(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04001000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04002000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04004000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04008000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04010000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04020000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04040000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04080000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04100000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04200000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04400000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x04800000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x05000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x06000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000001(26) |     2106 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000002(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000004(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000008(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000010(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000020(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000040(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000080(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000100(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000200(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000400(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08000800(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08001000(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08002000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08004000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08008000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08010000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08020000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08040000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08080000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08100000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08200000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08400000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x08800000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x09000000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0a000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x0c000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000001(27) |     2187 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000002(26) |     2106 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000004(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000008(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000010(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000020(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000040(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000080(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000100(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000200(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000400(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10000800(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10001000(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10002000(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10004000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10008000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10010000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10020000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10040000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10080000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10100000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10200000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10400000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x10800000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x11000000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x12000000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x14000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x18000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000001(28) |     2268 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000002(27) |     2187 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000004(26) |     2106 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000008(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000010(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000020(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000040(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000080(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000100(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000200(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000400(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20000800(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20001000(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20002000(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20004000(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20008000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20010000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20020000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20040000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20080000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20100000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20200000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20400000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x20800000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x21000000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x22000000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x24000000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x28000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x30000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000001(29) |     2349 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000002(28) |     2268 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000004(27) |     2187 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000008(26) |     2106 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000010(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000020(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000040(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000080(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000100(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000200(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000400(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40000800(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40001000(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40002000(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40004000(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40008000(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40010000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40020000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40040000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40080000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40100000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40200000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40400000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x40800000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x41000000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x42000000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x44000000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x48000000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0x50000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0x60000000( 0) |        0 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000001(30) |     2430 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000002(29) |     2349 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000004(28) |     2268 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000008(27) |     2187 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000010(26) |     2106 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000020(25) |     2025 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000040(24) |     1944 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000080(23) |     1863 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000100(22) |     1782 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000200(21) |     1701 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000400(20) |     1620 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80000800(19) |     1539 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80001000(18) |     1458 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80002000(17) |     1377 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80004000(16) |     1296 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80008000(15) |     1215 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80010000(14) |     1134 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80020000(13) |     1053 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80040000(12) |      972 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80080000(11) |      891 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80100000(10) |      810 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80200000( 9) |      729 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80400000( 8) |      648 |
+| Neon Genesis Evangelion, Vol. 1 | 0x80800000( 7) |      567 |
+| Neon Genesis Evangelion, Vol. 1 | 0x81000000( 6) |      486 |
+| Neon Genesis Evangelion, Vol. 1 | 0x82000000( 5) |      405 |
+| Neon Genesis Evangelion, Vol. 1 | 0x84000000( 4) |      324 |
+| Neon Genesis Evangelion, Vol. 1 | 0x88000000( 3) |      243 |
+| Neon Genesis Evangelion, Vol. 1 | 0x90000000( 2) |      162 |
+| Neon Genesis Evangelion, Vol. 1 | 0xa0000000( 1) |       81 |
+| Neon Genesis Evangelion, Vol. 1 | 0xc0000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000003( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000005( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000006( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000009( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x0000000a( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x0000000c( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000011( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000012( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000014( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000018( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000021( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000022( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000024( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000028( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000030( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000041( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000042( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000044( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000048( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000050( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000060( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000081( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000082( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000084( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000088( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000090( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x000000a0( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x000000c0( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000101( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000102( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000104( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000108( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000110( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000120( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000140( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000180( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000201( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000202( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000204( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000208( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000210( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000220( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000240( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000280( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000300( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000401( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000402( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000404( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000408( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000410( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000420( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000440( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000480( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000500( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000600( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000801(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000802( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000804( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000808( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000810( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000820( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000840( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000880( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000900( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000a00( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00000c00( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001001(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001002(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001004( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001008( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001010( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001020( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001040( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001080( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001100( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001200( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001400( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00001800( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002001(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002002(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002004(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002008( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002010( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002020( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002040( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002080( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002100( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002200( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002400( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00002800( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00003000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004001(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004002(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004004(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004008(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004010( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004020( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004040( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004080( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004100( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004200( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004400( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00004800( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00005000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00006000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008001(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008002(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008004(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008008(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008010(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008020( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008040( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008080( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008100( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008200( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008400( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00008800( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00009000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x0000a000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x0000c000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010001(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010002(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010004(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010008(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010010(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010020(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010040( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010080( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010100( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010200( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010400( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00010800( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00011000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00012000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00014000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00018000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020001(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020002(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020004(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020008(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020010(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020020(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020040(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020080( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020100( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020200( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020400( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00020800( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00021000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00022000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00024000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00028000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00030000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040001(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040002(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040004(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040008(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040010(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040020(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040040(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040080(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040100( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040200( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040400( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00040800( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00041000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00042000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00044000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00048000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00050000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00060000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080001(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080002(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080004(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080008(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080010(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080020(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080040(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080080(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080100(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080200( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080400( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00080800( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00081000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00082000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00084000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00088000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00090000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x000a0000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x000c0000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100001(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100002(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100004(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100008(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100010(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100020(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100040(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100080(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100100(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100200(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100400( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00100800( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00101000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00102000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00104000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00108000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00110000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00120000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00140000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00180000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200001(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200002(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200004(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200008(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200010(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200020(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200040(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200080(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200100(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200200(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200400(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00200800( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00201000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00202000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00204000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00208000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00210000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00220000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00240000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00280000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00300000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400001(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400002(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400004(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400008(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400010(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400020(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400040(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400080(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400100(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400200(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400400(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00400800(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00401000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00402000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00404000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00408000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00410000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00420000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00440000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00480000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00500000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00600000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800001(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800002(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800004(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800008(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800010(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800020(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800040(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800080(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800100(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800200(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800400(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x00800800(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x00801000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x00802000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x00804000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x00808000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x00810000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x00820000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x00840000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x00880000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x00900000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x00a00000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x00c00000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000001(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000002(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000004(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000008(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000010(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000020(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000040(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000080(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000100(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000200(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000400(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x01000800(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x01001000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x01002000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x01004000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x01008000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x01010000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x01020000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x01040000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x01080000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x01100000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x01200000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x01400000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x01800000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000001(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000002(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000004(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000008(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000010(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000020(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000040(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000080(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000100(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000200(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000400(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x02000800(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x02001000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x02002000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x02004000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x02008000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x02010000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x02020000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x02040000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x02080000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x02100000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x02200000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x02400000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x02800000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x03000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000001(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000002(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000004(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000008(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000010(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000020(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000040(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000080(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000100(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000200(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000400(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x04000800(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x04001000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x04002000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x04004000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x04008000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x04010000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x04020000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x04040000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x04080000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x04100000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x04200000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x04400000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x04800000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x05000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x06000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000001(26) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000002(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000004(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000008(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000010(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000020(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000040(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000080(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000100(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000200(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000400(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x08000800(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x08001000(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x08002000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x08004000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x08008000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x08010000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x08020000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x08040000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x08080000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x08100000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x08200000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x08400000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x08800000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x09000000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x0a000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x0c000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000001(27) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000002(26) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000004(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000008(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000010(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000020(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000040(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000080(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000100(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000200(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000400(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x10000800(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x10001000(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x10002000(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x10004000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x10008000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x10010000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x10020000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x10040000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x10080000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x10100000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x10200000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x10400000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x10800000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x11000000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x12000000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x14000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x18000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000001(28) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000002(27) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000004(26) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000008(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000010(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000020(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000040(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000080(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000100(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000200(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000400(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x20000800(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x20001000(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x20002000(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x20004000(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x20008000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x20010000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x20020000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x20040000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x20080000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x20100000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x20200000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x20400000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x20800000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x21000000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x22000000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x24000000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x28000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x30000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000001(29) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000002(28) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000004(27) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000008(26) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000010(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000020(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000040(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000080(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000100(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000200(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000400(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x40000800(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x40001000(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x40002000(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x40004000(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x40008000(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x40010000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x40020000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x40040000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x40080000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x40100000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x40200000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x40400000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x40800000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x41000000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x42000000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x44000000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x48000000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0x50000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0x60000000( 0) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000001(30) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000002(29) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000004(28) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000008(27) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000010(26) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000020(25) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000040(24) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000080(23) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000100(22) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000200(21) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000400(20) |        0 |
+| Programming Perl (3rd Edition)  | 0x80000800(19) |        0 |
+| Programming Perl (3rd Edition)  | 0x80001000(18) |        0 |
+| Programming Perl (3rd Edition)  | 0x80002000(17) |        0 |
+| Programming Perl (3rd Edition)  | 0x80004000(16) |        0 |
+| Programming Perl (3rd Edition)  | 0x80008000(15) |        0 |
+| Programming Perl (3rd Edition)  | 0x80010000(14) |        0 |
+| Programming Perl (3rd Edition)  | 0x80020000(13) |        0 |
+| Programming Perl (3rd Edition)  | 0x80040000(12) |        0 |
+| Programming Perl (3rd Edition)  | 0x80080000(11) |        0 |
+| Programming Perl (3rd Edition)  | 0x80100000(10) |        0 |
+| Programming Perl (3rd Edition)  | 0x80200000( 9) |        0 |
+| Programming Perl (3rd Edition)  | 0x80400000( 8) |        0 |
+| Programming Perl (3rd Edition)  | 0x80800000( 7) |        0 |
+| Programming Perl (3rd Edition)  | 0x81000000( 6) |        0 |
+| Programming Perl (3rd Edition)  | 0x82000000( 5) |        0 |
+| Programming Perl (3rd Edition)  | 0x84000000( 4) |        0 |
+| Programming Perl (3rd Edition)  | 0x88000000( 3) |        0 |
+| Programming Perl (3rd Edition)  | 0x90000000( 2) |        0 |
+| Programming Perl (3rd Edition)  | 0xa0000000( 1) |        0 |
+| Programming Perl (3rd Edition)  | 0xc0000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000003( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000005( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000006( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000009( 2) |      172 |
+| C How to Program (5th Edition)  | 0x0000000a( 1) |       86 |
+| C How to Program (5th Edition)  | 0x0000000c( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000011( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000012( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000014( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000018( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000021( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000022( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000024( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000028( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000030( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000041( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000042( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000044( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000048( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000050( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000060( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000081( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00000082( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000084( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000088( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000090( 2) |      172 |
+| C How to Program (5th Edition)  | 0x000000a0( 1) |       86 |
+| C How to Program (5th Edition)  | 0x000000c0( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000101( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00000102( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00000104( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000108( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000110( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000120( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000140( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000180( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000201( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00000202( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00000204( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00000208( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000210( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000220( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000240( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000280( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000300( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000401( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00000402( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00000404( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00000408( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00000410( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000420( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000440( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000480( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000500( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000600( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00000801(10) |      860 |
+| C How to Program (5th Edition)  | 0x00000802( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00000804( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00000808( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00000810( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00000820( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00000840( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00000880( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00000900( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00000a00( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00000c00( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00001001(11) |      946 |
+| C How to Program (5th Edition)  | 0x00001002(10) |      860 |
+| C How to Program (5th Edition)  | 0x00001004( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00001008( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00001010( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00001020( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00001040( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00001080( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00001100( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00001200( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00001400( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00001800( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00002001(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00002002(11) |      946 |
+| C How to Program (5th Edition)  | 0x00002004(10) |      860 |
+| C How to Program (5th Edition)  | 0x00002008( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00002010( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00002020( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00002040( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00002080( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00002100( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00002200( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00002400( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00002800( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00003000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00004001(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00004002(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00004004(11) |      946 |
+| C How to Program (5th Edition)  | 0x00004008(10) |      860 |
+| C How to Program (5th Edition)  | 0x00004010( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00004020( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00004040( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00004080( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00004100( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00004200( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00004400( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00004800( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00005000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00006000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00008001(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00008002(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00008004(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00008008(11) |      946 |
+| C How to Program (5th Edition)  | 0x00008010(10) |      860 |
+| C How to Program (5th Edition)  | 0x00008020( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00008040( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00008080( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00008100( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00008200( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00008400( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00008800( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00009000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x0000a000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x0000c000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00010001(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00010002(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00010004(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00010008(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00010010(11) |      946 |
+| C How to Program (5th Edition)  | 0x00010020(10) |      860 |
+| C How to Program (5th Edition)  | 0x00010040( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00010080( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00010100( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00010200( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00010400( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00010800( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00011000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00012000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00014000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00018000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00020001(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00020002(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00020004(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00020008(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00020010(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00020020(11) |      946 |
+| C How to Program (5th Edition)  | 0x00020040(10) |      860 |
+| C How to Program (5th Edition)  | 0x00020080( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00020100( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00020200( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00020400( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00020800( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00021000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00022000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00024000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00028000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00030000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00040001(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00040002(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00040004(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00040008(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00040010(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00040020(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00040040(11) |      946 |
+| C How to Program (5th Edition)  | 0x00040080(10) |      860 |
+| C How to Program (5th Edition)  | 0x00040100( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00040200( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00040400( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00040800( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00041000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00042000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00044000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00048000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00050000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00060000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00080001(18) |     1548 |
+| C How to Program (5th Edition)  | 0x00080002(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00080004(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00080008(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00080010(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00080020(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00080040(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00080080(11) |      946 |
+| C How to Program (5th Edition)  | 0x00080100(10) |      860 |
+| C How to Program (5th Edition)  | 0x00080200( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00080400( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00080800( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00081000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00082000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00084000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00088000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00090000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x000a0000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x000c0000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00100001(19) |     1634 |
+| C How to Program (5th Edition)  | 0x00100002(18) |     1548 |
+| C How to Program (5th Edition)  | 0x00100004(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00100008(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00100010(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00100020(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00100040(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00100080(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00100100(11) |      946 |
+| C How to Program (5th Edition)  | 0x00100200(10) |      860 |
+| C How to Program (5th Edition)  | 0x00100400( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00100800( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00101000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00102000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00104000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00108000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00110000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00120000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00140000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00180000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00200001(20) |     1720 |
+| C How to Program (5th Edition)  | 0x00200002(19) |     1634 |
+| C How to Program (5th Edition)  | 0x00200004(18) |     1548 |
+| C How to Program (5th Edition)  | 0x00200008(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00200010(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00200020(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00200040(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00200080(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00200100(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00200200(11) |      946 |
+| C How to Program (5th Edition)  | 0x00200400(10) |      860 |
+| C How to Program (5th Edition)  | 0x00200800( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00201000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00202000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00204000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00208000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00210000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00220000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00240000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00280000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00300000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00400001(21) |     1806 |
+| C How to Program (5th Edition)  | 0x00400002(20) |     1720 |
+| C How to Program (5th Edition)  | 0x00400004(19) |     1634 |
+| C How to Program (5th Edition)  | 0x00400008(18) |     1548 |
+| C How to Program (5th Edition)  | 0x00400010(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00400020(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00400040(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00400080(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00400100(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00400200(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00400400(11) |      946 |
+| C How to Program (5th Edition)  | 0x00400800(10) |      860 |
+| C How to Program (5th Edition)  | 0x00401000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00402000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00404000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00408000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00410000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00420000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00440000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00480000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00500000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00600000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x00800001(22) |     1892 |
+| C How to Program (5th Edition)  | 0x00800002(21) |     1806 |
+| C How to Program (5th Edition)  | 0x00800004(20) |     1720 |
+| C How to Program (5th Edition)  | 0x00800008(19) |     1634 |
+| C How to Program (5th Edition)  | 0x00800010(18) |     1548 |
+| C How to Program (5th Edition)  | 0x00800020(17) |     1462 |
+| C How to Program (5th Edition)  | 0x00800040(16) |     1376 |
+| C How to Program (5th Edition)  | 0x00800080(15) |     1290 |
+| C How to Program (5th Edition)  | 0x00800100(14) |     1204 |
+| C How to Program (5th Edition)  | 0x00800200(13) |     1118 |
+| C How to Program (5th Edition)  | 0x00800400(12) |     1032 |
+| C How to Program (5th Edition)  | 0x00800800(11) |      946 |
+| C How to Program (5th Edition)  | 0x00801000(10) |      860 |
+| C How to Program (5th Edition)  | 0x00802000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x00804000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x00808000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x00810000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x00820000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x00840000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x00880000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x00900000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x00a00000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x00c00000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x01000001(23) |     1978 |
+| C How to Program (5th Edition)  | 0x01000002(22) |     1892 |
+| C How to Program (5th Edition)  | 0x01000004(21) |     1806 |
+| C How to Program (5th Edition)  | 0x01000008(20) |     1720 |
+| C How to Program (5th Edition)  | 0x01000010(19) |     1634 |
+| C How to Program (5th Edition)  | 0x01000020(18) |     1548 |
+| C How to Program (5th Edition)  | 0x01000040(17) |     1462 |
+| C How to Program (5th Edition)  | 0x01000080(16) |     1376 |
+| C How to Program (5th Edition)  | 0x01000100(15) |     1290 |
+| C How to Program (5th Edition)  | 0x01000200(14) |     1204 |
+| C How to Program (5th Edition)  | 0x01000400(13) |     1118 |
+| C How to Program (5th Edition)  | 0x01000800(12) |     1032 |
+| C How to Program (5th Edition)  | 0x01001000(11) |      946 |
+| C How to Program (5th Edition)  | 0x01002000(10) |      860 |
+| C How to Program (5th Edition)  | 0x01004000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x01008000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x01010000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x01020000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x01040000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x01080000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x01100000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x01200000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x01400000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x01800000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x02000001(24) |     2064 |
+| C How to Program (5th Edition)  | 0x02000002(23) |     1978 |
+| C How to Program (5th Edition)  | 0x02000004(22) |     1892 |
+| C How to Program (5th Edition)  | 0x02000008(21) |     1806 |
+| C How to Program (5th Edition)  | 0x02000010(20) |     1720 |
+| C How to Program (5th Edition)  | 0x02000020(19) |     1634 |
+| C How to Program (5th Edition)  | 0x02000040(18) |     1548 |
+| C How to Program (5th Edition)  | 0x02000080(17) |     1462 |
+| C How to Program (5th Edition)  | 0x02000100(16) |     1376 |
+| C How to Program (5th Edition)  | 0x02000200(15) |     1290 |
+| C How to Program (5th Edition)  | 0x02000400(14) |     1204 |
+| C How to Program (5th Edition)  | 0x02000800(13) |     1118 |
+| C How to Program (5th Edition)  | 0x02001000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x02002000(11) |      946 |
+| C How to Program (5th Edition)  | 0x02004000(10) |      860 |
+| C How to Program (5th Edition)  | 0x02008000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x02010000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x02020000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x02040000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x02080000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x02100000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x02200000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x02400000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x02800000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x03000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x04000001(25) |     2150 |
+| C How to Program (5th Edition)  | 0x04000002(24) |     2064 |
+| C How to Program (5th Edition)  | 0x04000004(23) |     1978 |
+| C How to Program (5th Edition)  | 0x04000008(22) |     1892 |
+| C How to Program (5th Edition)  | 0x04000010(21) |     1806 |
+| C How to Program (5th Edition)  | 0x04000020(20) |     1720 |
+| C How to Program (5th Edition)  | 0x04000040(19) |     1634 |
+| C How to Program (5th Edition)  | 0x04000080(18) |     1548 |
+| C How to Program (5th Edition)  | 0x04000100(17) |     1462 |
+| C How to Program (5th Edition)  | 0x04000200(16) |     1376 |
+| C How to Program (5th Edition)  | 0x04000400(15) |     1290 |
+| C How to Program (5th Edition)  | 0x04000800(14) |     1204 |
+| C How to Program (5th Edition)  | 0x04001000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x04002000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x04004000(11) |      946 |
+| C How to Program (5th Edition)  | 0x04008000(10) |      860 |
+| C How to Program (5th Edition)  | 0x04010000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x04020000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x04040000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x04080000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x04100000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x04200000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x04400000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x04800000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x05000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x06000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x08000001(26) |     2236 |
+| C How to Program (5th Edition)  | 0x08000002(25) |     2150 |
+| C How to Program (5th Edition)  | 0x08000004(24) |     2064 |
+| C How to Program (5th Edition)  | 0x08000008(23) |     1978 |
+| C How to Program (5th Edition)  | 0x08000010(22) |     1892 |
+| C How to Program (5th Edition)  | 0x08000020(21) |     1806 |
+| C How to Program (5th Edition)  | 0x08000040(20) |     1720 |
+| C How to Program (5th Edition)  | 0x08000080(19) |     1634 |
+| C How to Program (5th Edition)  | 0x08000100(18) |     1548 |
+| C How to Program (5th Edition)  | 0x08000200(17) |     1462 |
+| C How to Program (5th Edition)  | 0x08000400(16) |     1376 |
+| C How to Program (5th Edition)  | 0x08000800(15) |     1290 |
+| C How to Program (5th Edition)  | 0x08001000(14) |     1204 |
+| C How to Program (5th Edition)  | 0x08002000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x08004000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x08008000(11) |      946 |
+| C How to Program (5th Edition)  | 0x08010000(10) |      860 |
+| C How to Program (5th Edition)  | 0x08020000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x08040000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x08080000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x08100000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x08200000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x08400000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x08800000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x09000000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x0a000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x0c000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x10000001(27) |     2322 |
+| C How to Program (5th Edition)  | 0x10000002(26) |     2236 |
+| C How to Program (5th Edition)  | 0x10000004(25) |     2150 |
+| C How to Program (5th Edition)  | 0x10000008(24) |     2064 |
+| C How to Program (5th Edition)  | 0x10000010(23) |     1978 |
+| C How to Program (5th Edition)  | 0x10000020(22) |     1892 |
+| C How to Program (5th Edition)  | 0x10000040(21) |     1806 |
+| C How to Program (5th Edition)  | 0x10000080(20) |     1720 |
+| C How to Program (5th Edition)  | 0x10000100(19) |     1634 |
+| C How to Program (5th Edition)  | 0x10000200(18) |     1548 |
+| C How to Program (5th Edition)  | 0x10000400(17) |     1462 |
+| C How to Program (5th Edition)  | 0x10000800(16) |     1376 |
+| C How to Program (5th Edition)  | 0x10001000(15) |     1290 |
+| C How to Program (5th Edition)  | 0x10002000(14) |     1204 |
+| C How to Program (5th Edition)  | 0x10004000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x10008000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x10010000(11) |      946 |
+| C How to Program (5th Edition)  | 0x10020000(10) |      860 |
+| C How to Program (5th Edition)  | 0x10040000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x10080000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x10100000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x10200000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x10400000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x10800000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x11000000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x12000000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x14000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x18000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x20000001(28) |     2408 |
+| C How to Program (5th Edition)  | 0x20000002(27) |     2322 |
+| C How to Program (5th Edition)  | 0x20000004(26) |     2236 |
+| C How to Program (5th Edition)  | 0x20000008(25) |     2150 |
+| C How to Program (5th Edition)  | 0x20000010(24) |     2064 |
+| C How to Program (5th Edition)  | 0x20000020(23) |     1978 |
+| C How to Program (5th Edition)  | 0x20000040(22) |     1892 |
+| C How to Program (5th Edition)  | 0x20000080(21) |     1806 |
+| C How to Program (5th Edition)  | 0x20000100(20) |     1720 |
+| C How to Program (5th Edition)  | 0x20000200(19) |     1634 |
+| C How to Program (5th Edition)  | 0x20000400(18) |     1548 |
+| C How to Program (5th Edition)  | 0x20000800(17) |     1462 |
+| C How to Program (5th Edition)  | 0x20001000(16) |     1376 |
+| C How to Program (5th Edition)  | 0x20002000(15) |     1290 |
+| C How to Program (5th Edition)  | 0x20004000(14) |     1204 |
+| C How to Program (5th Edition)  | 0x20008000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x20010000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x20020000(11) |      946 |
+| C How to Program (5th Edition)  | 0x20040000(10) |      860 |
+| C How to Program (5th Edition)  | 0x20080000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x20100000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x20200000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x20400000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x20800000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x21000000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x22000000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x24000000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x28000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x30000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x40000001(29) |     2494 |
+| C How to Program (5th Edition)  | 0x40000002(28) |     2408 |
+| C How to Program (5th Edition)  | 0x40000004(27) |     2322 |
+| C How to Program (5th Edition)  | 0x40000008(26) |     2236 |
+| C How to Program (5th Edition)  | 0x40000010(25) |     2150 |
+| C How to Program (5th Edition)  | 0x40000020(24) |     2064 |
+| C How to Program (5th Edition)  | 0x40000040(23) |     1978 |
+| C How to Program (5th Edition)  | 0x40000080(22) |     1892 |
+| C How to Program (5th Edition)  | 0x40000100(21) |     1806 |
+| C How to Program (5th Edition)  | 0x40000200(20) |     1720 |
+| C How to Program (5th Edition)  | 0x40000400(19) |     1634 |
+| C How to Program (5th Edition)  | 0x40000800(18) |     1548 |
+| C How to Program (5th Edition)  | 0x40001000(17) |     1462 |
+| C How to Program (5th Edition)  | 0x40002000(16) |     1376 |
+| C How to Program (5th Edition)  | 0x40004000(15) |     1290 |
+| C How to Program (5th Edition)  | 0x40008000(14) |     1204 |
+| C How to Program (5th Edition)  | 0x40010000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x40020000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x40040000(11) |      946 |
+| C How to Program (5th Edition)  | 0x40080000(10) |      860 |
+| C How to Program (5th Edition)  | 0x40100000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x40200000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x40400000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x40800000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x41000000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x42000000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x44000000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x48000000( 2) |      172 |
+| C How to Program (5th Edition)  | 0x50000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0x60000000( 0) |        0 |
+| C How to Program (5th Edition)  | 0x80000001(30) |     2580 |
+| C How to Program (5th Edition)  | 0x80000002(29) |     2494 |
+| C How to Program (5th Edition)  | 0x80000004(28) |     2408 |
+| C How to Program (5th Edition)  | 0x80000008(27) |     2322 |
+| C How to Program (5th Edition)  | 0x80000010(26) |     2236 |
+| C How to Program (5th Edition)  | 0x80000020(25) |     2150 |
+| C How to Program (5th Edition)  | 0x80000040(24) |     2064 |
+| C How to Program (5th Edition)  | 0x80000080(23) |     1978 |
+| C How to Program (5th Edition)  | 0x80000100(22) |     1892 |
+| C How to Program (5th Edition)  | 0x80000200(21) |     1806 |
+| C How to Program (5th Edition)  | 0x80000400(20) |     1720 |
+| C How to Program (5th Edition)  | 0x80000800(19) |     1634 |
+| C How to Program (5th Edition)  | 0x80001000(18) |     1548 |
+| C How to Program (5th Edition)  | 0x80002000(17) |     1462 |
+| C How to Program (5th Edition)  | 0x80004000(16) |     1376 |
+| C How to Program (5th Edition)  | 0x80008000(15) |     1290 |
+| C How to Program (5th Edition)  | 0x80010000(14) |     1204 |
+| C How to Program (5th Edition)  | 0x80020000(13) |     1118 |
+| C How to Program (5th Edition)  | 0x80040000(12) |     1032 |
+| C How to Program (5th Edition)  | 0x80080000(11) |      946 |
+| C How to Program (5th Edition)  | 0x80100000(10) |      860 |
+| C How to Program (5th Edition)  | 0x80200000( 9) |      774 |
+| C How to Program (5th Edition)  | 0x80400000( 8) |      688 |
+| C How to Program (5th Edition)  | 0x80800000( 7) |      602 |
+| C How to Program (5th Edition)  | 0x81000000( 6) |      516 |
+| C How to Program (5th Edition)  | 0x82000000( 5) |      430 |
+| C How to Program (5th Edition)  | 0x84000000( 4) |      344 |
+| C How to Program (5th Edition)  | 0x88000000( 3) |      258 |
+| C How to Program (5th Edition)  | 0x90000000( 2) |      172 |
+| C How to Program (5th Edition)  | 0xa0000000( 1) |       86 |
+| C How to Program (5th Edition)  | 0xc0000000( 0) |        0 |
++---------------------------------+----------------+----------+
