@@ -1,0 +1,1000 @@
+af 9
+weight = 0
+main ingredient = NOT FOUND
+weight = 9
+weight = 0
+bf 5
+main ingredient = aspartame
+bf 2
+af 1
+af 1
+weight = 12
+bf 4
+bf 1
+main ingredient = aspartame
+weight = 10
+bf 0
+bf 4
+weight = 13
+main ingredient = acetone
+main ingredient = acetone
+main ingredient = acetone
+weight = 14
+bf 8
+af 7
+main ingredient = tapioca
+bf 9
+af 1
+af 6
+bf 8
+main ingredient = tapioca
+bf 4
+weight = 38
+main ingredient = acetone
+bf 3
+bf 11
+weight = 45
+af 7
+main ingredient = B
+bf 6
+af -1
+bf 8
+weight = 46
+bf 11
+bf -1
+weight = 37
+bf 13
+main ingredient = B
+af 16
+main ingredient = B
+af 17
+af 6
+main ingredient = B
+main ingredient = B
+af 6
+bf 16
+bf 5
+af 15
+weight = 67
+af 23
+weight = 48
+weight = 75
+weight = 75
+main ingredient = B
+af 15
+main ingredient = chloride
+af 26
+weight = 56
+main ingredient = lactose
+main ingredient = lactose
+bf 7
+bf 14
+main ingredient = acetone
+af 18
+weight = 84
+main ingredient = lactose
+af -1
+main ingredient = acetone
+af 23
+af 8
+af 12
+weight = 84
+weight = 84
+main ingredient = lactose
+af 31
+weight = 92
+af -1
+main ingredient = lactose
+main ingredient = chloride
+weight = 92
+weight = 73
+main ingredient = lactose
+main ingredient = lactose
+bf 17
+bf 11
+main ingredient = chloride
+weight = 82
+bf 10
+main ingredient = chloride
+bf 7
+bf 7
+main ingredient = lactose
+bf -1
+main ingredient = lactose
+af 33
+bf 20
+main ingredient = lactose
+weight = 106
+weight = 106
+main ingredient = chloride
+af 31
+bf 11
+af 14
+bf 8
+weight = 93
+weight = 111
+main ingredient = chloride
+af 34
+bf 26
+bf 4
+af -1
+main ingredient = tapioca
+af -1
+weight = 117
+af 24
+weight = 100
+weight = 100
+af 34
+main ingredient = acetone
+af 39
+weight = 123
+weight = 100
+bf -1
+main ingredient = acetone
+af 16
+af 24
+af 30
+weight = 116
+weight = 123
+af 41
+bf 9
+bf -1
+main ingredient = chlorohydrex
+weight = 125
+af 33
+weight = 125
+af 50
+weight = 134
+bf 12
+main ingredient = chlorohydrex
+bf -1
+weight = 124
+af 25
+bf 17
+main ingredient = acetone
+bf -1
+weight = 140
+af 38
+main ingredient = chlorohydrex
+af -1
+bf 13
+weight = 140
+af 56
+weight = 146
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 17
+bf 32
+af 57
+bf -1
+main ingredient = chlorohydrex
+bf 12
+main ingredient = acetone
+main ingredient = acetone
+bf 13
+main ingredient = acetone
+af 38
+weight = 141
+weight = 141
+weight = 159
+af 59
+weight = 141
+af 63
+main ingredient = chlorohydrex
+main ingredient = acetone
+bf 20
+weight = 141
+bf 16
+weight = 145
+af 43
+af 25
+af -1
+af 35
+af -1
+af 33
+af 48
+weight = 163
+weight = 163
+af -1
+weight = 170
+af 54
+main ingredient = chlorohydrex
+bf 18
+main ingredient = chlorohydrex
+main ingredient = acetone
+af 58
+weight = 170
+af -1
+bf 24
+main ingredient = acetone
+bf 15
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 23
+main ingredient = acetone
+weight = 179
+weight = 179
+main ingredient = chlorohydrex
+af -1
+bf 29
+weight = 181
+weight = 181
+main ingredient = chlorohydrex
+af -1
+main ingredient = chlorohydrex
+bf 33
+af 64
+weight = 193
+bf 16
+weight = 193
+main ingredient = chlorohydrex
+weight = 184
+af 39
+weight = 197
+weight = 197
+main ingredient = chlorohydrex
+bf -1
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+af 65
+main ingredient = chlorohydrex
+af 72
+main ingredient = acetone
+weight = 191
+bf 18
+weight = 210
+main ingredient = chlorohydrex
+af 45
+weight = 216
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf -1
+bf 16
+bf 19
+af 73
+main ingredient = acetone
+af 78
+bf 27
+bf 7
+bf 32
+bf -1
+main ingredient = acetone
+main ingredient = acetone
+bf 27
+main ingredient = acetone
+weight = 253
+bf -1
+bf 17
+main ingredient = chlorohydrex
+weight = 202
+af 80
+af 84
+af 91
+main ingredient = acetone
+af -1
+main ingredient = chlorohydrex
+weight = 266
+af 75
+af -1
+bf 13
+bf 35
+weight = 210
+af 93
+af -1
+main ingredient = chlorohydrex
+weight = 210
+bf -1
+af 80
+af 96
+weight = 274
+weight = 274
+bf 39
+af -1
+weight = 222
+main ingredient = acetone
+bf 18
+weight = 223
+weight = 223
+af 47
+af 51
+main ingredient = acetone
+bf 40
+weight = 287
+af 99
+bf 49
+bf 19
+bf 17
+bf -1
+main ingredient = chlorohydrex
+main ingredient = acetone
+weight = 299
+bf 25
+weight = 299
+bf 45
+af 81
+weight = 244
+bf 39
+bf 19
+weight = 246
+bf 28
+af -1
+af 86
+bf 27
+af 101
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+bf -1
+weight = 305
+weight = 305
+weight = 305
+main ingredient = chlorohydrex
+bf 51
+weight = 305
+main ingredient = chlorohydrex
+bf -1
+main ingredient = acetone
+bf 23
+af 101
+af -1
+af -1
+bf 50
+weight = 306
+main ingredient = acetone
+weight = 267
+af 60
+bf 52
+bf 25
+weight = 317
+weight = 317
+af 106
+weight = 322
+bf 31
+af -1
+weight = 275
+af 40
+main ingredient = chlorohydrex
+weight = 322
+bf 60
+weight = 330
+bf 41
+bf 39
+main ingredient = acetone
+weight = 290
+weight = 290
+bf 35
+main ingredient = acetone
+weight = 340
+af -1
+main ingredient = acetone
+main ingredient = chlorohydrex
+af 108
+weight = 290
+main ingredient = chlorohydrex
+weight = 290
+af -1
+af 93
+weight = 342
+weight = 297
+main ingredient = chlorohydrex
+af -1
+af 95
+bf 32
+bf -1
+weight = 351
+af 103
+bf 21
+bf 43
+af -1
+af 48
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+main ingredient = acetone
+weight = 359
+af 108
+main ingredient = acetone
+weight = 320
+af -1
+af 61
+weight = 360
+main ingredient = acetone
+bf 29
+bf 27
+af -1
+bf 41
+bf 38
+af -1
+bf 28
+weight = 380
+bf -1
+weight = 329
+bf 39
+af 117
+weight = 338
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+af -1
+bf 32
+af 113
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+af 120
+af 50
+weight = 385
+weight = 347
+bf 49
+bf 59
+weight = 355
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+weight = 355
+weight = 393
+main ingredient = acetone
+weight = 355
+main ingredient = acetone
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+weight = 393
+main ingredient = chlorohydrex
+bf 29
+af 117
+weight = 356
+weight = 397
+bf 31
+bf 44
+weight = 398
+bf -1
+main ingredient = acetone
+af 123
+bf 44
+af -1
+af 62
+weight = 405
+bf 68
+main ingredient = acetone
+af 70
+af 131
+bf 42
+weight = 361
+af 79
+bf -1
+af 52
+weight = 363
+weight = 438
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+bf 51
+bf 67
+af 139
+af -1
+main ingredient = acetone
+weight = 371
+bf 57
+main ingredient = acetone
+af 141
+af 145
+af 86
+af -1
+bf -1
+af 120
+bf 65
+bf 35
+af 120
+main ingredient = acetone
+main ingredient = chlorohydrex
+weight = 482
+af 93
+weight = 489
+bf 56
+weight = 494
+main ingredient = acetone
+bf 71
+main ingredient = acetone
+bf 74
+weight = 381
+weight = 381
+af 126
+af 101
+weight = 508
+bf 58
+main ingredient = acetone
+bf 38
+bf 44
+af 131
+weight = 397
+weight = 397
+main ingredient = acetone
+main ingredient = acetone
+bf 48
+weight = 510
+main ingredient = chlorohydrex
+af 138
+main ingredient = acetone
+weight = 408
+main ingredient = acetone
+bf 38
+main ingredient = chlorohydrex
+af 144
+af -1
+weight = 510
+main ingredient = acetone
+af 107
+weight = 516
+weight = 414
+af 148
+main ingredient = acetone
+main ingredient = acetone
+weight = 414
+main ingredient = acetone
+bf 33
+bf 32
+af 150
+main ingredient = chlorohydrex
+af 60
+bf 77
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+af -1
+af 60
+bf 55
+bf -1
+bf -1
+bf 86
+main ingredient = chlorohydrex
+weight = 522
+main ingredient = acetone
+af 110
+af 154
+main ingredient = acetone
+weight = 525
+main ingredient = acetone
+af -1
+weight = 525
+af 118
+weight = 457
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+af -1
+main ingredient = acetone
+weight = 457
+main ingredient = acetone
+af 153
+af 66
+main ingredient = acetone
+af 156
+weight = 538
+weight = 465
+weight = 465
+bf 74
+bf 62
+weight = 544
+bf 69
+bf 75
+bf 39
+bf 35
+bf -1
+main ingredient = chlorohydrex
+weight = 489
+bf -1
+bf 83
+bf 89
+bf 95
+weight = 498
+af 69
+weight = 501
+weight = 563
+main ingredient = acetone
+weight = 501
+af 157
+af 119
+af 126
+af 154
+weight = 572
+af 160
+af -1
+main ingredient = chlorohydrex
+af 135
+bf 101
+af 140
+weight = 511
+main ingredient = acetone
+bf 38
+main ingredient = acetone
+weight = 586
+main ingredient = chlorohydrex
+main ingredient = acetone
+weight = 586
+main ingredient = acetone
+bf 76
+bf 45
+weight = 586
+main ingredient = acetone
+bf -1
+bf 85
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 63
+main ingredient = chlorohydrex
+af 144
+bf 69
+af 70
+af 156
+af 152
+main ingredient = acetone
+weight = 535
+main ingredient = chlorohydrex
+af 77
+bf 47
+main ingredient = acetone
+main ingredient = acetone
+af 161
+bf -1
+weight = 616
+main ingredient = acetone
+weight = 616
+bf -1
+weight = 544
+weight = 616
+af 169
+bf 72
+bf 44
+bf 41
+bf -1
+af -1
+bf -1
+weight = 544
+bf 77
+af -1
+main ingredient = acetone
+af 174
+bf 44
+af -1
+bf 77
+bf 89
+weight = 654
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+main ingredient = acetone
+main ingredient = acetone
+main ingredient = chlorohydrex
+weight = 654
+af 177
+bf 41
+main ingredient = acetone
+af 77
+weight = 657
+bf 44
+weight = 657
+main ingredient = acetone
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+weight = 657
+bf 78
+main ingredient = chlorohydrex
+main ingredient = acetone
+main ingredient = acetone
+main ingredient = chlorohydrex
+main ingredient = acetone
+weight = 658
+weight = 658
+main ingredient = acetone
+af 85
+main ingredient = acetone
+main ingredient = acetone
+af 90
+bf 49
+af -1
+main ingredient = acetone
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+bf 80
+main ingredient = chlorohydrex
+af 177
+weight = 669
+weight = 568
+weight = 568
+bf 53
+weight = 568
+weight = 568
+weight = 673
+af 152
+weight = 568
+main ingredient = acetone
+weight = 673
+bf 81
+main ingredient = acetone
+weight = 568
+weight = 568
+bf 60
+bf 106
+bf -1
+bf -1
+main ingredient = chlorohydrex
+bf 114
+main ingredient = acetone
+weight = 581
+af 180
+main ingredient = chlorohydrex
+bf 78
+bf 115
+main ingredient = chlorohydrex
+af 162
+weight = 584
+af 93
+bf 86
+af 156
+af 163
+weight = 588
+af 163
+main ingredient = chlorohydrex
+weight = 588
+bf 50
+bf -1
+main ingredient = acetone
+weight = 693
+af -1
+main ingredient = acetone
+af 163
+bf 59
+weight = 606
+weight = 606
+main ingredient = chlorohydrex
+bf -1
+bf 87
+bf 60
+main ingredient = acetone
+bf -1
+bf 65
+weight = 706
+main ingredient = acetone
+weight = 706
+main ingredient = chlorohydrex
+bf 116
+af 181
+bf 69
+weight = 617
+af 94
+main ingredient = acetone
+main ingredient = acetone
+weight = 707
+bf 124
+af 182
+af -1
+af 99
+bf 85
+af 187
+bf -1
+bf 52
+bf 71
+bf 80
+main ingredient = acetone
+main ingredient = chlorohydrex
+main ingredient = acetone
+bf -1
+weight = 720
+af 164
+af 172
+main ingredient = chlorohydrex
+af -1
+main ingredient = acetone
+af 171
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+weight = 656
+af 99
+main ingredient = acetone
+weight = 728
+af 102
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+weight = 728
+bf 87
+af 174
+af 179
+af 191
+weight = 673
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+bf 94
+bf 98
+bf 97
+af 183
+main ingredient = chlorohydrex
+af 109
+bf 68
+af 174
+weight = 759
+weight = 684
+weight = 759
+af 189
+main ingredient = chlorohydrex
+bf 56
+weight = 759
+weight = 759
+af 193
+main ingredient = chlorohydrex
+weight = 759
+af 110
+af 111
+main ingredient = acetone
+bf 89
+main ingredient = chlorohydrex
+bf 53
+bf 126
+af -1
+bf 96
+af 177
+af -1
+bf 126
+af 113
+af 179
+bf 129
+main ingredient = chlorohydrex
+bf 107
+weight = 791
+bf 91
+weight = 711
+af 183
+bf 88
+bf -1
+af 198
+weight = 795
+main ingredient = chlorohydrex
+main ingredient = acetone
+af 191
+main ingredient = acetone
+weight = 803
+bf 97
+main ingredient = acetone
+bf 134
+bf -1
+weight = 803
+weight = 803
+weight = 803
+af -1
+weight = 724
+bf 135
+bf 91
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 62
+main ingredient = chlorohydrex
+weight = 731
+bf 99
+af 206
+af 191
+af 118
+bf 74
+bf 63
+bf 75
+weight = 753
+main ingredient = acetone
+af 207
+main ingredient = acetone
+weight = 754
+bf 101
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 140
+bf -1
+bf 53
+main ingredient = chlorohydrex
+weight = 814
+af 120
+af 195
+weight = 818
+main ingredient = chloride
+bf 115
+af -1
+af -1
+weight = 761
+main ingredient = chlorohydrex
+main ingredient = chloride
+bf 79
+weight = 830
+bf 45
+main ingredient = chloride
+main ingredient = chloride
+af 125
+bf -1
+main ingredient = chlorohydrex
+main ingredient = chlorohydrex
+main ingredient = chloride
+weight = 767
+weight = 830
+bf 92
+bf -1
+main ingredient = chlorohydrex
+af -1
+bf 85
+af 212
+main ingredient = chloride
+main ingredient = chlorohydrex
+weight = 776
+af 133
+weight = 784
+weight = 784
+weight = 836
+af 199
+af 197
+bf 61
+af -1
+bf 63
+af 137
+af 205
+af 215
+weight = 862
+bf 148
+af 216
+af -1
+bf 87
+af 217
+weight = 864
+af 204
+bf 93
+af 204
+weight = 877
+main ingredient = acetone
+af 142
+main ingredient = acetone
+main ingredient = acetone
+af -1
+weight = 877
+weight = 806
+bf 109
+main ingredient = acetone
+af 145
+bf 49
+bf 64
+weight = 886
+af 206
+main ingredient = chlorohydrex
+bf -1
+weight = 887
+main ingredient = chlorohydrex
+weight = 887
+af -1
+bf 70
+af -1
+af 206
+af -1
+bf 153
+af 210
+main ingredient = acetone
+main ingredient = acetone
+main ingredient = chlorohydrex
+bf 79
+bf 116
+weight = 818
+weight = 907
+bf 119
+main ingredient = acetone
+main ingredient = chlorohydrex
+weight = 818
+weight = 910
+main ingredient = chlorohydrex
+main ingredient = acetone
+main ingredient = acetone
+bf 58
+af 222
+weight = 910
+bf -1
+main ingredient = chlorohydrex
+af -1
+weight = 832
+weight = 910
+weight = 910
+af 223
+main ingredient = chlorohydrex
+af 207
+weight = 833
+main ingredient = chlorohydrex
+af 214
+main ingredient = acetone
+bf -1
+weight = 917
+bf -1
+main ingredient = acetone
+weight = 833
+af 230

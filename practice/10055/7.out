@@ -1,0 +1,100 @@
+main ingredient = NOT FOUND
+bf 6
+main ingredient = NOT FOUND
+af 6
+bf 2
+af 7
+bf 3
+bf 3
+main ingredient = phosphate
+weight = 2
+af 5
+main ingredient = other
+weight = 18
+main ingredient = phosphate
+weight = 12
+af 2
+main ingredient = alpha-tocopherol
+bf 7
+bf 9
+weight = 14
+bf 1
+af 6
+bf 1
+af 11
+main ingredient = ammoniated
+main ingredient = paraffin
+weight = 24
+main ingredient = paraffin
+main ingredient = ammoniated
+main ingredient = phosphate
+bf 9
+af 12
+af 9
+bf 4
+main ingredient = paraffin
+weight = 44
+main ingredient = monolaurate
+af 5
+bf 8
+af 16
+bf 8
+af 19
+main ingredient = paraffin
+af 16
+weight = 7
+main ingredient = paraffin
+main ingredient = monolaurate
+bf 0
+bf 12
+weight = 61
+weight = 55
+weight = 7
+weight = 55
+bf 10
+weight = 7
+bf 0
+af 6
+af 28
+af 8
+af 13
+bf 7
+weight = 71
+main ingredient = monolaurate
+af 9
+bf 11
+weight = 24
+bf 8
+weight = 71
+bf 15
+af 15
+weight = 34
+main ingredient = paraffin
+weight = 34
+bf 12
+bf 22
+main ingredient = monolaurate
+weight = 34
+bf 14
+weight = 34
+bf 4
+weight = 74
+bf 18
+main ingredient = paraffin
+main ingredient = ammoniated
+weight = 38
+main ingredient = ammoniated
+bf 19
+main ingredient = currant
+af 14
+af 34
+bf 15
+main ingredient = ammoniated
+af 41
+main ingredient = paraffin
+af 23
+main ingredient = monolaurate
+main ingredient = paraffin
+main ingredient = monolaurate
+weight = 120
+main ingredient = currant

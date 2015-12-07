@@ -1,0 +1,12 @@
+weight = 0
+af 98
+weight = 98
+af 99
+weight = 99
+af 0
+af 0
+weight = 99
+af 1
+weight = 100
+af 1
+weight = 100

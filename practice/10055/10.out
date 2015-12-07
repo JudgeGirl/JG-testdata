@@ -1,0 +1,100 @@
+af 9
+weight = 0
+main ingredient = compressible
+main ingredient = compressible
+main ingredient = NOT FOUND
+weight = 9
+af 9
+main ingredient = compressible
+bf 3
+main ingredient = proteins
+weight = 3
+weight = 3
+weight = 18
+af 1
+af 2
+bf 5
+main ingredient = proteins
+weight = 6
+weight = 6
+main ingredient = proteins
+weight = 6
+bf 1
+main ingredient = proteins
+af 9
+main ingredient = hydrogen
+af 3
+af 9
+main ingredient = hydrogen
+af 15
+bf 6
+af 23
+bf 5
+main ingredient = compressible
+af 11
+bf 1
+weight = 45
+bf 3
+main ingredient = hydrogen
+weight = 22
+main ingredient = hydrogen
+af 30
+weight = 22
+af 33
+weight = 22
+main ingredient = hydrogen
+main ingredient = compressible
+af 5
+main ingredient = hydrogen
+main ingredient = compressible
+main ingredient = compressible
+main ingredient = hydrogen
+main ingredient = compressible
+af 13
+af 14
+bf 8
+weight = 68
+bf 8
+bf 11
+main ingredient = compressible
+bf 17
+main ingredient = proteins
+af 42
+bf 1
+bf 14
+main ingredient = compressible
+weight = 51
+weight = 51
+weight = 87
+main ingredient = compressible
+af 6
+weight = 52
+main ingredient = compressible
+af 50
+bf -1
+bf -1
+main ingredient = proteins
+weight = 95
+af 14
+bf 6
+bf 9
+af 6
+af 15
+weight = 61
+af 59
+weight = 61
+main ingredient = proteins
+weight = 111
+bf 25
+weight = 69
+weight = 111
+af 20
+main ingredient = proteins
+main ingredient = proteins
+bf 7
+bf 32
+main ingredient = proteins
+weight = 111
+weight = 87
+main ingredient = proteins
+weight = 111

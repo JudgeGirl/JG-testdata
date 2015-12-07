@@ -1,0 +1,309 @@
+af 1
+bf 6
+----- Active Ingredient begin   -----
+1 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 k30
+----- end                       -----
+----- Active Ingredient begin   -----
+----- end                       -----
+----- Inactive Ingredient begin -----
+----- end                       -----
+af 4
+weight = 0
+main ingredient = NOT FOUND
+bf 4
+bf 2
+----- Active Ingredient begin   -----
+----- end                       -----
+----- Inactive Ingredient begin -----
+2 carmine
+----- end                       -----
+----- Active Ingredient begin   -----
+----- end                       -----
+----- Inactive Ingredient begin -----
+2 carmine
+----- end                       -----
+af 13
+bf 1
+af 0
+weight = 3
+main ingredient = castor
+main ingredient = castor
+----- Active Ingredient begin   -----
+0 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+2 carmine
+1 lactose
+----- end                       -----
+bf 3
+----- Active Ingredient begin   -----
+13 castor
+1 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 k30
+4 alpha-tocopherol
+----- end                       -----
+----- Active Ingredient begin   -----
+13 castor
+1 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 k30
+4 alpha-tocopherol
+----- end                       -----
+----- Active Ingredient begin   -----
+13 castor
+1 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 k30
+4 alpha-tocopherol
+----- end                       -----
+main ingredient = palmitate
+main ingredient = palmitate
+----- Active Ingredient begin   -----
+0 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+3 palmitate
+2 carmine
+1 lactose
+----- end                       -----
+weight = 6
+bf 1
+bf 7
+bf 4
+bf 3
+----- Active Ingredient begin   -----
+0 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+7 polacrilin
+3 lactose
+3 palmitate
+2 carmine
+1 ammoniated
+----- end                       -----
+af 1
+bf 9
+bf 0
+af 0
+bf -1
+weight = 28
+af 6
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+7 polacrilin
+3 lactose
+3 palmitate
+2 carmine
+----- end                       -----
+weight = 24
+main ingredient = ammoniated
+weight = 33
+af 19
+bf 9
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+9 lactose
+7 polacrilin
+3 palmitate
+2 carmine
+----- end                       -----
+weight = 39
+weight = 39
+weight = 30
+main ingredient = ammoniated
+weight = 39
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+9 lactose
+7 polacrilin
+3 palmitate
+2 carmine
+----- end                       -----
+bf 8
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+9 lactose
+7 polacrilin
+3 palmitate
+2 carmine
+----- end                       -----
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+9 lactose
+7 polacrilin
+3 palmitate
+2 carmine
+----- end                       -----
+----- Active Ingredient begin   -----
+0 cetostearyl
+0 hydroxyanisole
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 ammoniated
+9 lactose
+7 polacrilin
+3 palmitate
+2 carmine
+----- end                       -----
+main ingredient = ammoniated
+af 8
+weight = 38
+bf -1
+af 12
+af -1
+main ingredient = castor
+af 8
+bf 15
+main ingredient = ammoniated
+main ingredient = ammoniated
+weight = 60
+----- Active Ingredient begin   -----
+19 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+6 k30
+4 alpha-tocopherol
+4 ammonium
+0 cysteine
+----- end                       -----
+main ingredient = ammoniated
+weight = 60
+af 20
+----- Active Ingredient begin   -----
+20 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+6 k30
+4 alpha-tocopherol
+4 ammonium
+0 cysteine
+----- end                       -----
+----- Active Ingredient begin   -----
+20 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+6 k30
+4 alpha-tocopherol
+4 ammonium
+0 cysteine
+----- end                       -----
+af 22
+af 1
+bf 9
+----- Active Ingredient begin   -----
+22 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+6 k30
+4 alpha-tocopherol
+4 ammonium
+0 cysteine
+----- end                       -----
+weight = 45
+bf 9
+af -1
+main ingredient = ammoniated
+bf 15
+weight = 45
+----- Active Ingredient begin   -----
+22 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+9 ammonium
+6 k30
+4 alpha-tocopherol
+0 cysteine
+----- end                       -----
+main ingredient = castor
+bf 10
+----- Active Ingredient begin   -----
+22 castor
+12 30%
+----- end                       -----
+----- Inactive Ingredient begin -----
+15 silicate
+9 ammonium
+6 k30
+4 alpha-tocopherol
+0 cysteine
+----- end                       -----
+main ingredient = castor
+main ingredient = castor
+----- Active Ingredient begin   -----
+8 hydroxyanisole
+1 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+10 polacrilin
+9 ammoniated
+9 lactose
+9 palmitate
+2 carmine
+----- end                       -----
+bf 15
+weight = 77
+----- Active Ingredient begin   -----
+8 hydroxyanisole
+1 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+10 polacrilin
+9 ammoniated
+9 lactose
+9 palmitate
+2 carmine
+----- end                       -----
+weight = 48
+weight = 77
+bf 21
+af 15
+af 16
+weight = 83
+----- Active Ingredient begin   -----
+16 hydroxyanisole
+1 cetostearyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+10 polacrilin
+9 ammoniated
+9 lactose
+9 palmitate
+2 carmine
+----- end                       -----

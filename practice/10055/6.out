@@ -1,0 +1,100 @@
+bf 4
+af 4
+bf 4
+bf 2
+weight = 4
+bf 8
+main ingredient = dyes
+main ingredient = dyes
+weight = 12
+main ingredient = benzoic
+weight = 12
+af 7
+bf 3
+weight = 12
+bf 4
+bf 5
+bf 8
+weight = 33
+bf 4
+af 5
+weight = 33
+main ingredient = dispersion
+main ingredient = dispersion
+main ingredient = dyes
+main ingredient = dyes
+main ingredient = dyes
+af 14
+main ingredient = soya
+bf 0
+bf 10
+main ingredient = soya
+bf 4
+weight = 42
+weight = 42
+af 4
+bf 15
+af 10
+weight = 34
+weight = 47
+weight = 47
+weight = 47
+main ingredient = pharmaceutical
+af 18
+weight = 47
+bf 3
+bf 5
+af 20
+main ingredient = pharmaceutical
+weight = 43
+main ingredient = soya
+weight = 53
+weight = 53
+main ingredient = soya
+main ingredient = pharmaceutical
+weight = 53
+bf 11
+main ingredient = soya
+bf 7
+bf 11
+bf 5
+weight = 60
+af 24
+main ingredient = pharmaceutical
+af 29
+weight = 60
+bf 12
+af 28
+weight = 60
+main ingredient = soya
+main ingredient = pharmaceutical
+af 9
+main ingredient = soya
+main ingredient = pharmaceutical
+af 10
+main ingredient = pharmaceutical
+bf 19
+af 37
+main ingredient = soya
+bf 11
+bf 12
+bf 15
+weight = 89
+af 31
+main ingredient = soya
+weight = 92
+main ingredient = soya
+weight = 92
+main ingredient = pharmaceutical
+main ingredient = soya
+bf 20
+weight = 85
+weight = 85
+bf 9
+af 42
+af 14
+weight = 97
+main ingredient = pharmaceutical
+bf 3
+weight = 102
+main ingredient = soya

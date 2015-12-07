@@ -1,0 +1,100 @@
+bf 7
+bf 1
+bf 1
+bf 2
+main ingredient = sulphate
+af 2
+main ingredient = shellac
+af 8
+bf 7
+weight = 10
+weight = 18
+af 8
+bf 0
+af 7
+bf 4
+main ingredient = carboxymethylcellulose
+af 15
+bf 6
+af -1
+weight = 25
+weight = 25
+bf 4
+main ingredient = carboxymethylcellulose
+af 20
+af -1
+main ingredient = carboxymethylcellulose
+weight = 40
+main ingredient = sodium
+af 10
+main ingredient = carboxymethylcellulose
+weight = 40
+weight = 32
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+main ingredient = dyes
+weight = 40
+weight = 32
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+weight = 40
+main ingredient = dyes
+bf -1
+bf 3
+main ingredient = dyes
+bf 5
+af -1
+main ingredient = dyes
+bf 7
+weight = 45
+bf 11
+weight = 51
+main ingredient = carboxymethylcellulose
+weight = 34
+af 23
+weight = 34
+bf 19
+main ingredient = carboxymethylcellulose
+bf 14
+weight = 69
+main ingredient = carboxymethylcellulose
+af 11
+weight = 37
+main ingredient = carboxymethylcellulose
+weight = 69
+weight = 37
+af 19
+af -1
+af 2
+weight = 69
+af -1
+af 20
+main ingredient = sodium
+af -1
+bf 10
+bf 16
+weight = 69
+main ingredient = sodium
+af 23
+main ingredient = sodium
+weight = 69
+af -1
+main ingredient = carboxymethylcellulose
+weight = 69
+af -1
+main ingredient = sodium
+bf 11
+main ingredient = sodium
+main ingredient = sodium
+af -1
+af 28
+main ingredient = carboxymethylcellulose
+main ingredient = dyes
+af 24
+weight = 91
+main ingredient = dyes
+main ingredient = dyes
+weight = 91
+weight = 69
+bf 17
+af -1

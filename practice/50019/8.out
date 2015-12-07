@@ -1,0 +1,100 @@
+main ingredient = NOT FOUND
+weight = 0
+bf 7
+bf 0
+bf 4
+weight = 0
+af 8
+weight = 11
+bf 9
+weight = 8
+bf 6
+main ingredient = metabisulfite
+weight = 20
+af 1
+weight = 0
+af 8
+bf 0
+main ingredient = tragacanth
+bf 9
+bf 4
+af 7
+main ingredient = solution
+af 8
+main ingredient = metabisulfite
+bf 0
+weight = 0
+bf 3
+af 4
+af 1
+main ingredient = metabisulfite
+main ingredient = tragacanth
+bf 8
+weight = 34
+af 13
+weight = 1
+weight = 34
+af 16
+bf 14
+bf 21
+bf 5
+main ingredient = solution
+bf 6
+bf 6
+af 1
+bf 2
+main ingredient = dibutyl
+weight = 40
+af 16
+main ingredient = dibutyl
+bf 8
+weight = 40
+weight = 7
+main ingredient = natural
+bf 2
+weight = 47
+af 15
+bf 1
+main ingredient = dibutyl
+main ingredient = natural
+bf 2
+weight = 49
+main ingredient = dibutyl
+weight = 51
+weight = 48
+af 2
+main ingredient = alginic
+main ingredient = dibutyl
+bf 7
+main ingredient = alginic
+af 17
+main ingredient = natural
+weight = 18
+af 8
+weight = 51
+bf 11
+af 7
+bf 2
+weight = 48
+weight = 65
+weight = 26
+bf 3
+main ingredient = alginic
+weight = 26
+af 16
+main ingredient = zinc
+bf 19
+af 16
+bf 13
+bf 6
+bf 17
+main ingredient = alginic
+bf 8
+main ingredient = coloring
+af 26
+bf 23
+weight = 82
+main ingredient = coloring
+main ingredient = taurine
+weight = 82
+weight = 41

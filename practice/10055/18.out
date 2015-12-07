@@ -1,0 +1,3002 @@
+af 5
+bf 5
+main ingredient = docusate
+----- Active Ingredient begin   -----
+5 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+5 docusate
+----- end                       -----
+main ingredient = NOT FOUND
+af 6
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+6 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+----- end                       -----
+weight = 10
+----- Active Ingredient begin   -----
+5 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+5 docusate
+----- end                       -----
+weight = 6
+weight = 6
+bf 6
+main ingredient = citric
+weight = 6
+bf 2
+bf 5
+main ingredient = citric
+af 3
+main ingredient = citric
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+6 dibutyl
+3 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+2 ethyl
+----- end                       -----
+af 5
+main ingredient = citric
+weight = 13
+bf 2
+weight = 15
+weight = 21
+bf 8
+af 2
+bf 8
+----- Active Ingredient begin   -----
+5 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 citric
+5 docusate
+5 stearic
+----- end                       -----
+bf 0
+af 8
+weight = 31
+bf 2
+weight = 26
+----- Active Ingredient begin   -----
+6 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+8 chlorohydrex
+8 grape
+2 ethyl
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+6 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+8 chlorohydrex
+8 grape
+2 ethyl
+2 low
+2 wax
+----- end                       -----
+weight = 33
+af -1
+----- Active Ingredient begin   -----
+6 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+8 chlorohydrex
+8 grape
+2 ethyl
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+8 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 citric
+5 docusate
+5 stearic
+----- end                       -----
+weight = 26
+main ingredient = chlorohydrex
+----- Active Ingredient begin   -----
+6 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+8 chlorohydrex
+8 grape
+2 ethyl
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+6 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+8 chlorohydrex
+8 grape
+2 ethyl
+2 low
+2 wax
+----- end                       -----
+af 14
+weight = 33
+bf 9
+weight = 32
+af 16
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+16 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 citric
+5 docusate
+5 stearic
+----- end                       -----
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+16 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+6 citric
+5 docusate
+5 stearic
+----- end                       -----
+af 24
+bf 9
+af -1
+main ingredient = trisodium
+main ingredient = chlorohydrex
+bf 9
+af 14
+bf 6
+----- Active Ingredient begin   -----
+24 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 dextrose
+6 80
+6 citric
+5 docusate
+5 stearic
+----- end                       -----
+bf 9
+weight = 60
+main ingredient = trisodium
+af 29
+weight = 65
+weight = 65
+af 16
+weight = 51
+----- Active Ingredient begin   -----
+16 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+9 chlorohydrex
+9 ethyl
+8 grape
+2 low
+2 wax
+----- end                       -----
+af 2
+bf 12
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+12 docusate
+9 80
+9 dextrose
+6 citric
+5 stearic
+----- end                       -----
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+12 docusate
+9 80
+9 dextrose
+6 citric
+5 stearic
+----- end                       -----
+bf 11
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+12 docusate
+11 citric
+9 80
+9 dextrose
+5 stearic
+----- end                       -----
+weight = 77
+af 17
+main ingredient = trisodium
+bf 17
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+17 dextrose
+12 docusate
+11 citric
+9 80
+5 stearic
+----- end                       -----
+bf 13
+bf 13
+af -1
+weight = 57
+----- Active Ingredient begin   -----
+17 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+13 grape
+9 chlorohydrex
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+17 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+13 grape
+9 chlorohydrex
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+weight = 57
+af 18
+af -1
+af -1
+main ingredient = trisodium
+weight = 58
+af -1
+weight = 58
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+17 dextrose
+13 stearic
+12 docusate
+11 citric
+9 80
+----- end                       -----
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+17 dextrose
+13 stearic
+12 docusate
+11 citric
+9 80
+----- end                       -----
+weight = 93
+weight = 58
+weight = 93
+----- Active Ingredient begin   -----
+18 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+13 grape
+9 chlorohydrex
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+af 5
+bf -1
+----- Active Ingredient begin   -----
+18 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+13 grape
+9 chlorohydrex
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+main ingredient = trisodium
+bf 16
+weight = 58
+af 23
+af 28
+af -1
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+29 trisodium
+2 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+17 dextrose
+16 stearic
+12 docusate
+11 citric
+9 80
+----- end                       -----
+af 5
+----- Active Ingredient begin   -----
+28 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+13 grape
+9 chlorohydrex
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+bf 18
+weight = 77
+af -1
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+28 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+13 grape
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+28 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+13 grape
+9 ethyl
+2 low
+2 wax
+----- end                       -----
+bf 19
+bf 11
+weight = 79
+----- Active Ingredient begin   -----
+29 trisodium
+5 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+19 dextrose
+16 stearic
+12 docusate
+11 citric
+9 80
+----- end                       -----
+weight = 101
+weight = 101
+bf 14
+bf 21
+bf 24
+bf 28
+bf 20
+bf 23
+----- Active Ingredient begin   -----
+29 trisodium
+5 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+23 citric
+20 dextrose
+16 stearic
+9 80
+----- end                       -----
+weight = 79
+bf 25
+----- Active Ingredient begin   -----
+28 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+13 grape
+11 ethyl
+2 low
+2 wax
+----- end                       -----
+weight = 79
+main ingredient = dibutyl
+main ingredient = trisodium
+bf 16
+weight = 84
+----- Active Ingredient begin   -----
+29 trisodium
+5 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+16 stearic
+9 80
+----- end                       -----
+bf 2
+bf 18
+weight = 134
+af 8
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+29 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+18 stearic
+9 80
+----- end                       -----
+main ingredient = dibutyl
+af 30
+weight = 84
+main ingredient = trisodium
+main ingredient = dibutyl
+weight = 138
+af -1
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+30 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+18 stearic
+9 80
+----- end                       -----
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+28 dibutyl
+5 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+16 ethyl
+13 grape
+2 low
+2 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+30 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+18 stearic
+9 80
+----- end                       -----
+main ingredient = dibutyl
+bf 6
+af -1
+----- Active Ingredient begin   -----
+30 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+18 stearic
+9 80
+----- end                       -----
+af 36
+weight = 88
+af 36
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+36 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+25 citric
+20 dextrose
+18 stearic
+9 80
+----- end                       -----
+af 45
+weight = 96
+af 8
+weight = 153
+----- Active Ingredient begin   -----
+36 dibutyl
+8 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+16 ethyl
+13 grape
+6 wax
+2 low
+----- end                       -----
+bf 9
+main ingredient = dibutyl
+main ingredient = dibutyl
+bf 26
+bf 17
+----- Active Ingredient begin   -----
+36 dibutyl
+8 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+17 low
+16 ethyl
+13 grape
+6 wax
+----- end                       -----
+main ingredient = dibutyl
+weight = 161
+----- Active Ingredient begin   -----
+45 trisodium
+8 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 docusate
+26 stearic
+25 citric
+20 dextrose
+9 80
+----- end                       -----
+main ingredient = trisodium
+af 10
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+36 dibutyl
+8 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+18 chlorohydrex
+17 low
+16 ethyl
+13 grape
+6 wax
+----- end                       -----
+af -1
+af -1
+bf 20
+bf 36
+af 16
+weight = 171
+weight = 124
+bf 28
+bf 39
+----- Active Ingredient begin   -----
+45 trisodium
+10 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+39 docusate
+26 stearic
+25 citric
+20 dextrose
+9 80
+----- end                       -----
+weight = 174
+weight = 132
+main ingredient = trisodium
+weight = 174
+main ingredient = trisodium
+bf 46
+af 20
+main ingredient = docusate
+bf 22
+bf -1
+af 16
+weight = 136
+main ingredient = dibutyl
+bf 23
+af 16
+main ingredient = dibutyl
+af 22
+weight = 138
+bf -1
+----- Active Ingredient begin   -----
+45 trisodium
+16 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+9 80
+----- end                       -----
+----- Active Ingredient begin   -----
+36 dibutyl
+22 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 chlorohydrex
+17 low
+16 ethyl
+13 grape
+6 wax
+----- end                       -----
+main ingredient = docusate
+weight = 138
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+36 dibutyl
+22 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 chlorohydrex
+17 low
+16 ethyl
+13 grape
+6 wax
+----- end                       -----
+af 30
+af 38
+af -1
+bf 17
+----- Active Ingredient begin   -----
+45 trisodium
+16 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+9 80
+----- end                       -----
+af 25
+----- Active Ingredient begin   -----
+38 corn-derived
+36 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 chlorohydrex
+17 ethyl
+17 low
+13 grape
+6 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+45 trisodium
+25 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+9 80
+----- end                       -----
+bf 13
+main ingredient = corn-derived
+af -1
+bf -1
+weight = 203
+af 54
+----- Active Ingredient begin   -----
+54 trisodium
+25 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+main ingredient = trisodium
+bf -1
+----- Active Ingredient begin   -----
+54 trisodium
+25 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+----- Active Ingredient begin   -----
+54 trisodium
+25 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+main ingredient = corn-derived
+weight = 212
+bf 22
+bf 19
+----- Active Ingredient begin   -----
+54 trisodium
+25 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+weight = 166
+----- Active Ingredient begin   -----
+38 corn-derived
+36 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 chlorohydrex
+22 ethyl
+19 grape
+17 low
+6 wax
+----- end                       -----
+af 26
+weight = 213
+main ingredient = corn-derived
+main ingredient = trisodium
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+38 corn-derived
+36 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+28 chlorohydrex
+22 ethyl
+19 grape
+17 low
+6 wax
+----- end                       -----
+main ingredient = corn-derived
+af 59
+bf 22
+main ingredient = corn-derived
+weight = 166
+----- Active Ingredient begin   -----
+59 trisodium
+26 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+weight = 218
+main ingredient = trisodium
+weight = 218
+af 44
+main ingredient = corn-derived
+main ingredient = corn-derived
+weight = 218
+af 29
+af 64
+weight = 172
+af 44
+af 36
+main ingredient = trisodium
+af 37
+bf 7
+weight = 234
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+bf 30
+bf 22
+weight = 175
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+46 docusate
+26 stearic
+25 citric
+23 dextrose
+13 80
+----- end                       -----
+weight = 234
+weight = 234
+af -1
+weight = 175
+bf -1
+bf 13
+main ingredient = corn-derived
+bf 33
+bf 52
+weight = 248
+bf -1
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 docusate
+33 citric
+26 stearic
+23 dextrose
+13 80
+----- end                       -----
+af 45
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 docusate
+33 citric
+26 stearic
+23 dextrose
+13 80
+----- end                       -----
+bf 34
+af 50
+----- Active Ingredient begin   -----
+50 corn-derived
+36 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+17 low
+7 wax
+----- end                       -----
+weight = 181
+main ingredient = corn-derived
+af -1
+bf 28
+weight = 181
+af 43
+weight = 251
+main ingredient = corn-derived
+main ingredient = corn-derived
+af 51
+main ingredient = corn-derived
+bf 42
+bf 53
+af 49
+main ingredient = trisodium
+af 57
+----- Active Ingredient begin   -----
+57 dibutyl
+51 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+17 low
+7 wax
+----- end                       -----
+af 53
+weight = 260
+main ingredient = dibutyl
+bf 17
+weight = 260
+main ingredient = dibutyl
+weight = 205
+bf 18
+main ingredient = dibutyl
+bf 18
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+42 citric
+28 stearic
+23 dextrose
+18 80
+----- end                       -----
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+64 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+42 citric
+28 stearic
+23 dextrose
+18 80
+----- end                       -----
+weight = 206
+weight = 206
+----- Active Ingredient begin   -----
+57 dibutyl
+53 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+18 low
+7 wax
+----- end                       -----
+af -1
+bf 31
+----- Active Ingredient begin   -----
+57 dibutyl
+53 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+57 dibutyl
+53 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+18 low
+7 wax
+----- end                       -----
+weight = 268
+main ingredient = dibutyl
+main ingredient = trisodium
+af 70
+----- Active Ingredient begin   -----
+70 trisodium
+37 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+42 citric
+31 stearic
+23 dextrose
+18 80
+----- end                       -----
+af 64
+weight = 274
+main ingredient = dibutyl
+af 70
+af 41
+weight = 219
+main ingredient = trisodium
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+70 dibutyl
+53 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+19 grape
+18 low
+7 wax
+----- end                       -----
+af -1
+bf 21
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+70 dibutyl
+53 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+70 trisodium
+41 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+42 citric
+31 stearic
+23 dextrose
+18 80
+----- end                       -----
+bf -1
+af 59
+main ingredient = dibutyl
+af 64
+bf 30
+----- Active Ingredient begin   -----
+70 dibutyl
+64 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = dibutyl
+main ingredient = trisodium
+bf 47
+af 77
+main ingredient = trisodium
+weight = 239
+main ingredient = dibutyl
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+77 dibutyl
+64 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+70 trisodium
+41 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+31 stearic
+30 dextrose
+18 80
+----- end                       -----
+bf 31
+main ingredient = trisodium
+weight = 291
+----- Active Ingredient begin   -----
+77 dibutyl
+64 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+22 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+af -1
+main ingredient = dibutyl
+weight = 239
+main ingredient = trisodium
+main ingredient = dibutyl
+af 73
+bf 29
+weight = 291
+weight = 291
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+weight = 291
+----- Active Ingredient begin   -----
+70 trisodium
+41 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+31 dextrose
+31 stearic
+18 80
+----- end                       -----
+weight = 291
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+af -1
+main ingredient = dibutyl
+bf 37
+weight = 255
+af 73
+af 50
+main ingredient = dibutyl
+weight = 255
+weight = 255
+weight = 309
+weight = 255
+bf 42
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+42 stearic
+31 dextrose
+18 80
+----- end                       -----
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = trisodium
+main ingredient = dibutyl
+weight = 314
+----- Active Ingredient begin   -----
+77 dibutyl
+73 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+af 81
+af 81
+weight = 267
+weight = 314
+----- Active Ingredient begin   -----
+81 corn-derived
+81 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+81 corn-derived
+81 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+81 corn-derived
+81 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+21 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = trisodium
+main ingredient = trisodium
+af -1
+af 90
+bf 23
+af 85
+main ingredient = corn-derived
+weight = 282
+----- Active Ingredient begin   -----
+90 corn-derived
+85 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+90 corn-derived
+85 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+30 chlorohydrex
+29 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+main ingredient = corn-derived
+bf 46
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+46 stearic
+31 dextrose
+18 80
+----- end                       -----
+bf 37
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+46 stearic
+31 dextrose
+18 80
+----- end                       -----
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+53 docusate
+47 citric
+46 stearic
+31 dextrose
+18 80
+----- end                       -----
+bf 48
+bf -1
+weight = 289
+----- Active Ingredient begin   -----
+90 corn-derived
+85 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+37 chlorohydrex
+29 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+af 90
+main ingredient = corn-derived
+af 97
+bf 34
+----- Active Ingredient begin   -----
+97 corn-derived
+90 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+37 chlorohydrex
+34 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+bf 54
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+54 stearic
+53 docusate
+47 citric
+31 dextrose
+18 80
+----- end                       -----
+weight = 306
+af 90
+----- Active Ingredient begin   -----
+97 corn-derived
+90 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+37 chlorohydrex
+34 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+54 stearic
+53 docusate
+47 citric
+31 dextrose
+18 80
+----- end                       -----
+af -1
+weight = 306
+----- Active Ingredient begin   -----
+73 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+54 stearic
+53 docusate
+47 citric
+31 dextrose
+18 80
+----- end                       -----
+weight = 306
+af 75
+af 101
+main ingredient = trisodium
+weight = 310
+bf -1
+weight = 328
+main ingredient = corn-derived
+weight = 310
+bf 50
+weight = 331
+main ingredient = corn-derived
+weight = 310
+af -1
+weight = 331
+----- Active Ingredient begin   -----
+101 corn-derived
+90 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+37 chlorohydrex
+34 ethyl
+23 grape
+18 low
+7 wax
+----- end                       -----
+bf 43
+af 97
+main ingredient = corn-derived
+main ingredient = trisodium
+bf 27
+weight = 326
+main ingredient = trisodium
+main ingredient = corn-derived
+af 76
+af 81
+af 101
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+81 trisodium
+50 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+54 stearic
+53 docusate
+50 citric
+31 dextrose
+27 80
+----- end                       -----
+af 59
+weight = 355
+main ingredient = trisodium
+af 82
+weight = 356
+main ingredient = corn-derived
+weight = 356
+af 102
+af 101
+af 101
+af -1
+weight = 331
+weight = 356
+bf 44
+af 88
+af 108
+bf 50
+af 89
+af -1
+weight = 338
+af 106
+bf 16
+af 94
+weight = 368
+af 68
+main ingredient = trisodium
+weight = 377
+bf 61
+main ingredient = trisodium
+af 108
+main ingredient = corn-derived
+main ingredient = corn-derived
+weight = 352
+----- Active Ingredient begin   -----
+94 trisodium
+68 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+61 docusate
+54 stearic
+50 citric
+31 dextrose
+27 80
+----- end                       -----
+----- Active Ingredient begin   -----
+108 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+18 low
+16 wax
+----- end                       -----
+bf 62
+af 73
+bf 67
+main ingredient = corn-derived
+bf 30
+af 112
+----- Active Ingredient begin   -----
+112 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+18 low
+16 wax
+----- end                       -----
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+94 trisodium
+73 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 stearic
+61 docusate
+50 citric
+31 dextrose
+30 80
+----- end                       -----
+af 120
+----- Active Ingredient begin   -----
+120 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+18 low
+16 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+120 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+18 low
+16 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+94 trisodium
+73 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 stearic
+61 docusate
+50 citric
+31 dextrose
+30 80
+----- end                       -----
+----- Active Ingredient begin   -----
+94 trisodium
+73 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 stearic
+61 docusate
+50 citric
+31 dextrose
+30 80
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = corn-derived
+main ingredient = corn-derived
+af 76
+weight = 364
+main ingredient = trisodium
+af -1
+weight = 364
+bf 32
+af 85
+bf 23
+----- Active Ingredient begin   -----
+120 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+23 low
+16 wax
+----- end                       -----
+af -1
+weight = 369
+main ingredient = corn-derived
+af 128
+----- Active Ingredient begin   -----
+128 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+23 low
+16 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+94 trisodium
+85 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 stearic
+61 docusate
+50 citric
+32 80
+31 dextrose
+----- end                       -----
+af 131
+main ingredient = corn-derived
+weight = 420
+bf 18
+weight = 382
+bf 71
+----- Active Ingredient begin   -----
+131 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+44 ethyl
+37 chlorohydrex
+23 grape
+23 low
+18 wax
+----- end                       -----
+af -1
+----- Active Ingredient begin   -----
+94 trisodium
+85 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+71 stearic
+61 docusate
+50 citric
+32 80
+31 dextrose
+----- end                       -----
+weight = 382
+main ingredient = trisodium
+bf 52
+bf 28
+af 92
+bf -1
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+94 trisodium
+92 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+71 stearic
+61 docusate
+50 citric
+32 80
+31 dextrose
+----- end                       -----
+----- Active Ingredient begin   -----
+131 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+37 chlorohydrex
+28 grape
+23 low
+18 wax
+----- end                       -----
+bf -1
+af 137
+main ingredient = corn-derived
+main ingredient = trisodium
+main ingredient = corn-derived
+af -1
+main ingredient = corn-derived
+bf 62
+af 100
+weight = 438
+bf 55
+----- Active Ingredient begin   -----
+100 trisodium
+92 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+71 stearic
+62 docusate
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+weight = 401
+af -1
+main ingredient = trisodium
+bf 72
+main ingredient = trisodium
+af -1
+main ingredient = trisodium
+af 101
+main ingredient = corn-derived
+bf 68
+----- Active Ingredient begin   -----
+137 corn-derived
+106 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+37 chlorohydrex
+28 grape
+23 low
+18 wax
+----- end                       -----
+af 113
+weight = 451
+af -1
+main ingredient = corn-derived
+bf 73
+----- Active Ingredient begin   -----
+101 trisodium
+92 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+73 stearic
+68 docusate
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+af 100
+bf 29
+af 114
+bf 73
+af 107
+weight = 415
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+37 chlorohydrex
+29 low
+28 grape
+18 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+107 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+73 docusate
+73 stearic
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+bf -1
+bf -1
+af -1
+bf 20
+----- Active Ingredient begin   -----
+107 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+73 docusate
+73 stearic
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+af 116
+af 116
+weight = 480
+bf 38
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+38 chlorohydrex
+29 low
+28 grape
+20 wax
+----- end                       -----
+bf 79
+----- Active Ingredient begin   -----
+116 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+79 stearic
+73 docusate
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+116 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+79 stearic
+73 docusate
+55 citric
+32 80
+31 dextrose
+----- end                       -----
+af 121
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+38 chlorohydrex
+29 low
+28 grape
+20 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+38 chlorohydrex
+29 low
+28 grape
+20 wax
+----- end                       -----
+bf 58
+bf 34
+weight = 497
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+121 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+79 stearic
+73 docusate
+58 citric
+34 dextrose
+32 80
+----- end                       -----
+bf 42
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+38 chlorohydrex
+29 low
+28 grape
+20 wax
+----- end                       -----
+af -1
+weight = 418
+----- Active Ingredient begin   -----
+137 corn-derived
+114 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+38 chlorohydrex
+29 low
+28 grape
+20 wax
+----- end                       -----
+bf 36
+af 122
+weight = 505
+bf 73
+bf 29
+----- Active Ingredient begin   -----
+121 trisodium
+100 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+79 stearic
+73 docusate
+58 citric
+42 dextrose
+32 80
+----- end                       -----
+weight = 434
+bf 42
+bf 33
+main ingredient = corn-derived
+af 122
+bf -1
+main ingredient = corn-derived
+af -1
+bf 46
+bf -1
+main ingredient = corn-derived
+af 105
+weight = 446
+af 121
+bf 25
+main ingredient = trisodium
+bf 88
+weight = 519
+bf 40
+weight = 519
+main ingredient = corn-derived
+bf 45
+af 125
+af 111
+----- Active Ingredient begin   -----
+125 trisodium
+111 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+88 stearic
+73 docusate
+58 citric
+42 dextrose
+32 80
+----- end                       -----
+af 112
+weight = 530
+bf 81
+main ingredient = corn-derived
+bf 35
+main ingredient = corn-derived
+bf -1
+af 126
+bf 96
+----- Active Ingredient begin   -----
+137 corn-derived
+126 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+46 chlorohydrex
+45 grape
+35 low
+25 wax
+----- end                       -----
+main ingredient = trisodium
+main ingredient = trisodium
+af 146
+main ingredient = trisodium
+af 116
+----- Active Ingredient begin   -----
+125 trisodium
+116 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+81 docusate
+58 citric
+42 dextrose
+32 80
+----- end                       -----
+af 146
+af 121
+main ingredient = corn-derived
+af 129
+af 138
+bf 61
+weight = 571
+weight = 475
+af 141
+af 144
+af 152
+bf 65
+bf 84
+weight = 584
+weight = 481
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+42 dextrose
+32 80
+----- end                       -----
+bf -1
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+42 dextrose
+32 80
+----- end                       -----
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+42 dextrose
+32 80
+----- end                       -----
+----- Active Ingredient begin   -----
+152 corn-derived
+126 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+46 chlorohydrex
+45 grape
+35 low
+25 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+42 dextrose
+32 80
+----- end                       -----
+af 157
+main ingredient = trisodium
+main ingredient = corn-derived
+bf -1
+bf 47
+weight = 487
+weight = 487
+weight = 584
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+42 dextrose
+32 80
+----- end                       -----
+weight = 584
+bf 51
+af 134
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+84 docusate
+65 citric
+51 dextrose
+32 80
+----- end                       -----
+----- Active Ingredient begin   -----
+157 corn-derived
+134 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+35 low
+25 wax
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+157 corn-derived
+134 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+35 low
+25 wax
+----- end                       -----
+main ingredient = trisodium
+bf 92
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+92 docusate
+65 citric
+51 dextrose
+32 80
+----- end                       -----
+af 166
+main ingredient = corn-derived
+main ingredient = trisodium
+weight = 601
+af 169
+main ingredient = trisodium
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+92 docusate
+65 citric
+51 dextrose
+32 80
+----- end                       -----
+----- Active Ingredient begin   -----
+144 trisodium
+121 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+96 stearic
+92 docusate
+65 citric
+51 dextrose
+32 80
+----- end                       -----
+main ingredient = corn-derived
+weight = 601
+weight = 601
+weight = 507
+bf 103
+weight = 507
+af 176
+main ingredient = trisodium
+weight = 514
+weight = 608
+af 125
+main ingredient = corn-derived
+af 132
+weight = 514
+weight = 514
+bf 39
+main ingredient = corn-derived
+af 140
+weight = 619
+weight = 524
+----- Active Ingredient begin   -----
+176 corn-derived
+140 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+39 low
+25 wax
+----- end                       -----
+main ingredient = corn-derived
+bf 71
+af 148
+weight = 532
+af 152
+main ingredient = trisodium
+af 139
+bf -1
+----- Active Ingredient begin   -----
+176 corn-derived
+152 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+39 low
+25 wax
+----- end                       -----
+bf 77
+af -1
+bf -1
+af 144
+weight = 536
+----- Active Ingredient begin   -----
+176 corn-derived
+152 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+39 low
+25 wax
+----- end                       -----
+af -1
+----- Active Ingredient begin   -----
+176 corn-derived
+152 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+39 low
+25 wax
+----- end                       -----
+af 157
+----- Active Ingredient begin   -----
+176 corn-derived
+157 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+47 chlorohydrex
+45 grape
+39 low
+25 wax
+----- end                       -----
+weight = 541
+bf 41
+weight = 652
+bf 48
+af -1
+weight = 550
+weight = 652
+af 147
+bf 45
+main ingredient = corn-derived
+bf 94
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+103 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+103 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+103 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = powder
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+103 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = powder
+weight = 550
+bf 26
+main ingredient = corn-derived
+bf -1
+af 162
+bf 106
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+af 180
+main ingredient = corn-derived
+weight = 660
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+weight = 560
+bf -1
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+weight = 560
+----- Active Ingredient begin   -----
+180 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+52 ethyl
+48 low
+47 chlorohydrex
+45 grape
+26 wax
+----- end                       -----
+af 189
+----- Active Ingredient begin   -----
+147 powder
+144 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+weight = 660
+main ingredient = corn-derived
+bf 54
+af 145
+bf 53
+bf 60
+----- Active Ingredient begin   -----
+147 powder
+145 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+----- Active Ingredient begin   -----
+189 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+60 low
+53 chlorohydrex
+52 ethyl
+45 grape
+26 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+189 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+60 low
+53 chlorohydrex
+52 ethyl
+45 grape
+26 wax
+----- end                       -----
+af 154
+af 147
+af -1
+main ingredient = corn-derived
+weight = 587
+----- Active Ingredient begin   -----
+154 trisodium
+147 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+106 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+bf -1
+main ingredient = trisodium
+main ingredient = trisodium
+weight = 587
+weight = 587
+af 196
+bf 67
+----- Active Ingredient begin   -----
+196 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 low
+53 chlorohydrex
+52 ethyl
+45 grape
+26 wax
+----- end                       -----
+main ingredient = trisodium
+main ingredient = corn-derived
+weight = 670
+bf 114
+weight = 678
+bf 53
+weight = 678
+main ingredient = corn-derived
+weight = 602
+----- Active Ingredient begin   -----
+196 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 low
+53 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+af -1
+weight = 602
+bf -1
+----- Active Ingredient begin   -----
+196 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 low
+53 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+154 trisodium
+147 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = trisodium
+weight = 602
+----- Active Ingredient begin   -----
+196 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 low
+53 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+196 corn-derived
+162 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+67 low
+53 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+154 trisodium
+147 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+----- Active Ingredient begin   -----
+154 trisodium
+147 powder
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+94 docusate
+77 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = trisodium
+bf 58
+bf -1
+bf 101
+af 156
+af 168
+bf 75
+weight = 621
+weight = 621
+main ingredient = powder
+weight = 621
+main ingredient = powder
+bf 53
+weight = 621
+bf 66
+main ingredient = powder
+af 156
+weight = 694
+main ingredient = corn-derived
+weight = 629
+af 173
+bf 85
+----- Active Ingredient begin   -----
+196 corn-derived
+173 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+75 low
+66 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+main ingredient = powder
+main ingredient = corn-derived
+bf -1
+weight = 702
+----- Active Ingredient begin   -----
+196 corn-derived
+173 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+75 low
+66 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+bf 67
+----- Active Ingredient begin   -----
+196 corn-derived
+173 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+75 low
+67 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+bf 76
+bf -1
+----- Active Ingredient begin   -----
+156 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+101 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+bf -1
+----- Active Ingredient begin   -----
+196 corn-derived
+173 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+76 low
+67 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+156 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+101 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+af 199
+af -1
+af 182
+af 158
+af 183
+----- Active Ingredient begin   -----
+158 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+101 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+----- Active Ingredient begin   -----
+158 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+101 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+main ingredient = corn-derived
+bf 102
+----- Active Ingredient begin   -----
+158 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+102 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+weight = 649
+af 160
+af -1
+main ingredient = powder
+----- Active Ingredient begin   -----
+199 corn-derived
+183 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+76 low
+67 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+bf -1
+bf 81
+bf -1
+bf -1
+af 165
+main ingredient = powder
+af 186
+af 169
+main ingredient = powder
+----- Active Ingredient begin   -----
+199 corn-derived
+186 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+81 low
+67 chlorohydrex
+53 ethyl
+45 grape
+26 wax
+----- end                       -----
+bf 83
+----- Active Ingredient begin   -----
+169 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+102 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+169 powder
+154 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+102 docusate
+85 citric
+51 dextrose
+41 80
+----- end                       -----
+af 155
+main ingredient = corn-derived
+bf 87
+bf 43
+bf 73
+weight = 721
+af 162
+af 194
+bf -1
+----- Active Ingredient begin   -----
+169 powder
+162 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+102 docusate
+87 citric
+51 dextrose
+43 80
+----- end                       -----
+----- Active Ingredient begin   -----
+169 powder
+162 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+102 docusate
+87 citric
+51 dextrose
+43 80
+----- end                       -----
+bf 56
+----- Active Ingredient begin   -----
+199 corn-derived
+194 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+26 wax
+----- end                       -----
+weight = 728
+bf 108
+----- Active Ingredient begin   -----
+169 powder
+162 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+87 citric
+51 dextrose
+43 80
+----- end                       -----
+af 203
+----- Active Ingredient begin   -----
+203 dibutyl
+199 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+26 wax
+----- end                       -----
+----- Active Ingredient begin   -----
+203 dibutyl
+199 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+26 wax
+----- end                       -----
+bf 108
+main ingredient = powder
+----- Active Ingredient begin   -----
+203 dibutyl
+199 corn-derived
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+26 wax
+----- end                       -----
+main ingredient = dibutyl
+----- Active Ingredient begin   -----
+169 powder
+162 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+87 citric
+51 dextrose
+43 80
+----- end                       -----
+main ingredient = powder
+----- Active Ingredient begin   -----
+169 powder
+162 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+87 citric
+51 dextrose
+43 80
+----- end                       -----
+weight = 734
+main ingredient = dibutyl
+af 163
+af 206
+af 167
+bf 92
+bf 27
+weight = 744
+main ingredient = powder
+af 177
+bf 56
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+27 wax
+----- end                       -----
+main ingredient = corn-derived
+weight = 757
+main ingredient = corn-derived
+bf -1
+weight = 693
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+27 wax
+----- end                       -----
+weight = 757
+bf 56
+weight = 757
+main ingredient = powder
+----- Active Ingredient begin   -----
+177 powder
+167 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+92 citric
+56 dextrose
+43 80
+----- end                       -----
+----- Active Ingredient begin   -----
+177 powder
+167 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+92 citric
+56 dextrose
+43 80
+----- end                       -----
+main ingredient = corn-derived
+af -1
+----- Active Ingredient begin   -----
+177 powder
+167 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+92 citric
+56 dextrose
+43 80
+----- end                       -----
+weight = 757
+main ingredient = corn-derived
+main ingredient = corn-derived
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+56 ethyl
+45 grape
+27 wax
+----- end                       -----
+weight = 757
+main ingredient = powder
+----- Active Ingredient begin   -----
+177 powder
+167 trisodium
+----- end                       -----
+----- Inactive Ingredient begin -----
+114 stearic
+108 docusate
+92 citric
+56 dextrose
+43 80
+----- end                       -----
+bf 57
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+57 ethyl
+45 grape
+27 wax
+----- end                       -----
+af -1
+af -1
+bf 96
+weight = 694
+weight = 694
+af -1
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+57 ethyl
+45 grape
+27 wax
+----- end                       -----
+weight = 761
+af 184
+----- Active Ingredient begin   -----
+206 corn-derived
+203 dibutyl
+----- end                       -----
+----- Inactive Ingredient begin -----
+83 low
+73 chlorohydrex
+57 ethyl
+45 grape
+27 wax
+----- end                       -----
+af 176

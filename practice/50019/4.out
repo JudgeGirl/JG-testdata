@@ -1,0 +1,24 @@
+af 50
+main ingredient = light
+af 50
+main ingredient = land
+main ingredient = NOT FOUND
+af 50
+af 50
+main ingredient = apple
+weight = 0
+af 98
+weight = 98
+main ingredient = pangfeng
+af 99
+weight = 99
+af 0
+af 0
+weight = 99
+af 1
+weight = 100
+af 1
+weight = 100
+weight = 100
+main ingredient = pangfeng
+main ingredient = land

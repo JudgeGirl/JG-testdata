@@ -1,0 +1,21 @@
+af 10
+weight = 10
+main ingredient = light
+af 90
+main ingredient = land
+weight = 0
+af 98
+weight = 98
+main ingredient = pangfeng
+af 99
+weight = 99
+af 0
+af 0
+weight = 99
+af 1
+weight = 100
+af 1
+weight = 100
+weight = 100
+main ingredient = pangfeng
+main ingredient = land

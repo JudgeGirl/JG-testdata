@@ -1,0 +1,2000 @@
+weight = 0
+main ingredient = NOT FOUND
+bf 2
+bf 7
+main ingredient = hydrochloric
+weight = 0
+bf 4
+main ingredient = methylparaben
+main ingredient = NOT FOUND
+af 0
+main ingredient = methylparaben
+af 7
+af -1
+bf 2
+bf 4
+bf 4
+weight = 7
+af 5
+af 3
+bf 8
+bf 9
+bf 8
+weight = 18
+bf 7
+bf 0
+af 16
+bf 17
+weight = 38
+bf 21
+weight = 18
+bf 16
+weight = 18
+main ingredient = confectioners
+bf 9
+bf -1
+weight = 32
+af 9
+main ingredient = zinc
+af 5
+af 9
+main ingredient = carboxymethylcellulose
+af -1
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+af 13
+bf 0
+main ingredient = carboxymethylcellulose
+weight = 45
+weight = 55
+af 14
+af 5
+weight = 60
+main ingredient = carboxymethylcellulose
+weight = 45
+af 17
+weight = 45
+bf 8
+af 24
+bf 9
+weight = 48
+weight = 61
+weight = 61
+weight = 63
+main ingredient = starch
+weight = 63
+af 15
+af 5
+main ingredient = carboxymethylcellulose
+weight = 48
+af 17
+main ingredient = carboxymethylcellulose
+main ingredient = zinc
+weight = 63
+bf -1
+weight = 56
+af 26
+bf 9
+weight = 65
+bf -1
+weight = 63
+bf 21
+main ingredient = starch
+af 5
+af 14
+main ingredient = carboxymethylcellulose
+bf -1
+weight = 74
+af 14
+weight = 72
+af 22
+af 34
+af 22
+weight = 79
+weight = 79
+main ingredient = starch
+bf 13
+bf 8
+af 19
+weight = 81
+bf -1
+weight = 81
+weight = 83
+af 24
+weight = 92
+weight = 83
+weight = 83
+main ingredient = kernel
+af 30
+weight = 81
+af 24
+af 8
+af 25
+af -1
+weight = 92
+main ingredient = glaze
+weight = 84
+bf 8
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+af 38
+af 28
+bf 22
+weight = 96
+main ingredient = kernel
+bf 18
+bf 10
+weight = 96
+bf -1
+bf 16
+main ingredient = glaze
+bf 3
+af 23
+af 38
+bf 12
+bf 12
+main ingredient = kernel
+af 32
+main ingredient = carboxymethylcellulose
+main ingredient = kernel
+main ingredient = glaze
+weight = 111
+af 38
+main ingredient = kernel
+main ingredient = glaze
+bf 13
+weight = 125
+main ingredient = carboxymethylcellulose
+bf 5
+main ingredient = carboxymethylcellulose
+weight = 97
+weight = 111
+bf 3
+bf -1
+weight = 97
+weight = 97
+bf 24
+main ingredient = carboxymethylcellulose
+weight = 125
+bf 30
+af 28
+af 32
+af 43
+af -1
+bf 13
+weight = 126
+af 45
+af -1
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+weight = 106
+main ingredient = carboxymethylcellulose
+weight = 133
+weight = 116
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+bf -1
+weight = 116
+main ingredient = glaze
+weight = 116
+af 41
+main ingredient = carboxymethylcellulose
+bf 14
+main ingredient = hydrochloric
+bf -1
+af 29
+weight = 115
+weight = 117
+bf -1
+af 29
+bf -1
+af -1
+main ingredient = carboxymethylcellulose
+af 30
+af 41
+bf 15
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+weight = 142
+bf -1
+main ingredient = carboxymethylcellulose
+weight = 142
+bf 13
+main ingredient = hydrochloric
+bf -1
+weight = 117
+af 16
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+af 31
+af 45
+af 39
+bf 13
+weight = 144
+af 18
+bf -1
+main ingredient = kernel
+main ingredient = carboxymethylcellulose
+bf -1
+bf 39
+af -1
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+bf -1
+af 23
+af 46
+bf 22
+af -1
+bf 11
+weight = 142
+main ingredient = hydrochloric
+af 34
+main ingredient = glaze
+af 34
+af 43
+main ingredient = carboxymethylcellulose
+af 49
+bf 20
+main ingredient = glaze
+af 34
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+bf -1
+af 58
+af 66
+weight = 156
+af 46
+bf -1
+main ingredient = glaze
+bf 6
+bf 28
+bf -1
+main ingredient = glaze
+weight = 164
+af 45
+weight = 164
+main ingredient = carboxymethylcellulose
+bf 14
+bf 4
+main ingredient = carboxymethylcellulose
+af 31
+weight = 182
+weight = 164
+af 45
+af -1
+weight = 154
+weight = 182
+af 49
+bf 28
+main ingredient = glaze
+weight = 164
+weight = 186
+main ingredient = glaze
+bf -1
+main ingredient = carboxymethylcellulose
+main ingredient = kernel
+weight = 154
+bf 30
+weight = 154
+weight = 166
+bf -1
+af 53
+main ingredient = kernel
+weight = 154
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+bf 9
+weight = 190
+bf -1
+weight = 166
+main ingredient = glaze
+weight = 190
+weight = 154
+bf 13
+af 48
+af 35
+main ingredient = starch
+weight = 175
+weight = 175
+main ingredient = starch
+weight = 175
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+main ingredient = starch
+bf -1
+main ingredient = starch
+weight = 175
+bf -1
+main ingredient = starch
+weight = 194
+bf 10
+af -1
+af 56
+weight = 194
+weight = 176
+main ingredient = starch
+bf 21
+weight = 194
+weight = 184
+main ingredient = starch
+weight = 169
+main ingredient = carboxymethylcellulose
+af -1
+bf 30
+bf 34
+main ingredient = carboxymethylcellulose
+bf 19
+weight = 194
+main ingredient = starch
+weight = 175
+af 38
+main ingredient = starch
+weight = 175
+af 42
+main ingredient = kernel
+bf 41
+weight = 196
+weight = 196
+bf 17
+af 40
+af 48
+bf 17
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+af 69
+main ingredient = kernel
+weight = 199
+main ingredient = kernel
+main ingredient = carboxymethylcellulose
+bf 27
+weight = 223
+weight = 199
+bf 42
+weight = 175
+bf 12
+af 44
+bf 51
+bf 14
+af -1
+bf 16
+main ingredient = kernel
+weight = 175
+af 53
+weight = 222
+weight = 222
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+bf 21
+bf 43
+af -1
+weight = 175
+weight = 227
+weight = 175
+main ingredient = ammonia
+af 58
+main ingredient = starch
+bf -1
+main ingredient = starch
+bf 23
+main ingredient = starch
+af 61
+weight = 186
+weight = 238
+bf 27
+af 58
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+bf 23
+weight = 190
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+bf -1
+main ingredient = starch
+af 71
+main ingredient = carboxymethylcellulose
+af 62
+main ingredient = carboxymethylcellulose
+af 65
+af 69
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+af 74
+weight = 235
+main ingredient = starch
+bf -1
+weight = 206
+bf 18
+bf 16
+bf 29
+weight = 241
+bf 12
+af 74
+main ingredient = ammonia
+weight = 244
+af 75
+bf 33
+main ingredient = starch
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+af 67
+weight = 244
+main ingredient = carboxymethylcellulose
+bf 16
+main ingredient = carboxymethylcellulose
+weight = 266
+weight = 249
+weight = 224
+main ingredient = starch
+bf 18
+weight = 249
+weight = 249
+af 75
+main ingredient = ammonia
+af 49
+af 58
+af 79
+main ingredient = ammonia
+weight = 249
+bf -1
+main ingredient = carboxymethylcellulose
+bf 23
+weight = 267
+bf 27
+main ingredient = starch
+af 80
+af -1
+af -1
+bf 52
+weight = 276
+bf 30
+main ingredient = carboxymethylcellulose
+bf 23
+main ingredient = carboxymethylcellulose
+weight = 255
+af 87
+main ingredient = starch
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+bf 26
+weight = 256
+weight = 262
+main ingredient = starch
+bf 18
+weight = 262
+bf -1
+main ingredient = ammonia
+weight = 256
+main ingredient = ammonia
+af 76
+bf 21
+af -1
+bf 24
+main ingredient = ammonia
+weight = 299
+weight = 265
+main ingredient = starch
+main ingredient = starch
+bf 16
+weight = 299
+af 48
+af -1
+bf -1
+af 92
+main ingredient = ammonia
+af 61
+main ingredient = ammonia
+bf 31
+bf 52
+af 64
+main ingredient = carboxymethylcellulose
+weight = 279
+bf 24
+af 95
+af 75
+bf 35
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+weight = 282
+weight = 312
+weight = 312
+main ingredient = starch
+af -1
+af -1
+bf -1
+main ingredient = carboxymethylcellulose
+weight = 312
+af 49
+main ingredient = ammonia
+af 104
+bf -1
+af 78
+af 68
+main ingredient = starch
+main ingredient = ammonia
+main ingredient = ammonia
+bf 17
+main ingredient = starch
+weight = 293
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+weight = 314
+bf 19
+main ingredient = starch
+bf 30
+af 57
+main ingredient = starch
+main ingredient = starch
+main ingredient = starch
+main ingredient = starch
+main ingredient = starch
+bf 18
+bf 31
+bf 36
+bf 58
+bf 34
+weight = 323
+weight = 274
+weight = 274
+bf 43
+bf 43
+weight = 274
+main ingredient = carboxymethylcellulose
+af 104
+main ingredient = carboxymethylcellulose
+weight = 339
+weight = 339
+af 75
+bf -1
+af 69
+af 77
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+bf 36
+weight = 310
+bf 48
+bf 22
+bf 22
+main ingredient = starch
+weight = 284
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+af 74
+weight = 347
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+weight = 289
+af 86
+af -1
+bf -1
+bf 25
+af -1
+main ingredient = carboxymethylcellulose
+bf 33
+af 74
+main ingredient = carboxymethylcellulose
+weight = 305
+af 106
+bf -1
+af 82
+weight = 305
+af 114
+main ingredient = carboxymethylcellulose
+weight = 305
+weight = 320
+weight = 351
+main ingredient = carboxymethylcellulose
+bf -1
+main ingredient = starch
+main ingredient = starch
+af -1
+weight = 305
+af 118
+af 76
+main ingredient = ammonia
+af 119
+main ingredient = carboxymethylcellulose
+bf 64
+af 90
+weight = 331
+weight = 307
+bf 50
+bf 35
+main ingredient = ammonia
+main ingredient = ammonia
+weight = 307
+bf -1
+main ingredient = starch
+bf 37
+af 80
+bf -1
+bf 22
+weight = 315
+af 93
+bf 30
+main ingredient = ammonia
+weight = 322
+weight = 322
+af -1
+main ingredient = starch
+weight = 377
+bf -1
+af 123
+bf 53
+weight = 339
+bf 31
+af 124
+main ingredient = ammonia
+bf 55
+bf 37
+main ingredient = carboxymethylcellulose
+af 79
+weight = 340
+main ingredient = ammonia
+bf 24
+weight = 338
+bf 59
+main ingredient = carboxymethylcellulose
+main ingredient = starch
+main ingredient = starch
+main ingredient = starch
+weight = 347
+main ingredient = starch
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = ammonia
+weight = 338
+af 93
+weight = 347
+weight = 338
+af 86
+af 125
+bf 53
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+weight = 401
+af 98
+af 61
+weight = 352
+weight = 352
+weight = 406
+bf 39
+bf 30
+bf 45
+main ingredient = ammonia
+weight = 358
+weight = 348
+main ingredient = ammonia
+bf 28
+weight = 351
+weight = 351
+bf 64
+bf 64
+bf 32
+bf -1
+weight = 351
+af 81
+bf 32
+af 102
+main ingredient = ammonia
+weight = 353
+weight = 353
+weight = 368
+bf 67
+main ingredient = starch
+weight = 353
+af 100
+weight = 368
+bf 39
+weight = 418
+af 103
+bf 70
+bf 37
+af 87
+weight = 360
+af 64
+bf 42
+main ingredient = ammonia
+bf 68
+af 88
+af 134
+bf 32
+bf 31
+main ingredient = carboxymethylcellulose
+bf 39
+main ingredient = carboxymethylcellulose
+af 107
+main ingredient = ammonia
+bf 53
+af 93
+bf -1
+af 99
+af 72
+main ingredient = carboxymethylcellulose
+bf 30
+bf 48
+af 108
+weight = 394
+weight = 394
+af 72
+bf -1
+bf 59
+bf 42
+af 138
+weight = 408
+bf 46
+main ingredient = carboxymethylcellulose
+weight = 412
+weight = 412
+weight = 394
+main ingredient = carboxymethylcellulose
+bf 24
+main ingredient = ammonia
+bf 41
+weight = 417
+main ingredient = ammonia
+af 115
+weight = 396
+af -1
+weight = 396
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+bf 47
+bf 52
+bf 59
+main ingredient = glaze
+main ingredient = glaze
+af 109
+weight = 419
+main ingredient = ammonia
+bf -1
+af 102
+main ingredient = glaze
+weight = 417
+main ingredient = carboxymethylcellulose
+af 122
+af 108
+weight = 417
+weight = 417
+main ingredient = ammonia
+af 89
+af 111
+weight = 430
+af 90
+af 109
+weight = 417
+weight = 417
+weight = 417
+af 146
+af 119
+af 121
+af 115
+main ingredient = starch
+af 148
+weight = 427
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = ammonia
+bf 40
+bf 26
+main ingredient = starch
+main ingredient = starch
+af -1
+main ingredient = ammonia
+bf 36
+bf 44
+bf 34
+weight = 449
+main ingredient = starch
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+bf -1
+af 78
+af 91
+weight = 454
+bf 71
+weight = 456
+main ingredient = ammonia
+bf 33
+af 129
+weight = 456
+bf 48
+af -1
+bf 49
+bf 74
+weight = 464
+weight = 462
+af -1
+bf 44
+af 120
+weight = 474
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+bf 66
+bf 54
+main ingredient = carboxymethylcellulose
+weight = 474
+weight = 481
+af -1
+af 87
+af 152
+weight = 474
+bf 72
+weight = 478
+main ingredient = starch
+bf -1
+bf 82
+af 158
+af 128
+main ingredient = starch
+bf -1
+af 122
+main ingredient = ammonia
+af 129
+main ingredient = starch
+bf 35
+weight = 500
+bf -1
+main ingredient = ammonia
+af 90
+weight = 486
+af 129
+bf 51
+bf 39
+af 99
+bf 54
+bf 45
+af 101
+weight = 487
+bf -1
+weight = 494
+main ingredient = carboxymethylcellulose
+weight = 519
+af 160
+main ingredient = ammonia
+weight = 487
+af -1
+main ingredient = ammonia
+af 104
+bf -1
+bf 86
+af 95
+weight = 498
+af 100
+weight = 528
+af 131
+af 168
+main ingredient = starch
+weight = 505
+af 168
+weight = 487
+bf 48
+bf -1
+af 100
+bf 66
+weight = 514
+bf 39
+main ingredient = starch
+main ingredient = carboxymethylcellulose
+bf 61
+bf 66
+weight = 495
+bf -1
+bf 52
+weight = 536
+main ingredient = carboxymethylcellulose
+bf 54
+af 101
+main ingredient = starch
+weight = 536
+bf 57
+weight = 539
+af 174
+main ingredient = ammonia
+af 128
+weight = 527
+weight = 510
+main ingredient = ammonia
+bf 56
+af 107
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+af 128
+main ingredient = carboxymethylcellulose
+main ingredient = starch
+bf 77
+af 131
+main ingredient = glaze
+af 136
+bf 45
+af 102
+weight = 538
+af 108
+bf 61
+af 108
+weight = 549
+bf 34
+weight = 549
+main ingredient = ammonia
+main ingredient = ammonia
+bf 72
+main ingredient = ammonia
+main ingredient = ammonia
+bf 67
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+weight = 529
+weight = 549
+main ingredient = glaze
+af -1
+weight = 529
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+bf 45
+weight = 529
+weight = 555
+weight = 529
+weight = 555
+bf 80
+bf 65
+af 138
+bf 57
+bf 74
+main ingredient = carboxymethylcellulose
+bf 74
+main ingredient = ammonia
+af 183
+bf 47
+main ingredient = carboxymethylcellulose
+weight = 559
+weight = 582
+af -1
+main ingredient = glaze
+bf 62
+main ingredient = carboxymethylcellulose
+af 133
+af -1
+main ingredient = glaze
+weight = 582
+bf 55
+main ingredient = ammonia
+af 111
+weight = 582
+main ingredient = carboxymethylcellulose
+bf 57
+af 192
+af 137
+af 110
+weight = 584
+main ingredient = carboxymethylcellulose
+weight = 584
+bf 49
+main ingredient = ammonia
+weight = 563
+weight = 563
+bf -1
+weight = 576
+bf 53
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+weight = 584
+af 132
+main ingredient = glaze
+weight = 585
+weight = 576
+af 143
+bf -1
+main ingredient = carboxymethylcellulose
+af 196
+af 152
+af 141
+weight = 583
+main ingredient = glaze
+main ingredient = glaze
+weight = 594
+main ingredient = glaze
+weight = 583
+bf 56
+bf 63
+main ingredient = carboxymethylcellulose
+weight = 584
+main ingredient = ammonia
+af 159
+weight = 594
+weight = 591
+bf 70
+main ingredient = glaze
+main ingredient = ammonia
+main ingredient = glaze
+af 138
+af 197
+weight = 589
+weight = 594
+bf 43
+af 114
+weight = 601
+bf -1
+af 121
+main ingredient = glaze
+bf 58
+af 204
+main ingredient = carboxymethylcellulose
+af 142
+main ingredient = glaze
+main ingredient = ammonia
+bf 62
+bf 82
+bf 49
+bf 81
+af 159
+bf 88
+af 209
+af 145
+weight = 626
+weight = 604
+weight = 604
+bf 49
+bf 54
+weight = 607
+bf -1
+main ingredient = glaze
+af 163
+weight = 632
+bf 59
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+af 148
+af 114
+main ingredient = ammonia
+af 149
+main ingredient = glaze
+weight = 619
+af 115
+bf 65
+af 164
+af 149
+main ingredient = carboxymethylcellulose
+bf 58
+main ingredient = glaze
+af 154
+main ingredient = ammonia
+bf 53
+main ingredient = ammonia
+weight = 645
+af -1
+bf 51
+main ingredient = ammonia
+bf 93
+af 154
+bf -1
+main ingredient = carboxymethylcellulose
+weight = 655
+bf 61
+weight = 636
+weight = 636
+af 216
+weight = 636
+main ingredient = carboxymethylcellulose
+bf 69
+main ingredient = glaze
+af 119
+main ingredient = glaze
+weight = 636
+bf 71
+af -1
+weight = 662
+bf 75
+weight = 667
+af 173
+weight = 667
+af -1
+bf 82
+bf 59
+bf 74
+weight = 636
+bf 77
+af 219
+main ingredient = carboxymethylcellulose
+weight = 660
+main ingredient = glaze
+af 158
+af -1
+weight = 672
+main ingredient = glaze
+af 123
+bf 67
+af 219
+main ingredient = carboxymethylcellulose
+weight = 674
+af -1
+weight = 674
+af -1
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+af 162
+main ingredient = glaze
+weight = 676
+af -1
+main ingredient = glaze
+af 167
+weight = 654
+main ingredient = ammonia
+af 175
+weight = 674
+weight = 674
+af 121
+main ingredient = glaze
+weight = 664
+af -1
+weight = 674
+af 122
+bf -1
+af 173
+weight = 665
+weight = 665
+main ingredient = ammonia
+af 170
+weight = 684
+main ingredient = ammonia
+weight = 674
+weight = 665
+af 184
+af 132
+main ingredient = carboxymethylcellulose
+af 192
+af 201
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+bf -1
+af 178
+af 174
+main ingredient = glaze
+af -1
+af 203
+weight = 693
+bf 59
+weight = 693
+main ingredient = carboxymethylcellulose
+bf 98
+af 204
+weight = 694
+af 184
+af 174
+weight = 694
+af 226
+weight = 694
+af -1
+bf 82
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+bf 74
+main ingredient = carboxymethylcellulose
+weight = 694
+af 178
+weight = 694
+weight = 718
+main ingredient = glaze
+bf 70
+af 141
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+af -1
+bf -1
+af -1
+main ingredient = carboxymethylcellulose
+af 122
+weight = 710
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = glaze
+af 141
+af -1
+weight = 718
+bf 90
+af 125
+af 232
+af 237
+af 244
+af 193
+weight = 714
+bf 78
+af -1
+bf 103
+main ingredient = glaze
+bf 63
+af 206
+main ingredient = carboxymethylcellulose
+weight = 733
+af 130
+bf 66
+weight = 740
+main ingredient = carboxymethylcellulose
+bf 109
+main ingredient = glaze
+bf 77
+weight = 732
+af 138
+main ingredient = glaze
+af -1
+weight = 731
+af -1
+bf 72
+main ingredient = glaze
+main ingredient = glaze
+bf 81
+weight = 740
+bf 75
+bf -1
+weight = 746
+weight = 741
+main ingredient = glaze
+weight = 746
+main ingredient = glaze
+bf 89
+bf 117
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+af 213
+bf 94
+weight = 753
+af 147
+af -1
+weight = 753
+weight = 762
+weight = 762
+bf -1
+af 194
+bf 62
+weight = 758
+af 194
+weight = 758
+weight = 762
+main ingredient = glaze
+weight = 758
+weight = 754
+af 203
+af 203
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+bf 75
+main ingredient = glaze
+main ingredient = ammonia
+af -1
+bf 64
+af 142
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+main ingredient = glaze
+af 156
+bf 78
+weight = 766
+bf 53
+weight = 766
+main ingredient = glaze
+af 164
+main ingredient = glaze
+bf 101
+weight = 764
+bf -1
+weight = 773
+af -1
+weight = 764
+bf 84
+bf 86
+bf 81
+af 173
+bf 88
+bf 90
+main ingredient = ammonia
+af 245
+weight = 794
+weight = 773
+af 145
+weight = 791
+bf -1
+af 151
+main ingredient = glaze
+weight = 791
+main ingredient = glaze
+main ingredient = ammonia
+weight = 794
+main ingredient = ammonia
+bf 92
+af 218
+main ingredient = ammonia
+bf 75
+bf 82
+main ingredient = carboxymethylcellulose
+bf 71
+weight = 792
+weight = 787
+bf -1
+bf 94
+main ingredient = glaze
+af 181
+bf 82
+weight = 802
+weight = 804
+af 211
+af 179
+main ingredient = ammonia
+af -1
+af 187
+af 250
+af 250
+main ingredient = carboxymethylcellulose
+weight = 792
+weight = 816
+weight = 816
+bf 64
+main ingredient = ammonia
+bf 99
+af 258
+bf -1
+main ingredient = ammonia
+weight = 825
+bf 78
+weight = 800
+bf -1
+bf -1
+weight = 811
+af 157
+af 258
+main ingredient = carboxymethylcellulose
+weight = 811
+af 264
+bf -1
+main ingredient = carboxymethylcellulose
+bf 94
+weight = 820
+main ingredient = ammonia
+bf 101
+bf 102
+af -1
+bf 53
+weight = 811
+main ingredient = carboxymethylcellulose
+weight = 827
+weight = 811
+weight = 811
+af 192
+bf 90
+main ingredient = glaze
+af 187
+main ingredient = carboxymethylcellulose
+af 193
+main ingredient = carboxymethylcellulose
+af -1
+main ingredient = glaze
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+weight = 828
+af 165
+af 190
+bf -1
+af 220
+main ingredient = carboxymethylcellulose
+weight = 836
+bf 92
+af 222
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+af 222
+weight = 822
+af 191
+af 218
+af 193
+bf -1
+main ingredient = glaze
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+af -1
+bf 57
+main ingredient = carboxymethylcellulose
+weight = 840
+af 200
+af -1
+bf 65
+af 264
+main ingredient = glaze
+bf -1
+weight = 859
+bf 87
+bf -1
+weight = 832
+bf 101
+main ingredient = carboxymethylcellulose
+weight = 859
+main ingredient = ammonia
+main ingredient = glaze
+af 203
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+af 209
+bf 64
+weight = 832
+af -1
+bf -1
+af 273
+bf 82
+main ingredient = glaze
+af -1
+weight = 857
+weight = 857
+af -1
+af 196
+af 166
+weight = 858
+weight = 868
+weight = 868
+weight = 868
+bf 99
+af 171
+af 278
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+bf 103
+bf 103
+main ingredient = ammonia
+bf 98
+main ingredient = carboxymethylcellulose
+af 223
+weight = 880
+af -1
+bf 90
+main ingredient = glaze
+weight = 868
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+weight = 880
+af 179
+bf 83
+weight = 880
+bf -1
+af -1
+af -1
+weight = 876
+bf 112
+bf 104
+af 218
+weight = 890
+af 188
+main ingredient = glaze
+af 199
+weight = 890
+weight = 890
+bf 109
+af 284
+af -1
+bf -1
+weight = 898
+weight = 857
+main ingredient = ammonia
+af 227
+weight = 866
+bf 121
+af 228
+af -1
+weight = 898
+main ingredient = ammonia
+bf 117
+af 197
+af 197
+main ingredient = ammonia
+af 203
+main ingredient = ammonia
+weight = 899
+main ingredient = ammonia
+bf 118
+af 227
+weight = 916
+af 234
+bf 100
+af 236
+af -1
+af 241
+bf 69
+main ingredient = glaze
+af 239
+af 206
+weight = 916
+weight = 887
+main ingredient = ammonia
+af 286
+bf 123
+af 289
+bf 105
+af 213
+weight = 894
+weight = 927
+weight = 927
+main ingredient = carboxymethylcellulose
+weight = 927
+bf -1
+af -1
+bf 88
+af 208
+af -1
+af 200
+weight = 928
+main ingredient = glaze
+bf 73
+main ingredient = ammonia
+af 220
+bf -1
+weight = 938
+af 243
+weight = 935
+af 227
+weight = 899
+weight = 938
+af -1
+bf 74
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+af 205
+bf 92
+weight = 942
+bf 125
+weight = 946
+af -1
+bf 78
+weight = 955
+main ingredient = glaze
+main ingredient = glaze
+main ingredient = ammonia
+bf -1
+af 246
+af 211
+weight = 955
+af -1
+af -1
+weight = 906
+af 232
+bf 127
+af 239
+main ingredient = carboxymethylcellulose
+af 246
+weight = 960
+bf 105
+weight = 906
+af 250
+bf 130
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+bf 83
+bf 80
+af 247
+af 211
+main ingredient = carboxymethylcellulose
+af 259
+af 215
+af 248
+main ingredient = ammonia
+weight = 927
+af 250
+weight = 966
+weight = 966
+main ingredient = ammonia
+weight = 978
+main ingredient = carboxymethylcellulose
+bf -1
+af 259
+main ingredient = carboxymethylcellulose
+weight = 987
+af 266
+weight = 987
+weight = 987
+weight = 966
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+bf 89
+af 294
+bf 92
+weight = 994
+main ingredient = carboxymethylcellulose
+weight = 994
+weight = 994
+main ingredient = ammonia
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+bf -1
+af -1
+weight = 994
+weight = 971
+main ingredient = carboxymethylcellulose
+af 274
+bf -1
+main ingredient = carboxymethylcellulose
+main ingredient = carboxymethylcellulose
+af 220
+af 297
+af 306
+bf 92
+bf 131
+weight = 994
+main ingredient = glaze
+main ingredient = ammonia
+main ingredient = glaze
+main ingredient = glaze
+bf -1
+weight = 993
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+weight = 993
+main ingredient = carboxymethylcellulose
+bf 111
+weight = 944
+main ingredient = ammonia
+af 223
+weight = 944
+weight = 944
+main ingredient = ammonia
+weight = 996
+main ingredient = carboxymethylcellulose
+weight = 1001
+bf 79
+bf 131
+af 312
+weight = 1007
+main ingredient = glaze
+af -1
+bf 83
+weight = 1007
+af 239
+main ingredient = carboxymethylcellulose
+af 243
+main ingredient = glaze
+weight = 944
+bf 88
+bf 134
+bf 120
+main ingredient = carboxymethylcellulose
+af 278
+bf 92
+bf -1
+bf 136
+weight = 1021
+main ingredient = carboxymethylcellulose
+weight = 1030
+af -1
+weight = 1021
+af 260
+bf -1
+af 247
+bf 97
+main ingredient = ammonia
+main ingredient = ammonia
+bf 125
+main ingredient = glaze
+bf 91
+main ingredient = carboxymethylcellulose
+bf 98
+main ingredient = glaze
+af 218
+main ingredient = glaze
+af -1
+weight = 1024
+bf 143
+weight = 951
+bf 99
+bf 74
+af 255
+bf 81
+bf -1
+main ingredient = carboxymethylcellulose
+weight = 1067
+weight = 951
+af -1
+bf 83
+bf -1
+main ingredient = glaze
+main ingredient = glaze
+bf 84
+main ingredient = glaze
+main ingredient = glaze
+weight = 952
+bf -1
+weight = 1035
+main ingredient = ammonia
+main ingredient = ammonia
+bf 76
+weight = 1067
+bf 105
+main ingredient = glaze
+af 227
+main ingredient = glaze
+af 228
+af 285
+main ingredient = ammonia
+af 319
+main ingredient = glaze
+af -1
+bf -1
+af 255
+weight = 1049
+bf 113
+bf -1
+weight = 1067
+bf 99
+main ingredient = carboxymethylcellulose
+bf 106
+bf 93
+weight = 1068
+main ingredient = glaze
+af 229
+main ingredient = ammonia
+main ingredient = ammonia
+bf 144
+af 237
+bf 130
+main ingredient = carboxymethylcellulose
+weight = 1076
+af 263
+af -1
+af 272
+weight = 1076
+af 268
+main ingredient = carboxymethylcellulose
+weight = 968
+af 269
+main ingredient = starch
+bf 135
+bf 153
+af 243
+main ingredient = carboxymethylcellulose
+af 245
+weight = 1098
+weight = 968
+weight = 1094
+bf 125
+weight = 1098
+af 252
+af 322
+bf 131
+bf 109
+main ingredient = ammonia
+af 328
+main ingredient = carboxymethylcellulose
+bf 99
+main ingredient = ammonia
+main ingredient = ammonia
+weight = 974
+bf 106
+bf 108
+bf 110
+main ingredient = carboxymethylcellulose
+weight = 1117
+main ingredient = ammonia
+main ingredient = ammonia
+af 288
+af 270
+weight = 977
+bf 158
+weight = 977
+bf -1
+main ingredient = ammonia
+af 274
+bf 114
+af -1
+weight = 978
+bf 131
+bf 94
+af -1
+weight = 980
+weight = 1119
+af 261
+af 292
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+main ingredient = glaze
+main ingredient = glaze
+weight = 984
+weight = 984
+weight = 1131
+main ingredient = carboxymethylcellulose
+bf 114
+weight = 984
+weight = 1131
+weight = 1119
+main ingredient = ammonia
+af 272
+af 282
+main ingredient = glaze
+bf 139
+weight = 1131
+af 290
+af 330
+main ingredient = ammonia
+main ingredient = glaze
+af 266
+bf 158
+main ingredient = carboxymethylcellulose
+bf 118
+af -1
+af 224
+weight = 990
+af 277
+af -1
+af 332
+weight = 1156
+bf -1
+bf 110
+bf 117
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = ammonia
+af 295
+weight = 1140
+af 285
+main ingredient = glaze
+bf 83
+weight = 993
+weight = 1171
+main ingredient = ammonia
+main ingredient = ammonia
+main ingredient = carboxymethylcellulose
+af -1
+main ingredient = glaze
+bf -1
+bf 141
+main ingredient = glaze
+af -1
+main ingredient = glaze
+main ingredient = ammonia
+weight = 1147
+af -1
+weight = 1147
+weight = 1147
+weight = 1173
+af 301
+af 233
+bf 146
+main ingredient = glaze
+af 266
+main ingredient = ammonia
+weight = 1178
+weight = 1178
+bf 123
+af 333
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+weight = 1178
+bf 97
+af -1
+bf 83
+main ingredient = carboxymethylcellulose
+af 335
+bf 120
+main ingredient = glaze
+af 267
+af 297
+af 233
+weight = 1020
+af 298
+main ingredient = carboxymethylcellulose
+bf 89
+bf 112
+af 306
+af 340
+bf 124
+af 288
+main ingredient = ammonia
+af 309
+weight = 1165
+weight = 1029
+bf 119
+weight = 1165
+weight = 1203
+af 268
+bf 95
+main ingredient = carboxymethylcellulose
+bf 93
+weight = 1172
+bf 117
+bf 82
+weight = 1038
+af 289
+bf 150
+af -1
+weight = 1209
+bf 142
+main ingredient = ammonia
+bf 101
+weight = 1040
+af 315
+main ingredient = ammonia
+af -1
+bf 129
+weight = 1184
+main ingredient = glaze
+weight = 1184
+weight = 1184
+af 236
+main ingredient = ammonia
+af 237
+weight = 1055
+main ingredient = ammonia
+bf 67
+af 274
+main ingredient = ammonia
+bf 106
+af -1
+af 318
+af 295
+af 275
+bf 146
+af 308
+af 342
+main ingredient = ammonia
+weight = 1220
+af 239
+bf 112
+af 280
+weight = 1201
+weight = 1220
+main ingredient = carboxymethylcellulose
+main ingredient = ammonia
+main ingredient = ammonia
+af 343
+main ingredient = glaze
+main ingredient = carboxymethylcellulose
+weight = 1075
+af 299
+main ingredient = ammonia
+weight = 1202
+main ingredient = glaze
+af -1
+weight = 1202
+weight = 1202
+main ingredient = carboxymethylcellulose
+main ingredient = glaze
+weight = 1224
+af 352
+af 239
+weight = 1211
+bf 96
+weight = 1212
+main ingredient = carboxymethylcellulose
+af 317
+af -1
+weight = 1233
+af -1
+main ingredient = ammonia
+af 302
+weight = 1212
+af 244
+weight = 1080
+bf 158
+af 361
+bf 73
+bf 124
+weight = 1248
+weight = 1080
+main ingredient = carboxymethylcellulose
+af 307
+weight = 1227
+bf 114
+weight = 1253
+af 285
+af 325
+main ingredient = glaze
+main ingredient = ammonia
+weight = 1261
+bf 129
+af 250
+af 310
+af 321
+weight = 1232
