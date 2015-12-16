@@ -1,0 +1,20 @@
+lock 2 new pwd: 1099
+isLocked 1 UNLOCK
+lock 3 new pwd: 3489
+isLocked 0 UNLOCK
+isLocked 2 LOCKED
+isLocked 3 LOCKED
+lock 1 new pwd: 2897
+lock 0 new pwd: 5767
+isLocked 1 LOCKED
+isLocked 1 LOCKED
+isLocked 0 LOCKED
+isLocked 2 LOCKED
+isLocked 1 LOCKED
+isLocked 1 LOCKED
+isLocked 0 LOCKED
+isLocked 1 LOCKED
+isLocked 0 LOCKED
+isLocked 0 LOCKED
+isLocked 3 LOCKED
+isLocked 2 LOCKED
