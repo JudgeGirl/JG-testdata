@@ -1,0 +1,8 @@
+account, age, zipcode, balance
+0, 24, 461, 11400
+2, 24, 402, 15100
+6, 23, 712, 9200
+zipcode, sum_balance
+402, 15100
+461, 11400
+712, 9200

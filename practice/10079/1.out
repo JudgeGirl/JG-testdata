@@ -1,0 +1,38 @@
++- root
+   |
+   +- home
+   |  |
+   |  +- morris
+   |  |  |
+   |  |  +- workspace
+   |  |
+   |  +- stephanie
+   |
+   +- etc
+   |
+   +- bin
+      |
+      +- arch
+      |
+      +- cat
++- morris
+   |
+   +- workspace
++- root
+   |
+   +- home
+   |  |
+   |  +- morris
+   |  |  |
+   |  |  +- workspace
+   |  |
+   |  +- stephanie
+   |
+   +- etc
+   |
+   +- bin
+      |
+      +- arch
+      |
+      +- cat
++- workspace
